@@ -7,6 +7,7 @@
 | 2 | [ABC106/B](https://atcoder.jp/contests/abc106/tasks/abc106_b) | 全探索:全列挙 | | [ruby](ruby/abc106_b.rb) |
 | 3 | [ABC122/B](https://atcoder.jp/contests/abc122/tasks/abc122_b) | 全探索:全列挙 | 尺取法 | [ruby](ruby/abc122_b.rb) |
 | 4 | [PAKENCAMP-2019-DAY3/C](https://atcoder.jp/contests/pakencamp-2019-day3/tasks/pakencamp_2019_day3_c) | 全探索:全列挙 | | [ruby](ruby/pakencamp-2019-day3_c.rb) |
+| 24 | [ALDS1_11/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_B&lang=ja) | 深さ優先探索 | | [ruby](ruby/alds1_11_b.rb) |
 | 26 | [ABC138/D](https://atcoder.jp/contests/abc138/tasks/abc138_d) | 深さ優先探索 | | [ruby](ruby/abc138_d.rb) |
 | 27 | [JOI2009YO/D](https://atcoder.jp/contests/joi2009yo/tasks/joi2009yo_d) | 深さ優先探索 | | [ruby](ruby/joi2009yo_d.rb) |
 | 34 | [ALDS1_10/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_10_A&lang=ja) | 動的計画法:ナップザックDP | | [ruby](ruby/alds1_10_a.rb) |
