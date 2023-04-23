@@ -12,3 +12,4 @@
 | 27 | [JOI2009YO/D](https://atcoder.jp/contests/joi2009yo/tasks/joi2009yo_d) | 深さ優先探索 | | [ruby](ruby/joi2009yo_d.rb) |
 | 34 | [ALDS1_10/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_10_A&lang=ja) | 動的計画法:ナップザックDP | | [ruby](ruby/alds1_10_a.rb) |
 | 35 | [DPL_1/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_B&lang=ja) | 動的計画法:ナップザックDP | | [ruby](ruby/alds1_10_a.rb) |
+| 65 | [GRL_2/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_2_A&lang=ja) | 最小全域木 | クラスカル法(貪欲法 + Union Find) | [ruby](ruby/grl_2_a.rb) |
