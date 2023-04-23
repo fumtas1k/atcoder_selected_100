@@ -14,3 +14,4 @@
 | 35 | [DPL_1/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_B&lang=ja) | 動的計画法:ナップザックDP | | [ruby](ruby/alds1_10_a.rb) |
 | 65 | [GRL_2/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_2_A&lang=ja) | 最小全域木 | クラスカル法(貪欲法 + Union Find) | [ruby](ruby/grl_2_a.rb) |
 | 72 | [ABC034/C](https://atcoder.jp/contests/abc034/tasks/abc034_c) | 逆元 | | [ruby](ruby/abc034_c.rb) |
+| 76 | [NIKKEI2019_FINAL/A](https://atcoder.jp/contests/nikkei2019-final/tasks/nikkei2019_final_a) | 累積和 | | [ruby](ruby/nikkei2019_final_a.rb) |
