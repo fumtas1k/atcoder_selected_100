@@ -1,3 +1,7 @@
+# 6
+# SUMITRUST2019/D
+# 全探索:工夫して通り数を減らす全列挙
+
 _ = gets.to_i
 S = gets.chomp
 

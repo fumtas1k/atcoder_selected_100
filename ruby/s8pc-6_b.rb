@@ -1,3 +1,7 @@
+# 8
+# S8PC-6/B
+# 全探索:工夫して通り数を減らす全列挙
+
 N = gets.to_i
 A, B = Array.new(N) { gets.split.map(&:to_i) }.transpose
 
