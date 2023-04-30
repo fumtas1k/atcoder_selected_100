@@ -8,6 +8,7 @@
 | 3 | [ABC122/B](https://atcoder.jp/contests/abc122/tasks/abc122_b) | 全探索:全列挙 | 尺取法 | [ruby](ruby/abc122_b.rb) |
 | 4 | [PAKENCAMP-2019-DAY3/C](https://atcoder.jp/contests/pakencamp-2019-day3/tasks/pakencamp_2019_day3_c) | 全探索:全列挙 | | [ruby](ruby/pakencamp-2019-day3_c.rb) |
 | 5 | [ABC095/C](https://atcoder.jp/contests/abc095/tasks/arc096_a) | 全探索:工夫して通り数を減らす全列挙 | | [ruby](ruby/abc095_c.rb) |
+| 6 | [SUMITRUST2019/D](https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_d) | 全探索:工夫して通り数を減らす全列挙 | | [ruby](ruby/sumitrust2019_d_01.rb), [ruby](ruby/sumitrust2019_d_02.rb) |
 | 24 | [ALDS1-11/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_B&lang=ja) | 深さ優先探索 | | [ruby](ruby/alds1_11_b.rb) |
 | 26 | [ABC138/D](https://atcoder.jp/contests/abc138/tasks/abc138_d) | 深さ優先探索 | | [ruby](ruby/abc138_d.rb) |
 | 27 | [JOI2009YO/D](https://atcoder.jp/contests/joi2009yo/tasks/joi2009yo_d) | 深さ優先探索 | | [ruby](ruby/joi2009yo_d.rb) |
