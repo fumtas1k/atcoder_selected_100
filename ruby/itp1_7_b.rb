@@ -1,6 +1,6 @@
 # 1
 # ITP_1_7/B
-# 全探索：全列挙
+# 全探索:全列挙
 
 loop do
   n, x = gets.split.map(&:to_i)

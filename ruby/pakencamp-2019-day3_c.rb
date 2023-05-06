@@ -1,6 +1,6 @@
 # 4
 # PAKENCAMP-2019-DAY3/C
-# 全探索：全列挙
+# 全探索:全列挙
 
 N, M = gets.split.map(&:to_i)
 A = Array.new(N) { gets.split.map(&:to_i) }

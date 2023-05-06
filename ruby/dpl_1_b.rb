@@ -1,6 +1,6 @@
 # 35
 # DPL_1/B
-# 動的計画法：ナップザックDP
+# 動的計画法:ナップザックDP
 
 N, W = gets.split.map(&:to_i)
 VW = Array.new(N) { gets.split.map(&:to_i) }
