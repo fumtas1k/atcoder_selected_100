@@ -14,6 +14,8 @@
 | 10 | [ALDS1-5/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_5_A&lang=ja) | 全探索:ビット全探索 | | [ruby](ruby/alds1_5_a.rb) |
 | 11 | [ABC128/C](https://atcoder.jp/contests/abc128/tasks/abc128_c) | 全探索:ビット全探索 | | [ruby](ruby/abc128_c.rb) |
 | 12 | [ABC002/D](https://atcoder.jp/contests/abc002/tasks/abc002_4) | 全探索:ビット全探索 | | [ruby](ruby/abc002_d.rb) |
+| 15 | [ABC145/C](https://atcoder.jp/contests/abc145/tasks/abc145_c) | 全探索:順列全探索 | | [ruby](ruby/abc145_c.rb) |
+| 16 | [ABC150/C](https://atcoder.jp/contests/abc150/tasks/abc150_c) | 全探索:順列全探索 | | [ruby](ruby/abc150_c.rb) |
 | 24 | [ALDS1-11/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_B&lang=ja) | 深さ優先探索 | | [ruby](ruby/alds1_11_b.rb) |
 | 26 | [ABC138/D](https://atcoder.jp/contests/abc138/tasks/abc138_d) | 深さ優先探索 | | [ruby](ruby/abc138_d.rb) |
 | 27 | [JOI2009YO/D](https://atcoder.jp/contests/joi2009yo/tasks/joi2009yo_d) | 深さ優先探索 | | [ruby](ruby/joi2009yo_d.rb) |
