@@ -10,6 +10,7 @@
 | 5 | [ABC095/C](https://atcoder.jp/contests/abc095/tasks/arc096_a) | 全探索:工夫して通り数を減らす全列挙 | | [ruby](ruby/abc095_c.rb) |
 | 6 | [SUMITRUST2019/D](https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_d) | 全探索:工夫して通り数を減らす全列挙 | | [ruby](ruby/sumitrust2019_d_01.rb), [ruby](ruby/sumitrust2019_d_02.rb) |
 | 8 | [S8PC-6/B](https://atcoder.jp/contests/s8pc-6/tasks/s8pc_6_b) | 全探索:工夫して通り数を減らす全列挙 | | [ruby](ruby/s8pc-6_b.rb) |
+| 9 | [JOI2008YO/D](https://atcoder.jp/contests/joi2008yo/tasks/joi2008yo_d) | 全探索:工夫して通り数を減らす全列挙 | | [ruby](ruby/joi2008yo_d.rb) |
 | 10 | [ALDS1-5/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_5_A&lang=ja) | 全探索:ビット全探索 | | [ruby](ruby/alds1_5_a.rb) |
 | 11 | [ABC128/C](https://atcoder.jp/contests/abc128/tasks/abc128_c) | 全探索:ビット全探索 | | [ruby](ruby/abc128_c.rb) |
 | 12 | [ABC002/D](https://atcoder.jp/contests/abc002/tasks/abc002_4) | 全探索:ビット全探索 | | [ruby](ruby/abc002_d.rb) |
