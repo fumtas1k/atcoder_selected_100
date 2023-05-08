@@ -14,7 +14,7 @@ class UnionFind
     parents[u] = root(parents[u])
   end
 
-  def union(u, v)
+  def unit(u, v)
     ru, rv = root(u), root(v)
     return if ru == rv
     parents[rv] = ru
@@ -31,7 +31,7 @@ AB = Array.new(M) { gets.split.map(&:to_i).map(&:pred) }
 ans = M.times.count do |i|
   uf = UnionFind.new(N)
   M.times do |j|
-    uf.union(*AB[j]) unless i == j
+    uf.unit(*AB[j]) unless i == j
   end
   [*1 ... N].any? { !uf.same?(_1, 0) }
 end
