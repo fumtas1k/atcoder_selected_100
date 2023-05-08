@@ -8,7 +8,7 @@
 | 3 | [ABC122/B](https://atcoder.jp/contests/abc122/tasks/abc122_b) | 全探索:全列挙 | 尺取法 | [ruby](ruby/abc122_b.rb) |
 | 4 | [PAKENCAMP-2019-DAY3/C](https://atcoder.jp/contests/pakencamp-2019-day3/tasks/pakencamp_2019_day3_c) | 全探索:全列挙 | | [ruby](ruby/pakencamp-2019-day3_c.rb) |
 | 5 | [ABC095/C](https://atcoder.jp/contests/abc095/tasks/arc096_a) | 全探索:工夫して通り数を減らす全列挙 | | [ruby](ruby/abc095_c.rb) |
-| 6 | [SUMITRUST2019/D](https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_d) | 全探索:工夫して通り数を減らす全列挙 | | [ruby](ruby/sumitrust2019_d_01.rb), [ruby](ruby/sumitrust2019_d_02.rb) |
+| 6 | [SUMITRUST2019/D](https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_d) | 全探索:工夫して通り数を減らす全列挙 | | [ruby1](ruby/sumitrust2019_d_01.rb), [ruby2](ruby/sumitrust2019_d_02.rb) |
 | 8 | [S8PC-6/B](https://atcoder.jp/contests/s8pc-6/tasks/s8pc_6_b) | 全探索:工夫して通り数を減らす全列挙 | | [ruby](ruby/s8pc-6_b.rb) |
 | 9 | [JOI2008YO/D](https://atcoder.jp/contests/joi2008yo/tasks/joi2008yo_d) | 全探索:工夫して通り数を減らす全列挙 | | [ruby](ruby/joi2008yo_d.rb) |
 | 10 | [ALDS1-5/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_5_A&lang=ja) | 全探索:ビット全探索 | | [ruby](ruby/alds1_5_a.rb) |
@@ -30,4 +30,4 @@
 | 72 | [ABC034/C](https://atcoder.jp/contests/abc034/tasks/abc034_c) | 逆元 | | [ruby](ruby/abc034_c.rb) |
 | 76 | [NIKKEI2019-FINAL/A](https://atcoder.jp/contests/nikkei2019-final/tasks/nikkei2019_final_a) | 累積和 | | [ruby](ruby/nikkei2019_final_a.rb) |
 | 81 | [ABC014/C](https://atcoder.jp/contests/abc014/tasks/abc014_3) | 累積和:いもす法 | | [ruby](ruby/abc014_c.rb) |
-| 86 | [ABC075/C](https://atcoder.jp/contests/abc075/tasks/abc075_c) | Union Find | | [ruby](ruby/abc075_c.rb) |
+| 86 | [ABC075/C](https://atcoder.jp/contests/abc075/tasks/abc075_c) | Union Find | DFS, Low Link | [ruby1](ruby/abc075_c_1.rb), [ruby2](ruby/abc075_c_2.rb) |
