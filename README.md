@@ -30,4 +30,5 @@
 | 72 | [ABC034/C](https://atcoder.jp/contests/abc034/tasks/abc034_c) | 逆元 | | [ruby](ruby/abc034_c.rb) |
 | 76 | [NIKKEI2019-FINAL/A](https://atcoder.jp/contests/nikkei2019-final/tasks/nikkei2019_final_a) | 累積和 | | [ruby](ruby/nikkei2019_final_a.rb) |
 | 81 | [ABC014/C](https://atcoder.jp/contests/abc014/tasks/abc014_3) | 累積和:いもす法 | | [ruby](ruby/abc014_c.rb) |
-| 86 | [ABC075/C](https://atcoder.jp/contests/abc075/tasks/abc075_c) | Union Find | DFS, Low Link | [ruby1](ruby/abc075_c_1.rb), [ruby2](ruby/abc075_c_2.rb) |
+| 86 | [ABC075/C](https://atcoder.jp/contests/abc075/tasks/abc075_c) | Union Find | DFS, Low Link | [ruby1](ruby/abc075_c_01.rb), [ruby2](ruby/abc075_c_02.rb) |
+| 87 | [ABC120/D](https://atcoder.jp/contests/abc120/tasks/abc120_d) | Union Find | | [ruby](ruby/abc120_d.rb) |
