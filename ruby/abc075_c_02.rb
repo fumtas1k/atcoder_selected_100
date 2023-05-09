@@ -6,10 +6,8 @@
 
 N, M = gets.split.map(&:to_i)
 G = Array.new(N) { [] }
-AB = []
 M.times do
   a, b = gets.split.map(&:to_i).map(&:pred)
-  AB << [a, b]
   G[a] << b
   G[b] << a
 end
