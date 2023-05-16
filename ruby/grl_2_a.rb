@@ -1,5 +1,5 @@
 # 64
-# GRL_2/A
+# GRL-2/A
 # 最小全域木
 # 貪欲法
 # Union Find

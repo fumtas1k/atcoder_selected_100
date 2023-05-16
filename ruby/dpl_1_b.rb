@@ -1,5 +1,5 @@
 # 35
-# DPL_1/B
+# DPL-1/B
 # 動的計画法:ナップザックDP
 
 N, W = gets.split.map(&:to_i)

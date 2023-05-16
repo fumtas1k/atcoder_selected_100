@@ -1,5 +1,5 @@
 # 28
-# ALDS1_11/C
+# ALDS1-11/C
 # 幅優先探索
 
 N = gets.to_i

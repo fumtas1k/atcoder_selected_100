@@ -1,5 +1,5 @@
 # 34
-# ALDS1_10/A
+# ALDS1-10/A
 # 動的計画法:ナップザックDP
 
 n = gets.to_i

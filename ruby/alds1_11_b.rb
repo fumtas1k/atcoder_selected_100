@@ -1,5 +1,5 @@
 # 24
-# ALDS1_11/B
+# ALDS1-11/B
 # 深さ優先探索
 
 n = gets.to_i
