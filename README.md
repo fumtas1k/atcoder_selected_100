@@ -24,7 +24,8 @@
 | 29 | [ABC007/C](https://atcoder.jp/contests/abc007/tasks/abc007_3) | 幅優先探索 | | [ruby](ruby/abc007_c.rb) |
 | 34 | [ALDS1-10/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_10_A&lang=ja) | 動的計画法:ナップザックDP | | [ruby](ruby/alds1_10_a.rb) |
 | 35 | [DPL-1/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_B&lang=ja) | 動的計画法:ナップザックDP | | [ruby](ruby/dpl_1_b.rb) |
-| 49 | [DPL-2/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_2_A&lang=ja) | 動的計画法:bitDP | | [ruby](ruby/dpl_2_a.rb) |
+| 49 | [DPL-2/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_2_A&lang=ja) | 動的計画法:bitDP | 巡回セールスマン問題 | [ruby](ruby/dpl_2_a.rb) |
+| 50 | [S8PC-1/G](https://atcoder.jp/contests/s8pc-1/tasks/s8pc_1_g) | 動的計画法:bitDP | 巡回セールスマン問題 | [ruby](ruby/s8pc_1_g.rb) |
 | 53 | [DPL-1/D](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_D&lang=ja) | 動的計画法:その他 | 最長増加部分列(LIS) | [ruby](ruby/dpl_1_d.rb) |
 | 54 | [ABC006/D](https://atcoder.jp/contests/abc006/tasks/abc006_4) | 動的計画法:その他 | 最長増加部分列(LIS) | [ruby](ruby/abc006_d.rb) |
 | 56 | [GRL-1/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_1_A&lang=ja) | 最短経路問題 | ダイクストラ法 | [ruby](ruby/grl_1_a.rb) |

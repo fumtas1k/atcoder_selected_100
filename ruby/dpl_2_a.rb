@@ -1,6 +1,7 @@
 # 49
 # DPL-2/A
 # 動的計画法:bitDP
+# 巡回セールスマン問題
 
 V, E = gets.split.map(&:to_i)
 G = Array.new(V) { [Float::INFINITY ] * V }
