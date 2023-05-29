@@ -7,6 +7,7 @@ M = Array.new(N) { gets.split.map(&:to_i) }
 dp = Array.new(N) { [Float::INFINITY] * N }
 N.times {|i| dp[i][i] = 0 }
 
+# 近接部分から計算していく
 (1 ... N).each do |di|
   (0 ... N - di).each do |i|
     j = i + di
