@@ -24,6 +24,9 @@
 | 29 | [ABC007/C](https://atcoder.jp/contests/abc007/tasks/abc007_3) | 幅優先探索 | | [ruby](ruby/abc007_c.rb) |
 | 34 | [ALDS1-10/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_10_A&lang=ja) | 動的計画法:ナップザックDP | | [ruby](ruby/alds1_10_a.rb) |
 | 35 | [DPL-1/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_B&lang=ja) | 動的計画法:ナップザックDP | | [ruby](ruby/dpl_1_b.rb) |
+| 36 | [DPL-1/C](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_C&lang=ja) | 動的計画法:ナップザックDP | | [ruby](ruby/dpl_1_c.rb) |
+| 37 | [DPL-1/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_A&lang=ja) | 動的計画法:ナップザックDP | | [ruby](ruby/dpl_1_a.rb) |
+| 38 | [ALDS1-10/C](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_10_C&lang=ja) | 動的計画法:ナップザックDP | | [ruby](ruby/alds1_10_c.rb) |
 | 46 | [ALDS1-10/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_10_B&lang=ja) | 動的計画法:区間DP | 連鎖行列積 | [ruby](ruby/alds1_10_b.rb) |
 | 47 | [JOI2015HO/B](https://atcoder.jp/contests/joi2015ho/tasks/joi2015ho_b) | 動的計画法:区間DP | | [ruby](ruby/joi2015ho_b.rb) |
 | 48 | [AOJ-1611](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1611&lang=jp) | 動的計画法:区間DP | ダルマ落とし | [ruby](ruby/aoj_1611.rb) |
