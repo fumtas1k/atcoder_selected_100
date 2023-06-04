@@ -63,4 +63,4 @@
 | I | [Coins](https://atcoder.jp/contests/dp/tasks/dp_i) | 確率DP | | [ruby](educational_dp/ruby/i.rb) |
 | J | [Sushi](https://atcoder.jp/contests/dp/tasks/dp_j) |  期待値DP | | [ruby](educational_dp/ruby/j.rb) |
 | K | [Stones](https://atcoder.jp/contests/dp/tasks/dp_j) | | ゲーム必勝法 | [ruby](educational_dp/ruby/k.rb) |
-| L | [Stones](https://atcoder.jp/contests/dp/tasks/dp_l) | 区間DP | バックトラック法 | [ruby](educational_dp/ruby/l.rb) |
+| L | [Deque](https://atcoder.jp/contests/dp/tasks/dp_l) | 区間DP | バックトラック法 | [ruby](educational_dp/ruby/l.rb) |
