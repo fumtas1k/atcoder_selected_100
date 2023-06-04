@@ -60,4 +60,5 @@
 | F | [LCS](https://atcoder.jp/contests/dp/tasks/dp_f) | | 最長共通部分列(LCS), 復元 | [ruby](educational_dp/ruby/f.rb) |
 | G | [Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g) | | トポロジカルソート | [ruby](educational_dp/ruby/g.rb) |
 | H | [Grid1](https://atcoder.jp/contests/dp/tasks/dp_h) | |  | [ruby](educational_dp/ruby/h.rb) |
-| I | [Coins](https://atcoder.jp/contests/dp/tasks/dp_i) | |  | [ruby](educational_dp/ruby/i.rb) |
+| I | [Coins](https://atcoder.jp/contests/dp/tasks/dp_i) | | 確率DP | [ruby](educational_dp/ruby/i.rb) |
+| J | [Sushi](https://atcoder.jp/contests/dp/tasks/dp_j) | | 期待値DP | [ruby](educational_dp/ruby/j.rb) |
