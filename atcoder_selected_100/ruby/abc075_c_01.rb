@@ -14,7 +14,7 @@ class UnionFind
     parents[u] = root(parents[u])
   end
 
-  def unit(u, v)
+  def unite(u, v)
     ru, rv = root(u), root(v)
     return if ru == rv
     parents[rv] = ru

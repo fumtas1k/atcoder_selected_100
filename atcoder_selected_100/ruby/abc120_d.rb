@@ -15,7 +15,7 @@ class UnionFind
     parents[u] = root(parents[u])
   end
 
-  def unit(u, v)
+  def unite(u, v)
     ru, rv = root(u), root(v)
     return 0 if ru == rv
     comb = cnts[ru] * cnts[rv]
