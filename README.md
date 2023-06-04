@@ -62,3 +62,4 @@
 | H | [Grid1](https://atcoder.jp/contests/dp/tasks/dp_h) | |  | [ruby](educational_dp/ruby/h.rb) |
 | I | [Coins](https://atcoder.jp/contests/dp/tasks/dp_i) | | 確率DP | [ruby](educational_dp/ruby/i.rb) |
 | J | [Sushi](https://atcoder.jp/contests/dp/tasks/dp_j) | | 期待値DP | [ruby](educational_dp/ruby/j.rb) |
+| K | [Stones](https://atcoder.jp/contests/dp/tasks/dp_j) | | ゲーム必勝法 | [ruby](educational_dp/ruby/k.rb) |
