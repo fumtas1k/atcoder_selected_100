@@ -55,11 +55,12 @@
 | A | [Frog1](https://atcoder.jp/contests/dp/tasks/dp_a) | | | [ruby](educational_dp/ruby/a.rb) |
 | B | [Frog2](https://atcoder.jp/contests/dp/tasks/dp_b) | | | [ruby](educational_dp/ruby/b.rb) |
 | C | [Vacation](https://atcoder.jp/contests/dp/tasks/dp_c) | | | [ruby](educational_dp/ruby/c.rb) |
-| D | [Knapsack1](https://atcoder.jp/contests/dp/tasks/dp_d) | | ナップザックDP | [ruby](educational_dp/ruby/d.rb) |
-| E | [Knapsack2](https://atcoder.jp/contests/dp/tasks/dp_e) | | ナップザックDP | [ruby](educational_dp/ruby/e.rb) |
+| D | [Knapsack1](https://atcoder.jp/contests/dp/tasks/dp_d) | ナップザックDP | | [ruby](educational_dp/ruby/d.rb) |
+| E | [Knapsack2](https://atcoder.jp/contests/dp/tasks/dp_e) | ナップザックDP | | [ruby](educational_dp/ruby/e.rb) |
 | F | [LCS](https://atcoder.jp/contests/dp/tasks/dp_f) | | 最長共通部分列(LCS), 復元 | [ruby](educational_dp/ruby/f.rb) |
 | G | [Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g) | | トポロジカルソート | [ruby](educational_dp/ruby/g.rb) |
 | H | [Grid1](https://atcoder.jp/contests/dp/tasks/dp_h) | |  | [ruby](educational_dp/ruby/h.rb) |
-| I | [Coins](https://atcoder.jp/contests/dp/tasks/dp_i) | | 確率DP | [ruby](educational_dp/ruby/i.rb) |
-| J | [Sushi](https://atcoder.jp/contests/dp/tasks/dp_j) | | 期待値DP | [ruby](educational_dp/ruby/j.rb) |
+| I | [Coins](https://atcoder.jp/contests/dp/tasks/dp_i) | 確率DP | | [ruby](educational_dp/ruby/i.rb) |
+| J | [Sushi](https://atcoder.jp/contests/dp/tasks/dp_j) |  期待値DP | | [ruby](educational_dp/ruby/j.rb) |
 | K | [Stones](https://atcoder.jp/contests/dp/tasks/dp_j) | | ゲーム必勝法 | [ruby](educational_dp/ruby/k.rb) |
+| L | [Stones](https://atcoder.jp/contests/dp/tasks/dp_l) | 区間DP | バックトラック法 | [ruby](educational_dp/ruby/l.rb) |
