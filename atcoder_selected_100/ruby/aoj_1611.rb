@@ -2,6 +2,7 @@
 # AOJ-1611
 # 動的計画法:区間DP
 # ダルマ落とし
+# バックトラック法
 
 until (n = gets.to_i).zero?
   w = gets.split.map(&:to_i)

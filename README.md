@@ -31,7 +31,7 @@
 | 39 | [JOI2011YO/D](https://atcoder.jp/contests/joi2011yo/tasks/joi2011yo_d) | 動的計画法:ナップザックDP | | [ruby](atcoder_selected_100/ruby/joi2011yo_d.rb) |
 | 46 | [ALDS1-10/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_10_B&lang=ja) | 動的計画法:区間DP | 連鎖行列積 | [ruby](atcoder_selected_100/ruby/alds1_10_b.rb) |
 | 47 | [JOI2015HO/B](https://atcoder.jp/contests/joi2015ho/tasks/joi2015ho_b) | 動的計画法:区間DP | | [ruby](atcoder_selected_100/ruby/joi2015ho_b.rb) |
-| 48 | [AOJ-1611](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1611&lang=jp) | 動的計画法:区間DP | ダルマ落とし | [ruby](atcoder_selected_100/ruby/aoj_1611.rb) |
+| 48 | [AOJ-1611](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1611&lang=jp) | 動的計画法:区間DP | ダルマ落とし, バックトラック法 | [ruby](atcoder_selected_100/ruby/aoj_1611.rb) |
 | 49 | [DPL-2/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_2_A&lang=ja) | 動的計画法:bitDP | 巡回セールスマン問題 | [ruby](atcoder_selected_100/ruby/dpl_2_a.rb) |
 | 50 | [S8PC-1/G](https://atcoder.jp/contests/s8pc-1/tasks/s8pc_1_g) | 動的計画法:bitDP | 巡回セールスマン問題 | [ruby](atcoder_selected_100/ruby/s8pc_1_g.rb) |
 | 51 | [JOI2014YO/D](https://atcoder.jp/contests/joi2014yo/tasks/joi2014yo_d) | 動的計画法:bitDP |  | [ruby](atcoder_selected_100/ruby/joi2014yo_d.rb) |
