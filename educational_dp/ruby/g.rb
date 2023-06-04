@@ -7,8 +7,10 @@ M.times do
   G[x] << y
 end
 
+# 有効辺の向けられた数
 allows = [0] * N
 G.flatten.each { allows[_1] += 1 }
+# 有効辺の向けられた数が0なのは始点となるもの
 next_candicates = N.times.filter { allows[_1].zero? }
 
 depth = [0] * N
