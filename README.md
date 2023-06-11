@@ -68,3 +68,4 @@
 | N | [Slimes](https://atcoder.jp/contests/dp/tasks/dp_n) | 区間DP | 累積和 | [ruby](educational_dp/ruby/n.rb) |
 | O | [Matching](https://atcoder.jp/contests/dp/tasks/dp_o) |  | | [ruby](educational_dp/ruby/o.rb) |
 | P | [Independent Set](https://atcoder.jp/contests/dp/tasks/dp_p) | 木DP | | [ruby](educational_dp/ruby/p.rb) |
+| Q | [Flowers](https://atcoder.jp/contests/dp/tasks/dp_q) | | セグメント木 | [ruby](educational_dp/ruby/q.rb) |
