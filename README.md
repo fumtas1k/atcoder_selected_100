@@ -66,3 +66,5 @@
 | L | [Deque](https://atcoder.jp/contests/dp/tasks/dp_l) | 区間DP | バックトラック法 | [ruby](educational_dp/ruby/l.rb) |
 | M | [Candies](https://atcoder.jp/contests/dp/tasks/dp_m) |  | 累積和 | [ruby](educational_dp/ruby/m.rb) |
 | N | [Slimes](https://atcoder.jp/contests/dp/tasks/dp_n) | 区間DP | 累積和 | [ruby](educational_dp/ruby/n.rb) |
+| O | [Matching](https://atcoder.jp/contests/dp/tasks/dp_o) |  | | [ruby](educational_dp/ruby/o.rb) |
+| P | [Independent Set](https://atcoder.jp/contests/dp/tasks/dp_p) | 木DP | | [ruby](educational_dp/ruby/p.rb) |
