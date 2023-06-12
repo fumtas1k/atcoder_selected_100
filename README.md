@@ -40,6 +40,7 @@
 | 54 | [ABC006/D](https://atcoder.jp/contests/abc006/tasks/abc006_4) | 動的計画法:その他 | 最長増加部分列(LIS) | [ruby](atcoder_selected_100/ruby/abc006_d.rb) |
 | 56 | [GRL-1/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_1_A&lang=ja) | 最短経路問題 | ダイクストラ法 | [ruby](atcoder_selected_100/ruby/grl_1_a.rb) |
 | 60 | [GRL-1/C](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_1_C&lang=ja) | 最短経路問題 | ワーシャルフロイド法 | [ruby](atcoder_selected_100/ruby/grl_1_c.rb) |
+| 61 | [ABC012/D](https://atcoder.jp/contests/abc012/tasks/abc012_4) | 最短経路問題 | ワーシャルフロイド法 | [ruby](atcoder_selected_100/ruby/abc012_d.rb) |
 | 65 | [GRL-2/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_2_A&lang=ja) | 最小全域木 | クラスカル法(貪欲法 + Union Find) | [ruby](atcoder_selected_100/ruby/grl_2_a.rb) |
 | 72 | [ABC034/C](https://atcoder.jp/contests/abc034/tasks/abc034_c) | 逆元 | | [ruby](atcoder_selected_100/ruby/abc034_c.rb) |
 | 73 | [ABC145/D](https://atcoder.jp/contests/abc145/tasks/abc145_d) | 逆元 | | [ruby](atcoder_selected_100/ruby/abc145_d.rb) |
