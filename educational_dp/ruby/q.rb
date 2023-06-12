@@ -30,8 +30,14 @@ class SegmentTree
     left = leaf_size + l
     right = leaf_size + r
     while right - left >= 1
-      ans = operator.call(ans, tree[left]) if left[0] == 1
-      ans = operator.call(ans, tree[right - 1]) if right[0] == 1
+      if left[0] == 1
+        ans = operator.call(ans, tree[left])
+        left += 1
+      end
+      if right[0] == 1
+        ans = operator.call(ans, tree[right - 1])
+        right -= 1
+      end
       left >>= 1
       right >>= 1
     end
