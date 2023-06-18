@@ -73,4 +73,4 @@
 | P | [Independent Set](https://atcoder.jp/contests/dp/tasks/dp_p) | 木DP | | [ruby](educational_dp/ruby/p.rb) |
 | Q | [Flowers](https://atcoder.jp/contests/dp/tasks/dp_q) | | セグメント木 | [ruby](educational_dp/ruby/q.rb) |
 | S | [Digit Sum](https://atcoder.jp/contests/dp/tasks/dp_s) | 桁DP | | [ruby](educational_dp/ruby/s.rb) |
-| V | [Subtree](https://atcoder.jp/contests/dp/tasks/dp_v) | 全方位木DP | | [ruby](educational_dp/ruby/v.rb) |
+| V | [Subtree](https://atcoder.jp/contests/dp/tasks/dp_v) | 全方位木DP | 累積積 | [ruby](educational_dp/ruby/v.rb) |
