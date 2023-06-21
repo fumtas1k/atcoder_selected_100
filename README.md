@@ -74,3 +74,4 @@
 | Q | [Flowers](https://atcoder.jp/contests/dp/tasks/dp_q) | | セグメント木 | [ruby](educational_dp/ruby/q.rb) |
 | S | [Digit Sum](https://atcoder.jp/contests/dp/tasks/dp_s) | 桁DP | | [ruby](educational_dp/ruby/s.rb) |
 | V | [Subtree](https://atcoder.jp/contests/dp/tasks/dp_v) | 全方位木DP | 累積積 | [ruby](educational_dp/ruby/v.rb) |
+| Z | [Frog 3](https://atcoder.jp/contests/dp/tasks/dp_z) | | Convex-Hull Trick(CHT) | [ruby](educational_dp/ruby/z.rb) |
