@@ -10,9 +10,9 @@ class CHT
     end
 
     def need?(l1, l2)
-      # 傾きがl1 < self < l2 で selfとl2の交点のx < selfとl1の交点のx の場合必要
+      # 傾きがl1 > self > l2 で selfとl2の交点のx > selfとl1の交点のx の場合必要
       # 最小値を取る直線は左から順に傾きが減少する
-      (a - l1.a) * (l2.b - b) < (l2.a - a) * (b - l1.b)
+      (a - l1.a) * (b - l2.b) > (l2.a - a) * (l1.b - b)
     end
   }
 
@@ -30,8 +30,7 @@ class CHT
     lines << l
   end
 
-  def miny(x)
-    pp lines.map { _1.a }
+  def get_min_y(x)
     left = -1
     right = lines.size - 1
     while right - left > 1
@@ -62,7 +61,7 @@ cht = CHT.new
   # a = - 2 * H[j], b = H[j] ** 2
   # Hは単調増加なので、追加するaは常に最小となる
   cht.add(-2 * H[i - 1], dp[i - 1] + H[i - 1] ** 2)
-  dp[i] = H[i] ** 2 + C + cht.miny(H[i])
+  dp[i] = H[i] ** 2 + C + cht.get_min_y(H[i])
 end
 
 puts dp[-1]
