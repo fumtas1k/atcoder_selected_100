@@ -43,7 +43,7 @@ WALLS.each_with_index do |(r, c), i|
     # 壁jから壁iに辿り着けないものを除く
     next if r1 < 0 || c1 < 0
     # 壁iにたどり着く場合の数 - 壁jを通って壁jにたどり着く場合の数
-    dp[i] = (dp[i] - dp[j] * comb.c(r1 + c1, r1)) % M
+    dp[i] = (dp[i] - dp[j] * comb.c(r1 + c1, r1) + M) % M
   end
 end
 
