@@ -22,12 +22,10 @@ while i > 0 && j > 0
     i -= 1
   elsif dp[i][j] == dp[i][j - 1]
     j -= 1
-  elsif dp[i][j] == dp[i - 1][j - 1] + 1
+  else # dp[i][j] == dp[i - 1][j - 1] + 1
     i -= 1
     j -= 1
     ans += S[i]
-  else
-    # ここには来ないはず
   end
 end
 
