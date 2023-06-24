@@ -20,8 +20,7 @@ until next_candicates.empty?
   G[pos].each do |i|
     arrows[i] -= 1
     next_candicates << i if arrows[i].zero?
-    next if depth[i] > depth[pos] + 1
-    depth[i] = depth[pos] + 1
+    depth[i] = [depth[i], depth[pos] + 1].max
   end
 end
 
