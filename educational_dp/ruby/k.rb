@@ -3,11 +3,15 @@
 N, K = gets.split.map(&:to_i)
 A = gets.split.map(&:to_i)
 
-# 先手が勝つ場合をtrueとする
+# dp[i]とはi個の石が残っている場合に先手が勝つときtrue
 dp = [false] * (K + 1)
-(A[0] .. K).each do |i|
+A[0].upto(K) do |i|
   A.each do |j|
-    dp[i] = true if i >= j && !dp[i - j]
+    if i >= j && !dp[i - j]
+      dp[i] = true
+      break
+    end
   end
 end
+
 puts dp[K] ? "First" : "Second"
