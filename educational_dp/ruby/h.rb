@@ -9,12 +9,10 @@ dp[0][0] = 1
 
 H.times do |i|
   W.times do |j|
-    [[1, 0], [0, 1]].each do |di, dj|
-      ni, nj = i + di, j + dj
-      next unless ni.between?(0, H - 1) && nj.between?(0, W - 1) && A[ni][nj] == "."
-      dp[ni][nj] += dp[i][j]
-      dp[ni][nj] %= M
-    end
+    next if A[i][j] == "#"
+    dp[i][j] += dp[i - 1][j] if i >= 1
+    dp[i][j] += dp[i][j - 1] if j >= 1
+    dp[i][j] %= M
   end
 end
 

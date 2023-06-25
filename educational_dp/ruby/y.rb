@@ -28,8 +28,7 @@ H, W, N = gets.split.map(&:to_i)
 # マンハッタン距離でソート. 順番に処理するのに必要
 WALLS = Array.new(N) { gets.split.map(&:to_i).map(&:pred) }.sort_by { _1.reduce(:+) }
 WALLS << [H - 1, W - 1]
-dp = [0] * (N + 1)
-dp[0] = 1
+dp = []
 comb = Comb.new(H, W, M)
 
 # 壁を1つも通らず壁まで辿り着く場合の数 = (壁を1つ以上通って壁にたどり着く場合の数)の余事象
