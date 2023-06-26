@@ -12,6 +12,8 @@ N.times { dp[_1][_1] = 0 }
   (N - dl).times do |l|
     r = l + dl
     l.upto(r - 1) do |m|
+      # 合体前の2匹のスライムの大きさx, y で合体後のスライムの大きさは、x + y であるから
+      # lからrまでのスライムを合体させた時の大きさは累積和で求められる
       dp[l][r] = [dp[l][r], dp[l][m] + dp[m + 1][r] + (csum[r + 1] - csum[l])].min
     end
   end
