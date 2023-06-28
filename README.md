@@ -15,6 +15,7 @@
 | 10 | [ALDS1-5/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_5_A&lang=ja) | 全探索:ビット全探索 | | [ruby](atcoder_selected_100/ruby/alds1_5_a.rb) |
 | 11 | [ABC128/C](https://atcoder.jp/contests/abc128/tasks/abc128_c) | 全探索:ビット全探索 | | [ruby](atcoder_selected_100/ruby/abc128_c.rb) |
 | 12 | [ABC002/D](https://atcoder.jp/contests/abc002/tasks/abc002_4) | 全探索:ビット全探索 | | [ruby](atcoder_selected_100/ruby/abc002_d.rb) |
+| 13 | [JOI2008YO/E](https://atcoder.jp/contests/joi2008yo/tasks/joi2008yo_e) | 全探索:ビット全探索 | | [ruby](atcoder_selected_100/ruby/joi2008yo_e.rb) |
 | 15 | [ABC145/C](https://atcoder.jp/contests/abc145/tasks/abc145_c) | 全探索:順列全探索 | | [ruby](atcoder_selected_100/ruby/abc145_c.rb) |
 | 16 | [ABC150/C](https://atcoder.jp/contests/abc150/tasks/abc150_c) | 全探索:順列全探索 | | [ruby](atcoder_selected_100/ruby/abc150_c.rb) |
 | 17 | [SLDS1-13/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_13_A&lang=ja) | 全探索:順列全探索 | バックトラック法 | [ruby](atcoder_selected_100/ruby/alds1_13_a.rb) |
