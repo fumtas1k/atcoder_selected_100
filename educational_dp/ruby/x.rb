@@ -5,7 +5,8 @@ N = gets.to_i
 # 総重量をwとし、a < bが最適な時、
 # x <= [sa, sb - wa].min かつ
 # [sa, sb - wa].min > [sb, sa - wb].min である。　
-# これを変形すると si + wiの小さい方が上になる順がよい
+# 言い方を変えると、i - 1番目までの総重量はsi以下にしなければならず、i + 1番目を考えるとsi + wi は小さい方が良いので
+# si + wi の小さい順に並べて処理すれば良い。
 WSV = Array.new(N) { gets.split.map(&:to_i) }.sort_by {|w, s, _| w + s }
 
 dp = [- Float::INFINITY] * (W_MAX + 1)
