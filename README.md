@@ -55,6 +55,7 @@
 | 72 | [ABC034/C](https://atcoder.jp/contests/abc034/tasks/abc034_c) | 逆元 | | [ruby](atcoder_selected_100/ruby/abc034_c.rb) |
 | 73 | [ABC145/D](https://atcoder.jp/contests/abc145/tasks/abc145_d) | 逆元 | | [ruby](atcoder_selected_100/ruby/abc145_d.rb) |
 | 76 | [NIKKEI2019-FINAL/A](https://atcoder.jp/contests/nikkei2019-final/tasks/nikkei2019_final_a) | 累積和 | | [ruby](atcoder_selected_100/ruby/nikkei2019_final_a.rb) |
+| 78| [JOI2011HO/A](https://atcoder.jp/contests/joi2011ho/tasks/joi2011ho1) | 累積和:二次元 | | [ruby](atcoder_selected_100/ruby/joi2011ho_a.rb) |
 | 81 | [ABC014/C](https://atcoder.jp/contests/abc014/tasks/abc014_3) | 累積和:いもす法 | | [ruby](atcoder_selected_100/ruby/abc014_c.rb) |
 | 85 | [DSL-1/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DSL_1_A&lang=ja) | Union Find | | [ruby](atcoder_selected_100/ruby/dsl_1_a.rb) |
 | 86 | [ABC075/C](https://atcoder.jp/contests/abc075/tasks/abc075_c) | Union Find | DFS, Low Link | [ruby1](atcoder_selected_100/ruby/abc075_c_01.rb), [ruby2](atcoder_selected_100/ruby/abc075_c_02.rb) |
