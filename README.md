@@ -58,6 +58,7 @@
 | 77 | [JOI2010HO/A](https://atcoder.jp/contests/joi2010ho/tasks/joi2010ho_a) | 累積和 | | [ruby](atcoder_selected_100/ruby/joi2010ho_a.rb) |
 | 78 | [JOI2011HO/A](https://atcoder.jp/contests/joi2011ho/tasks/joi2011ho1) | 累積和:二次元 | | [ruby](atcoder_selected_100/ruby/joi2011ho_a.rb) |
 | 81 | [ABC014/C](https://atcoder.jp/contests/abc014/tasks/abc014_3) | 累積和:いもす法 | | [ruby](atcoder_selected_100/ruby/abc014_c.rb) |
+| 83 | [JOI2015HO/A]() | 累積和:いもす法 | | [ruby](atcoder_selected_100/ruby/joi2015ho_a.rb) |
 | 85 | [DSL-1/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DSL_1_A&lang=ja) | Union Find | | [ruby](atcoder_selected_100/ruby/dsl_1_a.rb) |
 | 86 | [ABC075/C](https://atcoder.jp/contests/abc075/tasks/abc075_c) | Union Find | DFS, Low Link | [ruby1](atcoder_selected_100/ruby/abc075_c_01.rb), [ruby2](atcoder_selected_100/ruby/abc075_c_02.rb) |
 | 87 | [ABC120/D](https://atcoder.jp/contests/abc120/tasks/abc120_d) | Union Find | | [ruby](atcoder_selected_100/ruby/abc120_d.rb) |
