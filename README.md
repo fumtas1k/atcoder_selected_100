@@ -68,6 +68,7 @@
 | 87 | [ABC120/D](https://atcoder.jp/contests/abc120/tasks/abc120_d) | Union Find | | [ruby](atcoder_selected_100/ruby/abc120_d.rb) |
 | 89 | [JOI2013HO/1](https://atcoder.jp/contests/joi2013ho/tasks/joi2013ho1) | 圧縮 | | [ruby](atcoder_selected_100/ruby/joi2013ho_1.rb) |
 | 90 | [S8PC-5/B](https://atcoder.jp/contests/s8pc-5/tasks/s8pc_5_b) | その他 | | [ruby](atcoder_selected_100/ruby/s8pc_5_b.rb) |
+| 95 | [ABC149/B](https://atcoder.jp/contests/abc149/tasks/abc149_b) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc149_b.rb) |
 
 ## [Educational DP Contest/DPまとめコンテスト](https://atcoder.jp/contests/dp)
 
