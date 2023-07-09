@@ -53,6 +53,7 @@
 | 65 | [GRL-2/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_2_A&lang=ja) | 最小全域木 | クラスカル法(貪欲法 + Union Find) | [ruby](atcoder_selected_100/ruby/grl_2_a.rb) |
 | 68 | [NTL-1/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=NTL_1_A&lang=ja) | 素因数分解 | | [ruby](atcoder_selected_100/ruby/ntl_1_a.rb) |
 | 70 | [NTL-1/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=NTL_1_B&lang=ja) | 高度なべき乗計算 | | [ruby](atcoder_selected_100/ruby/ntl_1_b.rb) |
+| 71 | [S8PC-1/E](https://atcoder.jp/contests/s8pc-1/tasks/s8pc_1_e) | 高度なべき乗計算 | 累積和 | [ruby](atcoder_selected_100/ruby/s8pc_1_e.rb) |
 | 72 | [ABC034/C](https://atcoder.jp/contests/abc034/tasks/abc034_c) | 逆元 | | [ruby](atcoder_selected_100/ruby/abc034_c.rb) |
 | 73 | [ABC145/D](https://atcoder.jp/contests/abc145/tasks/abc145_d) | 逆元 | | [ruby](atcoder_selected_100/ruby/abc145_d.rb) |
 | 76 | [NIKKEI2019-FINAL/A](https://atcoder.jp/contests/nikkei2019-final/tasks/nikkei2019_final_a) | 累積和 | | [ruby](atcoder_selected_100/ruby/nikkei2019_final_a.rb) |
