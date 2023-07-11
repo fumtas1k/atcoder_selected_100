@@ -101,3 +101,10 @@
 | X | [Tower](https://atcoder.jp/contests/dp/tasks/dp_x) | | | [ruby](educational_dp/ruby/x.rb) |
 | Y | [Gride 2](https://atcoder.jp/contests/dp/tasks/dp_y) |  | 包除原理 | [ruby](educational_dp/ruby/y.rb) |
 | Z | [Frog 3](https://atcoder.jp/contests/dp/tasks/dp_z) | | Convex-Hull Trick(CHT) | [ruby](educational_dp/ruby/z.rb) |
+
+## [Typical DP Contest](https://atcoder.jp/contests/tdpc)
+
+| No | problem | category | remark | ans |
+|----|-----------------|----------|--------|-----|
+| A | [コンテスト](https://atcoder.jp/contests/tdpc/tasks/tdpc_contest) | | | [ruby](typical_dp/ruby/a.rb) |
+| B | [ゲーム](https://atcoder.jp/contests/tdpc/tasks/tdpc_game) | | バックトラック法 | [ruby](typical_dp/ruby/b.rb) |
