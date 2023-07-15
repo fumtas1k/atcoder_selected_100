@@ -24,4 +24,4 @@ DIGIT.times do |i|
 end
 
 # 答えに0が含まれるので除去
-puts (dp.sum { _1[0] } - 1 + M) % M
+puts (dp.sum(&:first) - 1 + M) % M
