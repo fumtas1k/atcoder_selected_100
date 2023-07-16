@@ -79,8 +79,8 @@
 | No | problem | category | remark | ans |
 |----|-----------------|----------|--------|-----|
 | A | [Frog1](https://atcoder.jp/contests/dp/tasks/dp_a) | | | [ruby](educational_dp/ruby/a.rb), [kotlin](educational_dp/kotlin/a.kt) |
-| B | [Frog2](https://atcoder.jp/contests/dp/tasks/dp_b) | | | [ruby](educational_dp/ruby/b.rb) |
-| C | [Vacation](https://atcoder.jp/contests/dp/tasks/dp_c) | | | [ruby](educational_dp/ruby/c.rb) |
+| B | [Frog2](https://atcoder.jp/contests/dp/tasks/dp_b) | | | [ruby](educational_dp/ruby/b.rb), [kotlin](educational_dp/kotlin/b.kt) |
+| C | [Vacation](https://atcoder.jp/contests/dp/tasks/dp_c) | | | [ruby](educational_dp/ruby/c.rb), [kotlin](educational_dp/kotlin/c.kt) |
 | D | [Knapsack1](https://atcoder.jp/contests/dp/tasks/dp_d) | ナップザックDP | | [ruby](educational_dp/ruby/d.rb) |
 | E | [Knapsack2](https://atcoder.jp/contests/dp/tasks/dp_e) | ナップザックDP | | [ruby](educational_dp/ruby/e.rb) |
 | F | [LCS](https://atcoder.jp/contests/dp/tasks/dp_f) | | 最長共通部分列(LCS), 復元 | [ruby](educational_dp/ruby/f.rb) |
