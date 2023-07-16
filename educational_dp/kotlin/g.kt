@@ -6,9 +6,9 @@ fun main() {
 
   val arrows = MutableList(N) { 0 }
   repeat(M) {
-    val (x, y) = readLine()!!.split(" ").map(String::toInt)
-    G[x - 1].add(y - 1)
-    arrows[y - 1]++
+    val (x, y) = readLine()!!.split(" ").map(String::toInt).map(Int::dec)
+    G[x].add(y)
+    arrows[y]++
   }
 
   var candidates = (0 .. N - 1).filter { arrows[it] == 0 }.toMutableList()
