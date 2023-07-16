@@ -1,4 +1,4 @@
-// b
+// B
 
 fun main() {
   val (N, K) = readLine()!!.split(" ").map(String::toInt)

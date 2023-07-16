@@ -1,4 +1,4 @@
-// f
+// F
 
 fun main() {
   val S = readLine()!!.toList()

@@ -1,4 +1,4 @@
-// c
+// C
 
 fun main() {
   val N = readLine()!!.toInt()
