@@ -84,7 +84,7 @@
 | D | [Knapsack1](https://atcoder.jp/contests/dp/tasks/dp_d) | ナップザックDP | | [ruby](educational_dp/ruby/d.rb), [kotlin](educational_dp/kotlin/d.kt) |
 | E | [Knapsack2](https://atcoder.jp/contests/dp/tasks/dp_e) | ナップザックDP | | [ruby](educational_dp/ruby/e.rb), [kotlin](educational_dp/kotlin/e.kt) |
 | F | [LCS](https://atcoder.jp/contests/dp/tasks/dp_f) | | 最長共通部分列(LCS), 復元 | [ruby](educational_dp/ruby/f.rb), [kotlin](educational_dp/kotlin/f.kt) |
-| G | [Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g) | | トポロジカルソート | [ruby](educational_dp/ruby/g.rb) |
+| G | [Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g) | | トポロジカルソート | [ruby](educational_dp/ruby/g.rb), [kotlin](educational_dp/kotlin/g.kt) |
 | H | [Grid1](https://atcoder.jp/contests/dp/tasks/dp_h) | |  | [ruby](educational_dp/ruby/h.rb) |
 | I | [Coins](https://atcoder.jp/contests/dp/tasks/dp_i) | 確率DP | | [ruby](educational_dp/ruby/i.rb) |
 | J | [Sushi](https://atcoder.jp/contests/dp/tasks/dp_j) |  期待値DP | | [ruby](educational_dp/ruby/j.rb) |
