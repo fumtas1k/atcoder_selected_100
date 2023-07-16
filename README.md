@@ -78,7 +78,7 @@
 
 | No | problem | category | remark | ans |
 |----|-----------------|----------|--------|-----|
-| A | [Frog1](https://atcoder.jp/contests/dp/tasks/dp_a) | | | [ruby](educational_dp/ruby/a.rb) |
+| A | [Frog1](https://atcoder.jp/contests/dp/tasks/dp_a) | | | [ruby](educational_dp/ruby/a.rb), [kotlin](educational_dp/kotlin/a.kt) |
 | B | [Frog2](https://atcoder.jp/contests/dp/tasks/dp_b) | | | [ruby](educational_dp/ruby/b.rb) |
 | C | [Vacation](https://atcoder.jp/contests/dp/tasks/dp_c) | | | [ruby](educational_dp/ruby/c.rb) |
 | D | [Knapsack1](https://atcoder.jp/contests/dp/tasks/dp_d) | ナップザックDP | | [ruby](educational_dp/ruby/d.rb) |
