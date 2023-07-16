@@ -17,4 +17,4 @@ N.times do |i|
 end
 
 # 重さがW以下で価値が最大のものを求める
-puts dp.map.with_index {|w, v| v if w <= W }.compact.max
+puts (0 .. V_MAX).filter { dp[_1] <= W }.max
