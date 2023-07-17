@@ -4,8 +4,8 @@
 
 | No | contest/problem | category | remark | ans |
 |----|-----------------|----------|--------|-----|
-| 1 | [ITP1-7/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_7_B&lang=ja) | 全探索:全列挙 | | [ruby](atcoder_selected_100/ruby/itp1_7_b.rb) |
-| 2 | [ABC106/B](https://atcoder.jp/contests/abc106/tasks/abc106_b) | 全探索:全列挙 | | [ruby](atcoder_selected_100/ruby/abc106_b.rb) |
+| 1 | [ITP1-7/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_7_B&lang=ja) | 全探索:全列挙 | | [ruby](atcoder_selected_100/ruby/itp1_7_b.rb), [kotlin](atcoder_selected_100/kotlin/itp1_7_b.kt) |
+| 2 | [ABC106/B](https://atcoder.jp/contests/abc106/tasks/abc106_b) | 全探索:全列挙 | | [ruby](atcoder_selected_100/ruby/abc106_b.rb), [kotlin](atcoder_selected_100/kotlin/abc106_b.rb) |
 | 3 | [ABC122/B](https://atcoder.jp/contests/abc122/tasks/abc122_b) | 全探索:全列挙 | 尺取法 | [ruby](atcoder_selected_100/ruby/abc122_b.rb) |
 | 4 | [PAKENCAMP-2019-DAY3/C](https://atcoder.jp/contests/pakencamp-2019-day3/tasks/pakencamp_2019_day3_c) | 全探索:全列挙 | | [ruby](atcoder_selected_100/ruby/pakencamp-2019-day3_c.rb) |
 | 5 | [ABC095/C](https://atcoder.jp/contests/abc095/tasks/arc096_a) | 全探索:工夫して通り数を減らす全列挙 | | [ruby](atcoder_selected_100/ruby/abc095_c.rb) |
