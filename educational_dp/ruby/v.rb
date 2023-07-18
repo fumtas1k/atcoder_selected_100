@@ -13,7 +13,6 @@ end
 def dfs1(pos, pre = -1)
   return @dp[pos] unless @dp[pos].zero?
   @dp[pos] = 1
-  return @dp[pos] if G[pos] == [pre]
   G[pos].each do |i|
     next if i == pre
     # 1加算するのはpos以外白色だった場合を考慮
@@ -44,7 +43,7 @@ def dfs2(pos, pre = -1)
     l_cproduct[i] %= M
   end
 
-  (n - 2).downto(1) do |i|
+  (n - 2).downto(0) do |i|
     r_cproduct[i] *= r_cproduct[i + 1]
     r_cproduct[i] %= M
   end
