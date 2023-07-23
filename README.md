@@ -85,7 +85,7 @@
 | E | [Knapsack2](https://atcoder.jp/contests/dp/tasks/dp_e) | ナップザックDP | | [ruby](educational_dp/ruby/e.rb), [kotlin](educational_dp/kotlin/e.kt) |
 | F | [LCS](https://atcoder.jp/contests/dp/tasks/dp_f) | | 最長共通部分列(LCS), 復元 | [ruby](educational_dp/ruby/f.rb), [kotlin](educational_dp/kotlin/f.kt) |
 | G | [Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g) | | トポロジカルソート | [ruby](educational_dp/ruby/g.rb), [kotlin](educational_dp/kotlin/g.kt) |
-| H | [Grid1](https://atcoder.jp/contests/dp/tasks/dp_h) | |  | [ruby](educational_dp/ruby/h.rb) |
+| H | [Grid 1](https://atcoder.jp/contests/dp/tasks/dp_h) | |  | [ruby](educational_dp/ruby/h.rb), [kotlin](educational_dp/kotlin/h.kt) |
 | I | [Coins](https://atcoder.jp/contests/dp/tasks/dp_i) | 確率DP | | [ruby](educational_dp/ruby/i.rb) |
 | J | [Sushi](https://atcoder.jp/contests/dp/tasks/dp_j) |  期待値DP | | [ruby](educational_dp/ruby/j.rb) |
 | K | [Stones](https://atcoder.jp/contests/dp/tasks/dp_k) | | ゲーム必勝法 | [ruby](educational_dp/ruby/k.rb) |
@@ -99,7 +99,7 @@
 | T | [Permutation](https://atcoder.jp/contests/dp/tasks/dp_t) | 挿入DP | | [ruby](educational_dp/ruby/t.rb) |
 | V | [Subtree](https://atcoder.jp/contests/dp/tasks/dp_v) | 全方位木DP | 累積積 | [ruby](educational_dp/ruby/v.rb), [kotlin](educational_dp/kotlin/v.kt) |
 | X | [Tower](https://atcoder.jp/contests/dp/tasks/dp_x) | | | [ruby](educational_dp/ruby/x.rb) |
-| Y | [Gride 2](https://atcoder.jp/contests/dp/tasks/dp_y) |  | 包除原理 | [ruby](educational_dp/ruby/y.rb) |
+| Y | [Gride 2](https://atcoder.jp/contests/dp/tasks/dp_y) |  | 包除原理 | [ruby](educational_dp/ruby/y.rb), [ruby](educational_dp/kotlin/y.kt) |
 | Z | [Frog 3](https://atcoder.jp/contests/dp/tasks/dp_z) | | Convex-Hull Trick(CHT) | [ruby](educational_dp/ruby/z.rb) |
 
 ## [Typical DP Contest](https://atcoder.jp/contests/tdpc)
