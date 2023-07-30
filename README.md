@@ -99,7 +99,7 @@
 | T | [Permutation](https://atcoder.jp/contests/dp/tasks/dp_t) | 挿入DP | | [ruby](educational_dp/ruby/t.rb) |
 | V | [Subtree](https://atcoder.jp/contests/dp/tasks/dp_v) | 全方位木DP | 累積積 | [ruby](educational_dp/ruby/v.rb), [kotlin](educational_dp/kotlin/v.kt) |
 | X | [Tower](https://atcoder.jp/contests/dp/tasks/dp_x) | | | [ruby](educational_dp/ruby/x.rb) |
-| Y | [Gride 2](https://atcoder.jp/contests/dp/tasks/dp_y) |  | 包除原理 | [ruby](educational_dp/ruby/y.rb), [ruby](educational_dp/kotlin/y.kt) |
+| Y | [Gride 2](https://atcoder.jp/contests/dp/tasks/dp_y) |  | 包除原理 | [ruby](educational_dp/ruby/y.rb), [kotlin](educational_dp/kotlin/y.kt) |
 | Z | [Frog 3](https://atcoder.jp/contests/dp/tasks/dp_z) | | Convex-Hull Trick(CHT) | [ruby](educational_dp/ruby/z.rb) |
 
 ## [Typical DP Contest](https://atcoder.jp/contests/tdpc)
