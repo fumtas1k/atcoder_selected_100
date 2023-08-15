@@ -4,7 +4,7 @@ fun main() {
   val N = readLine()!!.toInt()
   val ABC = MutableList(N) { readLine()!!.split(" ").map(String::toInt) }
 
-  val dp = MutableList(N + 1) { MutableList(3) { 0 } }
+  val dp = Array(N + 1) { IntArray(3) { 0 } }
 
   for ((i, abc) in ABC.withIndex()) {
     for (j in 0 .. 2) {

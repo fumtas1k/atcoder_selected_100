@@ -4,12 +4,12 @@ class PermComb(
   private val size: Int,
   private val mod: Int
 ) {
-  private val fact: MutableList<Long>
-  private val invFact: MutableList<Long>
+  private val fact: LongArray
+  private val invFact: LongArray
 
   init {
-    fact = MutableList(size + 1) { 1L }
-    invFact = MutableList(size + 1) { 1L }
+    fact = LongArray(size + 1) { 1L }
+    invFact = LongArray(size + 1) { 1L }
     prepare()
   }
 

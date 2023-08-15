@@ -3,7 +3,7 @@
 fun main() {
   val S = readLine()!!.toList()
   val T = readLine()!!.toList()
-  val dp = MutableList(S.size + 1) { MutableList(T.size + 1) { 0 } }
+  val dp = Array(S.size + 1) { IntArray(T.size + 1) { 0 } }
 
   S.forEachIndexed { i, s ->
     T.forEachIndexed {  j, t ->

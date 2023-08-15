@@ -3,7 +3,7 @@
 fun main() {
   val (N, W) = readLine()!!.split(" ").map(String::toInt)
   val WV = List(N) { readLine()!!.split(" ").map(String::toInt) }
-  val dp = MutableList(N + 1) { MutableList(W + 1) { Long.MIN_VALUE } }
+  val dp = Array(N + 1) { LongArray(W + 1) { Long.MIN_VALUE } }
   dp[0][0] = 0L
 
   WV.forEachIndexed { i, (w, v) ->

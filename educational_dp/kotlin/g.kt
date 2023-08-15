@@ -4,7 +4,7 @@ fun main() {
   val (N, M) = readLine()!!.split(" ").map(String::toInt)
   val G = MutableList(N) { mutableListOf<Int>() }
 
-  val arrows = MutableList(N) { 0 }
+  val arrows = IntArray(N) { 0 }
   repeat(M) {
     val (x, y) = readLine()!!.split(" ").map(String::toInt).map(Int::dec)
     G[x].add(y)
@@ -12,7 +12,7 @@ fun main() {
   }
 
   var candidates = (0 .. N - 1).filter { arrows[it] == 0 }.toMutableList()
-  val depth = MutableList(N) { 0 }
+  val depth = IntArray(N) { 0 }
 
   while (!candidates.isEmpty()) {
     val pos = candidates.removeAt(0)

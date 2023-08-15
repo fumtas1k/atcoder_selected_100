@@ -6,7 +6,7 @@ fun main() {
 
   val V_MAX = 1_000 * N
 
-  val dp = MutableList(V_MAX + 1) { W + 1L }
+  val dp = LongArray(V_MAX + 1) { W + 1L }
   dp[0] = 0L
 
   WV.forEach { (w, v) ->

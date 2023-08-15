@@ -9,7 +9,7 @@ fun solve() {
     G[y].add(x)
   }
 
-  val dp = MutableList(N) { 0L }
+  val dp = LongArray(N) { 0L }
 
   fun dfs1(pos: Int, pre: Int = -1): Long {
     if (dp[pos] != 0L) return dp[pos]

@@ -4,7 +4,7 @@ fun main() {
   val (N, K) = readLine()!!.split(" ").map(String::toInt)
   val H = readLine()!!.split(" ").map(String::toInt)
 
-  val dp = MutableList(N) { Int.MAX_VALUE }
+  val dp = IntArray(N) { Int.MAX_VALUE }
   dp[0] = 0
 
   for (i in 1 .. N - 1) {
