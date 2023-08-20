@@ -1,28 +1,48 @@
 // Y
 
+ /**
+ * 順列・組み合わせ
+ * @property size サイズ
+ * @property mod 除数
+ */
 class PermComb(
   private val size: Int,
   private val mod: Int
 ) {
-  private val fact: LongArray
-  private val invFact: LongArray
+  // 階乗
+  private val fact = LongArray(size + 1) { 1L }
+  // 階乗の逆数
+  private val invFact = LongArray(size + 1) { 1L }
 
-  init {
-    fact = LongArray(size + 1) { 1L }
-    invFact = LongArray(size + 1) { 1L }
-    prepare()
-  }
+  init { prepare() }
 
+  /**
+   * 順列
+   *
+   * @param n 位数
+   * @param r 選ぶ個数
+   * @return 場合の数
+   */
   fun perm(n: Int, r: Int): Long {
-    if (n < 0 || r < 0) return 1L
+    if (n < 0 || r < 0 || n < r) return 0L
     return fact[n] * invFact[r] % mod
   }
 
+  /**
+   * 組み合わせ
+   *
+   * @param n 位数
+   * @param r 選ぶ個数
+   * @return 場合の数
+   */
   fun comb(n: Int, r: Int): Long {
-    if (n < 0 || r < 0) return 1L
+    if (n < 0 || r < 0 || n < r) return 0L
     return perm(n, r) * invFact[n - r] % mod
   }
 
+  /**
+   * 準備
+   */
   private fun prepare() {
     (2 .. size).forEach {
       fact[it] = fact[it - 1] * it % mod
@@ -30,6 +50,13 @@ class PermComb(
     }
   }
 
+  /**
+   * 冪剰余
+   *
+   * @param x 底
+   * @param n 指数
+   * @return 冪剰余
+   */
   private fun pow(x: Int, n: Int): Long {
     var base = x.toLong()
     var exp = n
