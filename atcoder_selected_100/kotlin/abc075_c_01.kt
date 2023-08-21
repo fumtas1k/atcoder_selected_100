@@ -48,7 +48,7 @@ class UnionFind(private val size: Int) {
   fun isSame(u: Int, v: Int) = root(u) == root(v)
 }
 
-fun main() {
+fun solve() {
   val (N, M) = readLine()!!.split(" ").map(String::toInt)
   val AB = Array(M) { readLine()!!.split(" ").map(String::toInt) }
 
@@ -64,4 +64,8 @@ fun main() {
   }
 
   println(ans)
+}
+
+fun main() {
+  Thread(null, ::solve, "solve", 1.shl(26)).start()
 }
