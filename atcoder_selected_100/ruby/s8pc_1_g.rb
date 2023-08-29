@@ -5,33 +5,33 @@
 
 N, M = gets.split.map(&:to_i)
 
-# [距離, 時間]
-G = Array.new(N) { Array.new(N) { [Float::INFINITY, 0] } }
-
+G = Array.new(N) { [] }
 M.times do
   s, t, d, time = gets.split.map(&:to_i)
-  G[s - 1][t - 1] = [d, time]
-  G[t - 1][s - 1] = [d, time]
+  G[s - 1] << [t - 1, d, time]
+  G[t - 1] << [s - 1, d, time]
 end
 
-# [距離, 総数]
-dp = Array.new(1 << N) { Array.new(N) { [Float::INFINITY, 0] } }
+# dp[現在の建物][移動した建物のBIT] = [距離, 総数]
+dp = Array.new(N) { Array.new(1 << N) { [Float::INFINITY, 0] } }
 dp[0][0] = [0, 1]
 
-(1 << N).times do |i|
-  N.times do |j|
-    next if dp[i][j][0] == Float::INFINITY
-    N.times do |k|
-      next if i >> k & 1 == 1 # すでにkを通っている場合
-      dist = dp[i][j][0] + G[j][k][0] # dist == time
-      next if G[j][k][1] < dist # 通れる時間を過ぎている場合
-      if dp[i + (1 << k)][k][0] > dist
-        dp[i + (1 << k)][k] = [dist, dp[i][j][1]]
-      elsif dp[i + (1 << k)][k][0] == dist
-        dp[i + (1 << k)][k][1] += dp[i][j][1]
+(1 << N).times do |bit|
+  N.times do |i|
+    next if dp[i][bit].first == Float::INFINITY
+    G[i].each do |j, d, time|
+      next if bit[j] == 1 # すでにjを通っている場合
+      dist = dp[i][bit][0] + d
+      next if dist > time # 通れる時間を過ぎている場合
+      next_bit = bit + (1 << j)
+      case dp[j][next_bit][0] <=> dist
+      when 1
+        dp[j][next_bit] = [dist, dp[i][bit][1]]
+      when 0
+        dp[j][next_bit][1] += dp[i][bit][1]
       end
     end
   end
 end
 
-puts dp[-1][0][1].zero? ? "IMPOSSIBLE" : dp[-1][0].join(" ")
+puts dp[0][-1][1].zero? ? "IMPOSSIBLE" : dp[0][-1].join(" ")
