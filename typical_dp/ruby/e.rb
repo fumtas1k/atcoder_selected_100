@@ -4,22 +4,22 @@ M = 10 ** 9 + 7
 D = gets.to_i
 N = gets.chomp.chars.map(&:to_i)
 
-# dp[i][Dで割った余り] iが1の場合すでにN未満
-dp = Array.new(2) { [0] * D }
-dp[0][0] = 1
-
-N.each do |n|
-  dp2 = Array.new(2) { [0] * D }
-  D.times do |d|
-    10.times do |i|
-      dp2[1][(d + i) % D] += dp[1][d]
-      dp2[1][(d + i) % D] += dp[0][d] if i < n
+# dp[桁数][Nより小さいか][Dで割った余り] = 個数
+dp = Array.new(N.size + 1) { Array.new(2) { [0] * D } }
+dp[0][0][0] = 1
+N.each_with_index do |n, i|
+  D.times do |j|
+    10.times do |k|
+      # Nより小さい場合
+      dp[i + 1][1][(j + k) % D] += dp[i][1][j]
+      dp[i + 1][1][(j + k) % D] += dp[i][0][j] if k < n
+      dp[i + 1][1][(j + k) % D] %= M
     end
-    next if dp[0][d].zero?
-    dp2[0][(d + n) % D] += dp[0][d]
+    # Nより小さいことが確定していない場合
+    dp[i + 1][0][(j + n) % D] += dp[i][0][j]
+    dp[i + 1][0][(j + n) % D] %= M
   end
-  dp = dp2.map {|row| row.map { _1 % M } }
 end
 
-# dp[0][0]の初期値を入れたのでそれを引く
-puts (dp.sum(&:first) + M - 1) % M
+# 正整数なので0の場合を除く
+puts (dp[-1].sum(&:first) + M - 1) % M

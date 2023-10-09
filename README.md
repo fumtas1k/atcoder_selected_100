@@ -110,5 +110,5 @@
 | A | [コンテスト](https://atcoder.jp/contests/tdpc/tasks/tdpc_contest) | | | [ruby](typical_dp/ruby/a.rb) |
 | B | [ゲーム](https://atcoder.jp/contests/tdpc/tasks/tdpc_game) | | バックトラック法 | [ruby](typical_dp/ruby/b.rb) |
 | D | [サイコロ](https://atcoder.jp/contests/tdpc/tasks/tdpc_dice) | | | [ruby](typical_dp/ruby/d.rb) |
-| E | [数](https://atcoder.jp/contests/tdpc/tasks/tdpc_number) | | | [ruby](typical_dp/ruby/e.rb) |
+| E | [数](https://atcoder.jp/contests/tdpc/tasks/tdpc_number) | 桁DP | | [ruby](typical_dp/ruby/e.rb) |
 | F | [準急](https://atcoder.jp/contests/tdpc/tasks/tdpc_semiexp) | | | [ruby](typical_dp/ruby/f.rb) |
