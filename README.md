@@ -23,6 +23,7 @@
 | 19 | [JOI2009HO/B](https://atcoder.jp/contests/joi2009ho/tasks/joi2009ho_b) | 二分探索 | | [ruby](atcoder_selected_100/ruby/joi2009ho_b.rb) |
 | 20 | [ABC077/C](https://atcoder.jp/contests/abc077/tasks/arc084_a) | 二分探索 | | [ruby](atcoder_selected_100/ruby/abc077_c.rb) |
 | 21 | [ABC023/D](https://atcoder.jp/contests/abc023/tasks/abc023_d) | 二分探索 | | [ruby](atcoder_selected_100/ruby/abc023_d.rb) |
+| 23 | [JOI2008HO/C](https://atcoder.jp/contests/joi2008ho/tasks/joi2008ho_c) | 二分探索 | | [ruby](atcoder_selected_100/ruby/joi2008ho_c.rb) |
 | 24 | [ALDS1-11/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_B&lang=ja) | 深さ優先探索 | | [ruby](atcoder_selected_100/ruby/alds1_11_b.rb) |
 | 26 | [ABC138/D](https://atcoder.jp/contests/abc138/tasks/abc138_d) | 深さ優先探索 | | [ruby](atcoder_selected_100/ruby/abc138_d.rb) |
 | 27 | [JOI2009YO/D](https://atcoder.jp/contests/joi2009yo/tasks/joi2009yo_d) | 深さ優先探索 | | [ruby](atcoder_selected_100/ruby/joi2009yo_d.rb) |
