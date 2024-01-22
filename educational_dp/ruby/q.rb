@@ -1,16 +1,18 @@
 # Q
+# セグメント木
 
 class SegmentTree
-  attr_accessor :tree, :leaf_size, :id_elm, :operator
+  attr_accessor :tree, :leaf_size, :id_elm, :ope
 
   def initialize(arr, id_elm, &block)
-    @leaf_size = 1 << (arr.size - 1).bit_length
+    n = arr.size
+    @leaf_size = 1 << (n - 1).bit_length
     @id_elm = id_elm
-    @operator = block
+    @ope = block
     @tree = [id_elm] * (2 * leaf_size)
-    arr.size.times { tree[leaf_size + _1] = arr[_1] }
+    n.times { tree[leaf_size + _1] = arr[_1] }
     (leaf_size - 1).downto(1) do |i|
-      tree[i] = operator.call(tree[i * 2], tree[i * 2 + 1])
+      tree[i] = ope.call(tree[i * 2], tree[i * 2 + 1])
     end
   end
 
@@ -20,7 +22,7 @@ class SegmentTree
     tree[u] = val
     while u > 1
       u >>= 1
-      tree[u] = operator.call(tree[2 * u], tree[2 * u + 1])
+      tree[u] = ope.call(tree[2 * u], tree[2 * u + 1])
     end
   end
 
@@ -31,11 +33,11 @@ class SegmentTree
     right = leaf_size + r
     while right - left >= 1
       if left[0] == 1
-        ans = operator.call(ans, tree[left])
+        ans = ope.call(ans, tree[left])
         left += 1
       end
       if right[0] == 1
-        ans = operator.call(ans, tree[right - 1])
+        ans = ope.call(ans, tree[right - 1])
         right -= 1
       end
       left >>= 1
@@ -52,7 +54,7 @@ class SegmentTree
     mid = (a + b) / 2
     left = query2(l, r, a, mid, 2 * u)
     right = query2(l, r, mid, b, 2 * u + 1)
-    operator.call(left, right)
+    ope.call(left, right)
   end
 end
 
@@ -60,9 +62,8 @@ N = gets.to_i
 H = gets.split.map(&:to_i)
 A = gets.split.map(&:to_i)
 
-st = SegmentTree.new([0] * (N + 1), 0) { |a, b| [a, b].max }
-N.times do |i|
-  st.update(H[i], st.query(1, H[i]) + A[i])
+seg_tree = SegmentTree.new([0] * (N + 1), 0) {|a, b| [a, b].max }
+H.zip(A).each do |h, a|
+  seg_tree.update(h, seg_tree.query(1, h) + a)
 end
-
-puts st.query(1, N + 1)
+puts seg_tree.query(1, N + 1)
