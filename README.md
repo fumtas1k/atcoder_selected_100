@@ -71,6 +71,7 @@
 | 80 | [ABC014/C](https://atcoder.jp/contests/gigacode-2019/tasks/gigacode_2019_d) | 累積和 | 二分探索 | [ruby](atcoder_selected_100/ruby/gigacode_2019_d.rb) |
 | 81 | [ABC014/C](https://atcoder.jp/contests/abc014/tasks/abc014_3) | 累積和:いもす法 | | [ruby](atcoder_selected_100/ruby/abc014_c.rb) |
 | 83 | [JOI2015HO/A]() | 累積和:いもす法 | | [ruby](atcoder_selected_100/ruby/joi2015ho_a.rb) |
+| - | [ABC338/D](https://atcoder.jp/contests/abc338/tasks/abc338_d) | 累積和:いもす法 | | [ruby](atcoder_selected_100/ruby/abc338_d.rb) |
 | 85 | [DSL-1/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DSL_1_A&lang=ja) | Union Find | | [ruby](atcoder_selected_100/ruby/dsl_1_a.rb) |
 | 86 | [ABC075/C](https://atcoder.jp/contests/abc075/tasks/abc075_c) | Union Find | DFS, Low Link | [ruby1](atcoder_selected_100/ruby/abc075_c_01.rb), [ruby2](atcoder_selected_100/ruby/abc075_c_02.rb), [kotlin1](atcoder_selected_100/kotlin/abc075_c_01.kt) |
 | 87 | [ABC120/D](https://atcoder.jp/contests/abc120/tasks/abc120_d) | Union Find | | [ruby](atcoder_selected_100/ruby/abc120_d.rb) |
@@ -81,7 +82,8 @@
 | 96 | [ABC139/D](https://atcoder.jp/contests/abc139/tasks/abc139_d) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc139_d.rb) |
 | 97 | [ABC150/D](https://atcoder.jp/contests/abc139/tasks/abc150_d) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc150_d.rb) |
 | 98 | [SUMITRUST2019/E](https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_e) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/sumitrust2019_e.rb) |
-| - | [ABC337/E]() | 数学的な問題 | ビット | [ruby](atcoder_selected_100/ruby/abc337_e.rb) |
+| - | [ABC337/E](https://atcoder.jp/contests/abc338/tasks/abc337_e) | 数学的な問題 | ビット | [ruby](atcoder_selected_100/ruby/abc337_e.rb) |
+| - | [ABC338/E](https://atcoder.jp/contests/abc338/tasks/abc338_e) | 数学的な問題 | スタック | [ruby](atcoder_selected_100/ruby/abc338_e.rb) |
 
 ## [Educational DP Contest/DPまとめコンテスト](https://atcoder.jp/contests/dp)
 
