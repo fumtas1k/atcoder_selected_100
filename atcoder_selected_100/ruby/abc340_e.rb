@@ -1,7 +1,7 @@
 # -
 # ABC340/E
 # 動的計画法:その他
-# フェニックス木
+# フェニック木
 # imos法
 
 class FenwickTree
