@@ -2,18 +2,20 @@
 # ABC340/E
 # 動的計画法:その他
 # フェニック木
-# imos法
 
+# フェニック木
+
+# 1. 更新頻度と累積和計算の頻度が高い場合に使用
+# 2. 範囲更新頻度が高い場合で配列値を求める場合にも使用
 class FenwickTree
   attr_accessor :data, :size
 
-  # imos法を使用する場合は、配列数を1つ多くして初期化する必要がある（配列ではなく数値での初期化)
-  # imos法では、値の入力は、imosメソッドで行う
+  # 2の目的の場合は、Integerで初期化すること。その場合、計算の都合上、配列数は1多くすること
   def initialize(arg)
     case arg
     when Array
-      @data = [0].concat(arg)
       @size = arg.size
+      @data = [0].concat(arg)
       1.upto(@size) do |i|
         up = i + (i & -i)
         next if up > @size
@@ -25,46 +27,47 @@ class FenwickTree
     end
   end
 
+  # 1の目的の場合に使用
   def add(pos, value)
     idx = pos + 1
     while idx <= size
       data[idx] += value
-      idx += (idx & -idx)
+      idx += idx & -idx
     end
   end
 
-  # imos法
-  # [l, r) にvalueを加算する
-  # l > r の場合は、 [0, r) と [l, size -　1) にvalueを加算する
-  def imos(l, r, value)
+  # 2の目的で使用
+  # [l, r) に valueを足すことに相当
+  # l > rの場合、[0, r)　と [l, size - 1) に valueを足すことに相当
+  def add_by_range(l, r, value)
     add(l, value)
     add(r, -value)
     if l > r
-      add(size - 1, -value)
       add(0, value)
+      add(size - 1, -value)
     end
+  end
+
+  # 1の目的： [l, r) の合計
+  # 1の目的: r = nil: [0, l) の合計
+  # 2の目的: l - 1の値の取得
+  def sum(l, r = nil)
+    r ? _sum(r) - _sum(l) : _sum(l)
   end
 
   # 合計
-  # [l, r): l .. r - 1 の合計を返す
-  # l: 0 .. l - 1 の合計を返す
-  def sum(l, r = nil)
-    if r
-      _sum(r) - _sum(l)
-    else
-      _sum(l)
-    end
-  end
-
-  def _sum(idx)
+  # [0, r) の合計
+  def _sum(r)
+    idx = r
     res = 0
     while idx > 0
       res += data[idx]
-      idx &= idx - 1
+      idx -= idx & -idx
     end
     res
   end
 end
+
 
 N, M = gets.split.map(&:to_i)
 A = gets.split.map(&:to_i)
@@ -72,16 +75,16 @@ B = gets.split.map(&:to_i)
 
 ft = FenwickTree.new(N + 1)
 A.each_with_index do |a, i|
-  ft.imos(i, i + 1, a)
+  ft.add_by_range(i, i + 1, a)
 end
 
 B.each do |i|
   a = ft.sum(i + 1)
   next if a.zero?
-  ft.imos(i, i + 1, -a)
+  ft.add_by_range(i, i + 1, -a)
   div, mod = a.divmod(N)
-  ft.imos(0, N, div) unless div.zero?
-  ft.imos((i + 1) % N, (i + mod) % N + 1, 1) unless mod.zero?
+  ft.add_by_range(0, N, div) unless div.zero?
+  ft.add_by_range((i + 1) % N, (i + mod) % N + 1, 1) unless mod.zero?
 end
 
 puts N.times.map { ft.sum(_1 + 1) }.join(" ")
