@@ -49,7 +49,8 @@
 | 53 | [DPL-1/D](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_D&lang=ja) | 動的計画法:その他 | 最長増加部分列(LIS) | [ruby](atcoder_selected_100/ruby/dpl_1_d.rb) |
 | 54 | [ABC006/D](https://atcoder.jp/contests/abc006/tasks/abc006_4) | 動的計画法:その他 | 最長増加部分列(LIS) | [ruby](atcoder_selected_100/ruby/abc006_d.rb) |
 | 55 | [ABC134/E](https://atcoder.jp/contests/abc134/tasks/abc134_e) | 動的計画法:その他 | 最長増加部分列(LIS) | [ruby](atcoder_selected_100/ruby/abc134_e.rb) |
-| - | [ABC336/E](https://atcoder.jp/contests/abc336/tasks/abc336_e) | 動的計画法:その他 | | [ruby](atcoder_selected_100/ruby/abc336_e.rb) |
+| - | [ABC336/E](https://atcoder.jp/contests/abc336/tasks/abc336_e) | 動的計画法:その他 | 両端から計算 | [ruby](atcoder_selected_100/ruby/abc336_e.rb) |
+| - | [ABC340/E](https://atcoder.jp/contests/abc340/tasks/abc340_e) | 動的計画法:その他 | フェニックス木, imos法 | [ruby](atcoder_selected_100/ruby/abc340_e.rb) |
 | 56 | [GRL-1/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_1_A&lang=ja) | 最短経路問題 | ダイクストラ法 | [ruby](atcoder_selected_100/ruby/grl_1_a.rb) |
 | 57 | [JOI2008YO/F](https://atcoder.jp/contests/joi2008yo/tasks/joi2008yo_f) | 最短経路問題 | ダイクストラ法 | [ruby1](atcoder_selected_100/ruby/joi2008yo_f_01.rb), [ruby2](atcoder_selected_100/ruby/joi2008yo_f_02.rb) |
 | 59 | [JOI2014YO/E](https://atcoder.jp/contests/joi2014yo/tasks/joi2014yo_e) | 最短経路問題 | ダイクストラ法, 幅優先探索, 優先度付キュー | [ruby](atcoder_selected_100/ruby/joi2014yo_e.rb) |
