@@ -1,5 +1,5 @@
 # V
-# 全域木
+# 全方位木DP
 
 N, M = gets.split.map(&:to_i)
 G = Array.new(N) { [] }
