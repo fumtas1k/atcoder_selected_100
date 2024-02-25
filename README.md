@@ -129,3 +129,4 @@
 | D | [サイコロ](https://atcoder.jp/contests/tdpc/tasks/tdpc_dice) | | | [ruby](typical_dp/ruby/d.rb) |
 | E | [数](https://atcoder.jp/contests/tdpc/tasks/tdpc_number) | 桁DP | | [ruby](typical_dp/ruby/e.rb) |
 | F | [準急](https://atcoder.jp/contests/tdpc/tasks/tdpc_semiexp) | | | [ruby](typical_dp/ruby/f.rb) |
+| G | [辞書順](https://atcoder.jp/contests/tdpc/tasks/tdpc_lexicographical) | | | [ruby](typical_dp/ruby/g.rb) |
