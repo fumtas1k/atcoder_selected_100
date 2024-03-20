@@ -2,6 +2,7 @@
 # ABC282/D
 # 深さ優先探索
 # 二部グラフ
+# 余事象
 
 N, M = gets.split.map(&:to_i)
 G = Array.new(N) { [] }
