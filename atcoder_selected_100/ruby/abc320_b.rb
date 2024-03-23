@@ -9,7 +9,7 @@
 def manacher(str)
   # 偶数長の場合も考慮し奇数長になるよう文字列に含まれない"$"を挿入
   s = str.chomp.chars.join("$").then { "$#{_1}$" }
-  # 中心を含む回文の半径
+  # 中心iの回文の半径
   radius = [0] * s.size
   i = 0
   loop do
