@@ -92,6 +92,7 @@
 | 98 | [SUMITRUST2019/E](https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_e) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/sumitrust2019_e.rb) |
 | - | [ABC337/E](https://atcoder.jp/contests/abc338/tasks/abc337_e) | 数学的な問題 | ビット | [ruby](atcoder_selected_100/ruby/abc337_e.rb) |
 | - | [ABC338/E](https://atcoder.jp/contests/abc338/tasks/abc338_e) | 数学的な問題 | スタック | [ruby](atcoder_selected_100/ruby/abc338_e.rb) |
+| - | [ABC320/B](https://atcoder.jp/contests/abc320/tasks/abc320_b) | 数学的な問題 | 回文, manacher | [ruby](atcoder_selected_100/ruby/abc320_b.rb) |
 
 ## [Educational DP Contest/DPまとめコンテスト](https://atcoder.jp/contests/dp)
 
