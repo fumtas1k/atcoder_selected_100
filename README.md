@@ -93,6 +93,7 @@
 | - | [ABC337/E](https://atcoder.jp/contests/abc338/tasks/abc337_e) | 数学的な問題 | ビット | [ruby](atcoder_selected_100/ruby/abc337_e.rb) |
 | - | [ABC338/E](https://atcoder.jp/contests/abc338/tasks/abc338_e) | 数学的な問題 | スタック | [ruby](atcoder_selected_100/ruby/abc338_e.rb) |
 | - | [ABC320/B](https://atcoder.jp/contests/abc320/tasks/abc320_b) | 数学的な問題 | 回文, manacher | [ruby](atcoder_selected_100/ruby/abc320_b.rb) |
+| - | [ABC346/E](https://atcoder.jp/contests/abc346/tasks/abc346_e) | 数学的な問題 | 後ろから考える | [ruby](atcoder_selected_100/ruby/abc346_e.rb) |
 
 ## [Educational DP Contest/DPまとめコンテスト](https://atcoder.jp/contests/dp)
 
