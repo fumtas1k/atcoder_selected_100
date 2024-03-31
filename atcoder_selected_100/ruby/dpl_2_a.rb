@@ -13,12 +13,12 @@ end
 dp = Array.new(1 << V) { [Float::INFINITY] * V }
 dp[0][0] = 0
 
-(1 << V).times do |i|
-  V.times do |j|
-    next if dp[i][j] == Float::INFINITY
-    V.times do |k|
-      next if i >> k & 1 == 1
-      dp[i + (1 << k)][k] = [dp[i + (1 << k)][k], dp[i][j] + G[j][k]].min
+(1 << V).times do |bit|
+  V.times do |i|
+    next if dp[bit][i] == Float::INFINITY
+    V.times do |j|
+      next if bit[j] == 1
+      dp[bit + (1 << j)][j] = [dp[bit + (1 << j)][j], dp[bit][i] + G[i][j]].min
     end
   end
 end
