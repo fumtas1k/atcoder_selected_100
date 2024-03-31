@@ -3,35 +3,45 @@
 # 動的計画法:bit DP
 # 巡回セールスマン問題
 
+# 最短時間 == 最短距離
 N, M = gets.split.map(&:to_i)
+D = Array.new(N) { Array.new(N, Float::INFINITY) }
+T = Array.new(N) { Array.new(N, 0) }
 
-G = Array.new(N) { [] }
 M.times do
   s, t, d, time = gets.split.map(&:to_i)
-  G[s - 1] << [t - 1, d, time]
-  G[t - 1] << [s - 1, d, time]
+  s -= 1
+  t -= 1
+  D[s][t] = D[t][s] = d
+  T[s][t] = T[t][s] = time
 end
 
-# dp[現在の建物][移動した建物のBIT] = [距離, 総数]
-dp = Array.new(N) { Array.new(1 << N) { [Float::INFINITY, 0] } }
-dp[0][0] = [0, 1]
+# dists[移動した建物のBIT][現在の建物]
+dists = Array.new(1 << N) { Array.new(N, Float::INFINITY) }
+cnts = Array.new(1 << N) { Array.new(N, 0) }
+# 0スタートで0に戻ってくることからbit=0, i=0を初期化
+dists[0][0] = 0
+cnts[0][0] = 1
 
 (1 << N).times do |bit|
   N.times do |i|
-    next if dp[i][bit].first == Float::INFINITY
-    G[i].each do |j, d, time|
-      next if bit[j] == 1 # すでにjを通っている場合
-      dist = dp[i][bit][0] + d
-      next if dist > time # 通れる時間を過ぎている場合
-      next_bit = bit + (1 << j)
-      case dp[j][next_bit][0] <=> dist
+    next if bit[i] == 1 # すでにjを通っている場合
+    N.times do |j|
+      next if i == j
+      dist = dists[bit][j] + D[j][i]
+      next if T[j][i] < dist # 通れる時間を過ぎている場合
+      next_bit = bit | (1 << i)
+      case dists[next_bit][i] <=> dist
       when 1
-        dp[j][next_bit] = [dist, dp[i][bit][1]]
+        dists[next_bit][i] = dist
+        cnts[next_bit][i] = cnts[bit][j]
       when 0
-        dp[j][next_bit][1] += dp[i][bit][1]
+        cnts[next_bit][i] += cnts[bit][j]
+      else
+        nil
       end
     end
   end
 end
 
-puts dp[0][-1][1].zero? ? "IMPOSSIBLE" : dp[0][-1].join(" ")
+puts cnts[-1][0].zero? ? "IMPOSSIBLE" : [dists[-1][0], cnts[-1][0]].join(" ")
