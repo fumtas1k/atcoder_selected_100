@@ -29,6 +29,7 @@
 | 27 | [JOI2009YO/D](https://atcoder.jp/contests/joi2009yo/tasks/joi2009yo_d) | 深さ優先探索 | | [ruby](atcoder_selected_100/ruby/joi2009yo_d.rb) |
 | - | [ABC311/C](https://atcoder.jp/contests/abc311/tasks/abc311_c) | 深さ優先探索, 閉路 | | [ruby](atcoder_selected_100/ruby/abc311_c.rb) |
 | - | [ABC282/D](https://atcoder.jp/contests/abc282/tasks/abc282_d) | 深さ優先探索, 二部グラフ, 余事象 | | [ruby](atcoder_selected_100/ruby/abc282_d.rb) |
+| - | [ABC348/E](https://atcoder.jp/contests/abc348/tasks/abc348_e) | 深さ優先探索, 木の重心 | | [ruby](atcoder_selected_100/ruby/abc348_e.rb) |
 | 28 | [ALDS1-11/C](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_C&lang=ja) | 幅優先探索 | | [ruby](atcoder_selected_100/ruby/alds1_11_c.rb) |
 | 29 | [ABC007/C](https://atcoder.jp/contests/abc007/tasks/abc007_3) | 幅優先探索 | | [ruby](atcoder_selected_100/ruby/abc007_c.rb) |
 | 30 | [JOI2011YO/E](https://atcoder.jp/contests/joi2011yo/tasks/joi2011yo_e) | 幅優先探索 | | [ruby](atcoder_selected_100/ruby/joi2011yo_e.rb) |
