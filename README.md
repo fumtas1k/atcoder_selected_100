@@ -61,6 +61,7 @@
 | 59 | [JOI2014YO/E](https://atcoder.jp/contests/joi2014yo/tasks/joi2014yo_e) | 最短経路問題 | ダイクストラ法, 幅優先探索, 優先度付キュー | [ruby](atcoder_selected_100/ruby/joi2014yo_e.rb) |
 | - | [ABC305/E](https://atcoder.jp/contests/abc305/tasks/abc305_e) | 最短経路問題 | 変形ダイクストラ法, 優先度付キュー | [ruby](atcoder_selected_100/ruby/abc305_e.rb) |
 | - | [ABC325/E](https://atcoder.jp/contests/abc325/tasks/abc325_e) | 最短経路問題 | ダイクストラ法, 幅優先探索, 二分探索法 | [ruby](atcoder_selected_100/ruby/abc325_e.rb) |
+| - | [ABC222/F](https://atcoder.jp/contests/abc222/tasks/abc222_f) | 最短経路問題 | ダイクストラ法, 幅優先探索, 優先度付キュー, 木の直径 | [ruby](atcoder_selected_100/ruby/abc222_f.rb) |
 | 60 | [GRL-1/C](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_1_C&lang=ja) | 最短経路問題 | ワーシャルフロイド法 | [ruby](atcoder_selected_100/ruby/grl_1_c.rb) |
 | 61 | [ABC012/D](https://atcoder.jp/contests/abc012/tasks/abc012_4) | 最短経路問題 | ワーシャルフロイド法 | [ruby](atcoder_selected_100/ruby/abc012_d.rb) |
 | 62 | [ABC079/D](https://atcoder.jp/contests/abc079/tasks/abc079_d) | 最短経路問題 | ワーシャルフロイド法 | [ruby](atcoder_selected_100/ruby/abc079_d.rb) |
@@ -96,7 +97,7 @@
 | - | [ABC338/E](https://atcoder.jp/contests/abc338/tasks/abc338_e) | 数学的な問題 | スタック | [ruby](atcoder_selected_100/ruby/abc338_e.rb) |
 | - | [ABC320/B](https://atcoder.jp/contests/abc320/tasks/abc320_b) | 数学的な問題 | 回文, manacher | [ruby](atcoder_selected_100/ruby/abc320_b.rb) |
 | - | [ABC346/E](https://atcoder.jp/contests/abc346/tasks/abc346_e) | 数学的な問題 | 後ろから考える | [ruby](atcoder_selected_100/ruby/abc346_e.rb) |
-| - | [ABC346/E](https://atcoder.jp/contests/abc347/tasks/abc347_c) | 数学的な問題 | 条件を変換する | [ruby](atcoder_selected_100/ruby/abc347_c.rb) |
+| - | [ABC347/C](https://atcoder.jp/contests/abc347/tasks/abc347_c) | 数学的な問題 | 条件を変換する | [ruby](atcoder_selected_100/ruby/abc347_c.rb) |
 
 ## [Educational DP Contest/DPまとめコンテスト](https://atcoder.jp/contests/dp)
 
