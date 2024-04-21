@@ -58,7 +58,7 @@
 | - | [ABC340/E](https://atcoder.jp/contests/abc340/tasks/abc340_e) | 動的計画法:その他 | フェニック木 | [ruby](atcoder_selected_100/ruby/abc340_e.rb) |
 | - | [ABC216/G](https://atcoder.jp/contests/abc216/tasks/abc216_g) | 動的計画法:その他 | フェニック木 | [ruby](atcoder_selected_100/ruby/abc216_g.rb) |
 | - | [ABC312/G](https://atcoder.jp/contests/abc312/tasks/abc312_d) | 動的計画法:その他 | 括弧列の成立条件 | [ruby](atcoder_selected_100/ruby/abc312_d.rb) |
-| - | [ABC350/E](https://atcoder.jp/contests/abc350/tasks/abc350_e) | 動的計画法:期待値DP | | [ruby](atcoder_selected_100/ruby/abc350_e.rb) |
+| - | [ABC350/E](https://atcoder.jp/contests/abc350/tasks/abc350_e) | 動的計画法:期待値DP | メモ化再帰 | [ruby](atcoder_selected_100/ruby/abc350_e.rb) |
 | 56 | [GRL-1/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_1_A&lang=ja) | 最短経路問題 | ダイクストラ法 | [ruby](atcoder_selected_100/ruby/grl_1_a.rb) |
 | 57 | [JOI2008YO/F](https://atcoder.jp/contests/joi2008yo/tasks/joi2008yo_f) | 最短経路問題 | ダイクストラ法 | [ruby1](atcoder_selected_100/ruby/joi2008yo_f_01.rb), [ruby2](atcoder_selected_100/ruby/joi2008yo_f_02.rb) |
 | 59 | [JOI2014YO/E](https://atcoder.jp/contests/joi2014yo/tasks/joi2014yo_e) | 最短経路問題 | ダイクストラ法, 幅優先探索, 優先度付キュー | [ruby](atcoder_selected_100/ruby/joi2014yo_e.rb) |
@@ -89,6 +89,7 @@
 | 85 | [DSL-1/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DSL_1_A&lang=ja) | Union Find | | [ruby](atcoder_selected_100/ruby/dsl_1_a.rb) |
 | 86 | [ABC075/C](https://atcoder.jp/contests/abc075/tasks/abc075_c) | Union Find | DFS, Low Link | [ruby1](atcoder_selected_100/ruby/abc075_c_01.rb), [ruby2](atcoder_selected_100/ruby/abc075_c_02.rb), [kotlin1](atcoder_selected_100/kotlin/abc075_c_01.kt) |
 | 87 | [ABC120/D](https://atcoder.jp/contests/abc120/tasks/abc120_d) | Union Find | | [ruby](atcoder_selected_100/ruby/abc120_d.rb) |
+| - | [ABC350/D](https://atcoder.jp/contests/abc350/tasks/abc350_d) | Union Find | DFS | [ruby1](atcoder_selected_100/ruby/abc350_d_01.rb), [ruby2](atcoder_selected_100/ruby/abc350_d_02.rb) |
 | 88 | [JOI2008HO](https://atcoder.jp/contests/joi2008ho/tasks/joi2008ho_a) | 圧縮 | | [ruby](atcoder_selected_100/ruby/joi2008ho_a.rb) |
 | 89 | [JOI2013HO/1](https://atcoder.jp/contests/joi2013ho/tasks/joi2013ho1) | 圧縮 | | [ruby](atcoder_selected_100/ruby/joi2013ho_1.rb) |
 | 90 | [S8PC-5/B](https://atcoder.jp/contests/s8pc-5/tasks/s8pc_5_b) | その他 | | [ruby](atcoder_selected_100/ruby/s8pc_5_b.rb) |
@@ -115,7 +116,7 @@
 | G | [Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g) | | トポロジカルソート | [ruby](educational_dp/ruby/g.rb), [kotlin](educational_dp/kotlin/g.kt) |
 | H | [Grid 1](https://atcoder.jp/contests/dp/tasks/dp_h) | |  | [ruby](educational_dp/ruby/h.rb), [kotlin](educational_dp/kotlin/h.kt) |
 | I | [Coins](https://atcoder.jp/contests/dp/tasks/dp_i) | 確率DP | | [ruby](educational_dp/ruby/i.rb) |
-| J | [Sushi](https://atcoder.jp/contests/dp/tasks/dp_j) |  期待値DP | | [ruby](educational_dp/ruby/j.rb), [kotlin](educational_dp/kotlin/j.kt) |
+| J | [Sushi](https://atcoder.jp/contests/dp/tasks/dp_j) |  期待値DP | メモ化再帰 | [ruby](educational_dp/ruby/j.rb), [kotlin](educational_dp/kotlin/j.kt) |
 | K | [Stones](https://atcoder.jp/contests/dp/tasks/dp_k) | | ゲーム必勝法 | [ruby](educational_dp/ruby/k.rb) |
 | L | [Deque](https://atcoder.jp/contests/dp/tasks/dp_l) | 区間DP | バックトラック法 | [ruby](educational_dp/ruby/l.rb) |
 | M | [Candies](https://atcoder.jp/contests/dp/tasks/dp_m) |  | 累積和 | [ruby](educational_dp/ruby/m.rb) |
