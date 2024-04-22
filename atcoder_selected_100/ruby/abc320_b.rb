@@ -27,13 +27,13 @@ def manacher(str)
 
     break if i + k >= s.size
 
-    # i + radius[i - k] が radius[i] 以上の場合 中心iの半径に入っていないので
+    # k + radius[i - k] が radius[i] 以上の場合 中心iの半径に入っていないので
     # radius[i + k] は radius[i] - k 以上となることまでしかわからない。
     # ここでは、暫定的な値を入れる
     radius[i + k] = radius[i] - k
     i += k
   end
-  # strに$をふかしているので、その部分を抜く。
+  # strに$を付加しているので、その部分を抜く。
   # radiusは回文の半径としているが挿入された$も含むためradiusの値は回文の長さ + 1
   radius[1...-1].map(&:pred)
 end
