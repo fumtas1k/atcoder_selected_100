@@ -12,26 +12,26 @@ M.times do
   G[b] << a
 end
 
-@ord = []
-@low = []
-@used = [false] * N
-@idx = -1
-@cnt = 0
+ord = []
+low = []
+used = [false] * N
+idx = -1
+cnt = 0
 
-def dfs(pos, pre = -1) 
-  @used[pos] = true
-  @ord[pos] = @low[pos] = (@idx += 1)
+dfs =-> (pos, pre = -1) do
+  used[pos] = true
+  ord[pos] = low[pos] = (idx += 1)
   G[pos].each do |to|
     next if to == pre
-    if @used[to]
-      @low[pos] = [@low[pos], @order[to]].min
+    if used[to]
+      low[pos] = [low[pos], ord[to]].min
     else
-      dfs(to, pos)
-      @low[pos] = [@low[pos], @low[to]].min
-      @cnt += 1 if @ord[pos] < @low[to]
+      dfs.call(to, pos)
+      low[pos] = [low[pos], low[to]].min
+      cnt += 1 if ord[pos] < low[to]
     end
   end
 end
 
-dfs(0)
-puts @cnt
+dfs.call(0)
+puts cnt
