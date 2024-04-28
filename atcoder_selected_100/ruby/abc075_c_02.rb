@@ -24,7 +24,7 @@ def dfs(pos, pre)
   G[pos].each do |to|
     next if to == pre
     if @used[to]
-      @low[pos] = [@low[pos], @low[to]].min
+      @low[pos] = [@low[pos], @order[to]].min
     else
       dfs(to, pos)
       @low[pos] = [@low[pos], @low[to]].min
