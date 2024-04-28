@@ -18,7 +18,7 @@ end
 @idx = -1
 @cnt = 0
 
-def dfs(pos, pre)
+def dfs(pos, pre = -1) 
   @used[pos] = true
   @ord[pos] = @low[pos] = (@idx += 1)
   G[pos].each do |to|
@@ -33,5 +33,5 @@ def dfs(pos, pre)
   end
 end
 
-dfs(0, -1)
+dfs(0)
 puts @cnt
