@@ -18,6 +18,7 @@
 | 11 | [ABC128/C](https://atcoder.jp/contests/abc128/tasks/abc128_c) | 全探索:ビット全探索 | | [ruby](atcoder_selected_100/ruby/abc128_c.rb) |
 | 12 | [ABC002/D](https://atcoder.jp/contests/abc002/tasks/abc002_4) | 全探索:ビット全探索 | | [ruby](atcoder_selected_100/ruby/abc002_d.rb) |
 | 13 | [JOI2008YO/E](https://atcoder.jp/contests/joi2008yo/tasks/joi2008yo_e) | 全探索:ビット全探索 | | [ruby](atcoder_selected_100/ruby/joi2008yo_e.rb) |
+| - | [ABC354/E](https://atcoder.jp/contests/abc354/tasks/abc354_e) | 全探索:ビット全探索 | 後ろから考える | [ruby](atcoder_selected_100/ruby/abc354_e.rb) |
 | 15 | [ABC145/C](https://atcoder.jp/contests/abc145/tasks/abc145_c) | 全探索:順列全探索 | | [ruby](atcoder_selected_100/ruby/abc145_c.rb) |
 | 16 | [ABC150/C](https://atcoder.jp/contests/abc150/tasks/abc150_c) | 全探索:順列全探索 | | [ruby](atcoder_selected_100/ruby/abc150_c.rb) |
 | 17 | [SLDS1-13/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_13_A&lang=ja) | 全探索:順列全探索 | バックトラック法 | [ruby](atcoder_selected_100/ruby/alds1_13_a.rb) |
@@ -55,6 +56,7 @@
 | 53 | [DPL-1/D](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_D&lang=ja) | 動的計画法:その他 | 最長増加部分列(LIS) | [ruby](atcoder_selected_100/ruby/dpl_1_d.rb) |
 | 54 | [ABC006/D](https://atcoder.jp/contests/abc006/tasks/abc006_4) | 動的計画法:その他 | 最長増加部分列(LIS) | [ruby](atcoder_selected_100/ruby/abc006_d.rb) |
 | 55 | [ABC134/E](https://atcoder.jp/contests/abc134/tasks/abc134_e) | 動的計画法:その他 | 最長増加部分列(LIS) | [ruby](atcoder_selected_100/ruby/abc134_e.rb) |
+| - | [ABC354/F](https://atcoder.jp/contests/abc354/tasks/abc354_f) | 動的計画法:その他 | 最長増加部分列(LIS), 前後を考える | [ruby](atcoder_selected_100/ruby/abc354_f.rb) |
 | - | [ABC336/E](https://atcoder.jp/contests/abc336/tasks/abc336_e) | 動的計画法:その他 | 両端から計算 | [ruby](atcoder_selected_100/ruby/abc336_e.rb) |
 | - | [ABC340/E](https://atcoder.jp/contests/abc340/tasks/abc340_e) | 動的計画法:その他 | フェニック木 | [ruby](atcoder_selected_100/ruby/abc340_e.rb) |
 | - | [ABC216/G](https://atcoder.jp/contests/abc216/tasks/abc216_g) | 動的計画法:その他 | フェニック木 | [ruby](atcoder_selected_100/ruby/abc216_g.rb) |
