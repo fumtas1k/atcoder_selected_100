@@ -128,7 +128,7 @@
 | O | [Matching](https://atcoder.jp/contests/dp/tasks/dp_o) | bitDP | | [ruby](educational_dp/ruby/o.rb) |
 | P | [Independent Set](https://atcoder.jp/contests/dp/tasks/dp_p) | 木DP | | [ruby](educational_dp/ruby/p.rb) |
 | Q | [Flowers](https://atcoder.jp/contests/dp/tasks/dp_q) | | セグメント木 | [ruby](educational_dp/ruby/q.rb) |
-| S | [Digit Sum](https://atcoder.jp/contests/dp/tasks/dp_s) | 桁DP | | [ruby](educational_dp/ruby/s.rb) |
+| S | [Digit Sum](https://atcoder.jp/contests/dp/tasks/dp_s) | 桁DP | | [ruby](educational_dp/ruby/s.rb), [JS](educational_dp/javascript/s.js) |
 | T | [Permutation](https://atcoder.jp/contests/dp/tasks/dp_t) | 挿入DP | | [ruby](educational_dp/ruby/t.rb) |
 | U | [Grouping](https://atcoder.jp/contests/dp/tasks/dp_u) | bitDP | | [ruby](educational_dp/ruby/u.rb) |
 | V | [Subtree](https://atcoder.jp/contests/dp/tasks/dp_v) | 全方位木DP | 累積積 | [ruby](educational_dp/ruby/v.rb), [kotlin](educational_dp/kotlin/v.kt) |

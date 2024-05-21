@@ -3,25 +3,25 @@
 M = 10 ** 9 + 7
 K = gets.chomp.chars.map(&:to_i)
 D = gets.to_i
-DIGIT = K.size
 
-# dp[is_less][Dで割った余り] is_less = 1なら既にK未満
-# dp[上からの桁数][is_less][Dで割った余り]ではTLEする
-dp = Array.new(2) { [0] * D }
-dp[0][0] = 1
+# dp[上からの桁数: i][Kより小さいか][i桁目までの総和をDで割った余り]
+dp = Array.new(K.size + 1) { Array.new(2) { [0] * (D + 1) } }
+dp[0][0][0] = 1
 
-# iは上から何桁目かを表す
-DIGIT.times do |i|
-  dp2 = Array.new(2) { [0] * D }
+K.each_with_index do |k, i|
   D.times do |d|
+    dp[i + 1][0][(d + k) % D] += dp[i][0][d]
+    dp[i + 1][0][(d + k) % D] %= M
+
     10.times do |j|
-      dp2[1][(d + j) % D] += dp[1][d]
-      dp2[1][(d + j) % D] += dp[0][d] if j < K[i]
+      if j < k
+        dp[i + 1][1][(d + j) % D] += dp[i][0][d]
+      end
+      dp[i + 1][1][(d + j) % D] += dp[i][1][d]
+      dp[i + 1][1][(d + j) % D] %= M
     end
-    dp2[0][(d + K[i]) % D] += dp[0][d]
   end
-  dp = dp2.map {|row| row.map { _1 % M } }
 end
 
 # 答えに0が含まれるので除去
-puts (dp.sum(&:first) - 1 + M) % M
+puts (dp[-1].sum(&:first) - 1 + M) % M
