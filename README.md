@@ -20,6 +20,7 @@
 | 12 | [ABC002/D](https://atcoder.jp/contests/abc002/tasks/abc002_4) | 全探索:ビット全探索 | | [ruby](atcoder_selected_100/ruby/abc002_d.rb) |
 | 13 | [JOI2008YO/E](https://atcoder.jp/contests/joi2008yo/tasks/joi2008yo_e) | 全探索:ビット全探索 | | [ruby](atcoder_selected_100/ruby/joi2008yo_e.rb) |
 | - | [ABC354/E](https://atcoder.jp/contests/abc354/tasks/abc354_e) | 全探索:ビット全探索 | 後ろから考える | [ruby](atcoder_selected_100/ruby/abc354_e.rb) |
+| - | [ABC356/C](https://atcoder.jp/contests/abc356/tasks/abc356_c) | 全探索:ビット全探索 |  | [ruby](atcoder_selected_100/ruby/abc356_c.rb) |
 | 15 | [ABC145/C](https://atcoder.jp/contests/abc145/tasks/abc145_c) | 全探索:順列全探索 | | [ruby](atcoder_selected_100/ruby/abc145_c.rb) |
 | 16 | [ABC150/C](https://atcoder.jp/contests/abc150/tasks/abc150_c) | 全探索:順列全探索 | | [ruby](atcoder_selected_100/ruby/abc150_c.rb) |
 | 17 | [SLDS1-13/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_13_A&lang=ja) | 全探索:順列全探索 | バックトラック法 | [ruby](atcoder_selected_100/ruby/alds1_13_a.rb) |
@@ -50,10 +51,10 @@
 | 46 | [ALDS1-10/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_10_B&lang=ja) | 動的計画法:区間DP | 連鎖行列積 | [ruby](atcoder_selected_100/ruby/alds1_10_b.rb) |
 | 47 | [JOI2015HO/B](https://atcoder.jp/contests/joi2015ho/tasks/joi2015ho_b) | 動的計画法:区間DP | | [ruby](atcoder_selected_100/ruby/joi2015ho_b.rb) |
 | 48 | [AOJ-1611](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1611&lang=jp) | 動的計画法:区間DP | ダルマ落とし, バックトラック法 | [ruby](atcoder_selected_100/ruby/aoj_1611.rb) |
-| 49 | [DPL-2/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_2_A&lang=ja) | 動的計画法:bitDP | 巡回セールスマン問題 | [ruby](atcoder_selected_100/ruby/dpl_2_a.rb) |
-| 50 | [S8PC-1/G](https://atcoder.jp/contests/s8pc-1/tasks/s8pc_1_g) | 動的計画法:bitDP | 巡回セールスマン問題 | [ruby](atcoder_selected_100/ruby/s8pc_1_g.rb), [kotlin](atcoder_selected_100/kotlin/s8pc_1_g.kt) |
-| 51 | [JOI2014YO/D](https://atcoder.jp/contests/joi2014yo/tasks/joi2014yo_d) | 動的計画法:bitDP |  | [ruby](atcoder_selected_100/ruby/joi2014yo_d.rb) |
-| 52 | [JOI2017YO/D](https://atcoder.jp/contests/joi2017yo/tasks/joi2017yo_d) | 動的計画法:bitDP |  | [ruby](atcoder_selected_100/ruby/joi2017yo_d.rb) |
+| 49 | [DPL-2/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_2_A&lang=ja) | 動的計画法:ビットDP | 巡回セールスマン問題 | [ruby](atcoder_selected_100/ruby/dpl_2_a.rb) |
+| 50 | [S8PC-1/G](https://atcoder.jp/contests/s8pc-1/tasks/s8pc_1_g) | 動的計画法:ビットDP | 巡回セールスマン問題 | [ruby](atcoder_selected_100/ruby/s8pc_1_g.rb), [kotlin](atcoder_selected_100/kotlin/s8pc_1_g.kt) |
+| 51 | [JOI2014YO/D](https://atcoder.jp/contests/joi2014yo/tasks/joi2014yo_d) | 動的計画法:ビットDP |  | [ruby](atcoder_selected_100/ruby/joi2014yo_d.rb) |
+| 52 | [JOI2017YO/D](https://atcoder.jp/contests/joi2017yo/tasks/joi2017yo_d) | 動的計画法:ビットDP |  | [ruby](atcoder_selected_100/ruby/joi2017yo_d.rb) |
 | 53 | [DPL-1/D](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_D&lang=ja) | 動的計画法:その他 | 最長増加部分列(LIS) | [ruby](atcoder_selected_100/ruby/dpl_1_d.rb) |
 | 54 | [ABC006/D](https://atcoder.jp/contests/abc006/tasks/abc006_4) | 動的計画法:その他 | 最長増加部分列(LIS) | [ruby](atcoder_selected_100/ruby/abc006_d.rb) |
 | 55 | [ABC134/E](https://atcoder.jp/contests/abc134/tasks/abc134_e) | 動的計画法:その他 | 最長増加部分列(LIS) | [ruby](atcoder_selected_100/ruby/abc134_e.rb) |
@@ -88,6 +89,7 @@
 | 78 | [ABC106/D](https://atcoder.jp/contests/abc106/tasks/abc106_d) | 累積和:二次元 | 区間DP | [ruby](atcoder_selected_100/ruby/abc106_d.rb) |
 | 80 | [ABC014/C](https://atcoder.jp/contests/gigacode-2019/tasks/gigacode_2019_d) | 累積和 | 二分探索 | [ruby](atcoder_selected_100/ruby/gigacode_2019_d.rb) |
 | - | [ABC347/E](https://atcoder.jp/contests/abc347/tasks/abc347_e) | 累積和 | 横ではなく縦で考える | [ruby](atcoder_selected_100/ruby/abc347_e.rb) |
+| - | [ABC356/E](https://atcoder.jp/contests/abc356/tasks/abc356_e) | 累積和 | 答えから考える | [ruby](atcoder_selected_100/ruby/abc356_e.rb) |
 | 81 | [ABC014/C](https://atcoder.jp/contests/abc014/tasks/abc014_3) | 累積和:いもす法 | | [ruby](atcoder_selected_100/ruby/abc014_c.rb) |
 | 83 | [JOI2015HO/A]() | 累積和:いもす法 | | [ruby](atcoder_selected_100/ruby/joi2015ho_a.rb) |
 | - | [ABC338/D](https://atcoder.jp/contests/abc338/tasks/abc338_d) | 累積和:いもす法 | | [ruby](atcoder_selected_100/ruby/abc338_d.rb) |
