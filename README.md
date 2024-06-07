@@ -110,6 +110,7 @@
 | - | [ABC320/B](https://atcoder.jp/contests/abc320/tasks/abc320_b) | 数学的な問題 | 回文, manacher | [ruby](atcoder_selected_100/ruby/abc320_b.rb) |
 | - | [ABC346/E](https://atcoder.jp/contests/abc346/tasks/abc346_e) | 数学的な問題 | 後ろから考える | [ruby](atcoder_selected_100/ruby/abc346_e.rb) |
 | - | [ABC347/C](https://atcoder.jp/contests/abc347/tasks/abc347_c) | 数学的な問題 | 条件を変換する | [ruby](atcoder_selected_100/ruby/abc347_c.rb) |
+| - | [CHOKUDAI_S001/J](https://atcoder.jp/contests/chokudai_s001/tasks/chokudai_S001_j) | 数学的な問題 | 転倒数 | [ruby](atcoder_selected_100/ruby/chokudai_S001_j.rb) |
 
 ## [Educational DP Contest/DPまとめコンテスト](https://atcoder.jp/contests/dp)
 
