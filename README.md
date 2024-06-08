@@ -64,7 +64,7 @@
 | - | [ABC340/E](https://atcoder.jp/contests/abc340/tasks/abc340_e) | 動的計画法:その他 | フェニック木 | [ruby](atcoder_selected_100/ruby/abc340_e.rb) |
 | - | [ABC216/G](https://atcoder.jp/contests/abc216/tasks/abc216_g) | 動的計画法:その他 | フェニック木 | [ruby](atcoder_selected_100/ruby/abc216_g.rb) |
 | - | [ABC312/G](https://atcoder.jp/contests/abc312/tasks/abc312_d) | 動的計画法:その他 | 括弧列の成立条件 | [ruby](atcoder_selected_100/ruby/abc312_d.rb) |
-| - | [ABC357/E](https://atcoder.jp/contests/abc357/tasks/abc357_e) | 動的計画法:その他 | 強連結成分分解 | [ruby](atcoder_selected_100/ruby/abc357_e.rb) |
+| - | [ABC357/E](https://atcoder.jp/contests/abc357/tasks/abc357_e) | 動的計画法:その他 | 強連結成分分解 | [ruby](atcoder_selected_100/ruby/abc357_e.rb), [JS](atcoder_selected_100/javascript/abc357_e.js) |
 | - | [ABC350/E](https://atcoder.jp/contests/abc350/tasks/abc350_e) | 動的計画法:期待値DP | メモ化再帰 | [ruby](atcoder_selected_100/ruby/abc350_e.rb) |
 | 56 | [GRL-1/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_1_A&lang=ja) | 最短経路問題 | ダイクストラ法 | [ruby](atcoder_selected_100/ruby/grl_1_a.rb) |
 | 57 | [JOI2008YO/F](https://atcoder.jp/contests/joi2008yo/tasks/joi2008yo_f) | 最短経路問題 | ダイクストラ法 | [ruby1](atcoder_selected_100/ruby/joi2008yo_f_01.rb), [ruby2](atcoder_selected_100/ruby/joi2008yo_f_02.rb) |
