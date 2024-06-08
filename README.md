@@ -36,6 +36,7 @@
 | - | [ABC282/D](https://atcoder.jp/contests/abc282/tasks/abc282_d) | 深さ優先探索, 二部グラフ, 余事象 | | [ruby](atcoder_selected_100/ruby/abc282_d.rb) |
 | - | [ABC348/E](https://atcoder.jp/contests/abc348/tasks/abc348_e) | 深さ優先探索, 木の重心 | | [ruby](atcoder_selected_100/ruby/abc348_e.rb) |
 | - | [ABC350/F](https://atcoder.jp/contests/abc350/tasks/abc350_f) | 深さ優先探索 | | [ruby](atcoder_selected_100/ruby/abc350_f.rb) |
+| - | [ABC357/C](https://atcoder.jp/contests/abc357/tasks/abc357_c) | 深さ優先探索 | 3進法 | [ruby](atcoder_selected_100/ruby/abc357_c.rb) |
 | 28 | [ALDS1-11/C](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_C&lang=ja) | 幅優先探索 | | [ruby](atcoder_selected_100/ruby/alds1_11_c.rb) |
 | 29 | [ABC007/C](https://atcoder.jp/contests/abc007/tasks/abc007_3) | 幅優先探索 | | [ruby](atcoder_selected_100/ruby/abc007_c.rb) |
 | 30 | [JOI2011YO/E](https://atcoder.jp/contests/joi2011yo/tasks/joi2011yo_e) | 幅優先探索 | | [ruby](atcoder_selected_100/ruby/joi2011yo_e.rb) |
@@ -63,6 +64,7 @@
 | - | [ABC340/E](https://atcoder.jp/contests/abc340/tasks/abc340_e) | 動的計画法:その他 | フェニック木 | [ruby](atcoder_selected_100/ruby/abc340_e.rb) |
 | - | [ABC216/G](https://atcoder.jp/contests/abc216/tasks/abc216_g) | 動的計画法:その他 | フェニック木 | [ruby](atcoder_selected_100/ruby/abc216_g.rb) |
 | - | [ABC312/G](https://atcoder.jp/contests/abc312/tasks/abc312_d) | 動的計画法:その他 | 括弧列の成立条件 | [ruby](atcoder_selected_100/ruby/abc312_d.rb) |
+| - | [ABC357/E](https://atcoder.jp/contests/abc357/tasks/abc357_e) | 動的計画法:その他 | 強連結成分分解 | [ruby](atcoder_selected_100/ruby/abc357_e.rb) |
 | - | [ABC350/E](https://atcoder.jp/contests/abc350/tasks/abc350_e) | 動的計画法:期待値DP | メモ化再帰 | [ruby](atcoder_selected_100/ruby/abc350_e.rb) |
 | 56 | [GRL-1/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_1_A&lang=ja) | 最短経路問題 | ダイクストラ法 | [ruby](atcoder_selected_100/ruby/grl_1_a.rb) |
 | 57 | [JOI2008YO/F](https://atcoder.jp/contests/joi2008yo/tasks/joi2008yo_f) | 最短経路問題 | ダイクストラ法 | [ruby1](atcoder_selected_100/ruby/joi2008yo_f_01.rb), [ruby2](atcoder_selected_100/ruby/joi2008yo_f_02.rb) |
@@ -111,6 +113,7 @@
 | - | [ABC346/E](https://atcoder.jp/contests/abc346/tasks/abc346_e) | 数学的な問題 | 後ろから考える | [ruby](atcoder_selected_100/ruby/abc346_e.rb) |
 | - | [ABC347/C](https://atcoder.jp/contests/abc347/tasks/abc347_c) | 数学的な問題 | 条件を変換する | [ruby](atcoder_selected_100/ruby/abc347_c.rb) |
 | - | [CHOKUDAI_S001/J](https://atcoder.jp/contests/chokudai_s001/tasks/chokudai_S001_j) | 数学的な問題 | 転倒数 | [ruby](atcoder_selected_100/ruby/chokudai_S001_j.rb) |
+| - | [ABC357/D](https://atcoder.jp/contests/abc357/tasks/abc357_d) | 数学的な問題 | 等比数列の和の公式, 逆元 | [ruby](atcoder_selected_100/ruby/abc357_d.rb) |
 
 ## [Educational DP Contest/DPまとめコンテスト](https://atcoder.jp/contests/dp)
 
