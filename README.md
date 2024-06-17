@@ -31,6 +31,7 @@
 | 23 | [JOI2008HO/C](https://atcoder.jp/contests/joi2008ho/tasks/joi2008ho_c) | 二分探索 | | [ruby](atcoder_selected_100/ruby/joi2008ho_c.rb) |
 | - | [C - Come Together](https://atcoder.jp/contests/nikkei2019-final/tasks/nikkei2019_final_c) | 二分探索 | マンハッタン距離の総和を最小値は、中央値を使う | [ruby](atcoder_selected_100/ruby/nikkei2019_final_c.rb) |
 | 24 | [ALDS1-11/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_B&lang=ja) | 深さ優先探索 | | [ruby](atcoder_selected_100/ruby/alds1_11_b.rb) |
+| 25 | [1160](https://onlinejudge.u-aizu.ac.jp/problems/1160) | 深さ優先探索 | | [ruby](atcoder_selected_100/ruby/1160.rb) |
 | 26 | [ABC138/D](https://atcoder.jp/contests/abc138/tasks/abc138_d) | 深さ優先探索 | | [ruby](atcoder_selected_100/ruby/abc138_d.rb) |
 | 27 | [JOI2009YO/D](https://atcoder.jp/contests/joi2009yo/tasks/joi2009yo_d) | 深さ優先探索 | | [ruby](atcoder_selected_100/ruby/joi2009yo_d.rb) |
 | - | [ABC311/C](https://atcoder.jp/contests/abc311/tasks/abc311_c) | 深さ優先探索, 閉路 | | [ruby](atcoder_selected_100/ruby/abc311_c.rb) |
