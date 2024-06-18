@@ -19,6 +19,7 @@
 | 11 | [ABC128/C](https://atcoder.jp/contests/abc128/tasks/abc128_c) | 全探索:ビット全探索 | | [ruby](atcoder_selected_100/ruby/abc128_c.rb) |
 | 12 | [ABC002/D](https://atcoder.jp/contests/abc002/tasks/abc002_4) | 全探索:ビット全探索 | | [ruby](atcoder_selected_100/ruby/abc002_d.rb) |
 | 13 | [JOI2008YO/E](https://atcoder.jp/contests/joi2008yo/tasks/joi2008yo_e) | 全探索:ビット全探索 | | [ruby](atcoder_selected_100/ruby/joi2008yo_e.rb) |
+| 14 | [S8PC4/B](https://atcoder.jp/contests/s8pc-4/tasks/s8pc_4_b) | 全探索:ビット全探索 | | [ruby](atcoder_selected_100/ruby/s8pc_4_b.rb) |
 | - | [ABC354/E](https://atcoder.jp/contests/abc354/tasks/abc354_e) | 全探索:ビット全探索 | 後ろから考える | [ruby](atcoder_selected_100/ruby/abc354_e.rb) |
 | - | [ABC356/C](https://atcoder.jp/contests/abc356/tasks/abc356_c) | 全探索:ビット全探索 |  | [ruby](atcoder_selected_100/ruby/abc356_c.rb) |
 | 15 | [ABC145/C](https://atcoder.jp/contests/abc145/tasks/abc145_c) | 全探索:順列全探索 | | [ruby](atcoder_selected_100/ruby/abc145_c.rb) |
