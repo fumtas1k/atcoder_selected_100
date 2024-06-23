@@ -22,6 +22,7 @@
 | 14 | [S8PC4/B](https://atcoder.jp/contests/s8pc-4/tasks/s8pc_4_b) | 全探索:ビット全探索 | | [ruby](atcoder_selected_100/ruby/s8pc_4_b.rb) |
 | - | [ABC354/E](https://atcoder.jp/contests/abc354/tasks/abc354_e) | 全探索:ビット全探索 | 後ろから考える | [ruby](atcoder_selected_100/ruby/abc354_e.rb) |
 | - | [ABC356/C](https://atcoder.jp/contests/abc356/tasks/abc356_c) | 全探索:ビット全探索 |  | [ruby](atcoder_selected_100/ruby/abc356_c.rb) |
+| - | [ABC359/D](https://atcoder.jp/contests/abc359/tasks/abc359_d) | 全探索:ビット全探索系 |  | [ruby](atcoder_selected_100/ruby/abc359_d.rb) |
 | 15 | [ABC145/C](https://atcoder.jp/contests/abc145/tasks/abc145_c) | 全探索:順列全探索 | | [ruby](atcoder_selected_100/ruby/abc145_c.rb) |
 | 16 | [ABC150/C](https://atcoder.jp/contests/abc150/tasks/abc150_c) | 全探索:順列全探索 | | [ruby](atcoder_selected_100/ruby/abc150_c.rb) |
 | 17 | [SLDS1-13/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_13_A&lang=ja) | 全探索:順列全探索 | バックトラック法 | [ruby](atcoder_selected_100/ruby/alds1_13_a.rb) |
@@ -118,6 +119,7 @@
 | - | [ABC347/C](https://atcoder.jp/contests/abc347/tasks/abc347_c) | 数学的な問題 | 条件を変換する | [ruby](atcoder_selected_100/ruby/abc347_c.rb) |
 | - | [CHOKUDAI_S001/J](https://atcoder.jp/contests/chokudai_s001/tasks/chokudai_S001_j) | 数学的な問題 | 転倒数 | [ruby](atcoder_selected_100/ruby/chokudai_S001_j.rb) |
 | - | [ABC357/D](https://atcoder.jp/contests/abc357/tasks/abc357_d) | 数学的な問題 | 等比数列の和の公式, 逆元 | [ruby](atcoder_selected_100/ruby/abc357_d.rb) |
+| - | [ABC359/E](https://atcoder.jp/contests/abc359/tasks/abc359_e) | その他 | スタック | [ruby](atcoder_selected_100/ruby/abc359_e.rb) |
 
 ## [Educational DP Contest/DPまとめコンテスト](https://atcoder.jp/contests/dp)
 
