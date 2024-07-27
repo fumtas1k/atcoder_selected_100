@@ -32,6 +32,7 @@
 | 21 | [ABC023/D](https://atcoder.jp/contests/abc023/tasks/abc023_d) | 二分探索 | | [ruby](atcoder_selected_100/ruby/abc023_d.rb) |
 | 23 | [JOI2008HO/C](https://atcoder.jp/contests/joi2008ho/tasks/joi2008ho_c) | 二分探索 | | [ruby](atcoder_selected_100/ruby/joi2008ho_c.rb) |
 | - | [C - Come Together](https://atcoder.jp/contests/nikkei2019-final/tasks/nikkei2019_final_c) | 二分探索 | マンハッタン距離の総和を最小値は、中央値を使う | [ruby](atcoder_selected_100/ruby/nikkei2019_final_c.rb) |
+| - | [ABC364/D](https://atcoder.jp/contests/abc364/tasks/abc364_d) | 二分探索 | さらに二分探索 | [ruby](atcoder_selected_100/ruby/abc364_d.rb) |
 | 24 | [ALDS1-11/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_B&lang=ja) | 深さ優先探索 | | [ruby](atcoder_selected_100/ruby/alds1_11_b.rb) |
 | 25 | [1160](https://onlinejudge.u-aizu.ac.jp/problems/1160) | 深さ優先探索 | | [ruby](atcoder_selected_100/ruby/1160.rb) |
 | 26 | [ABC138/D](https://atcoder.jp/contests/abc138/tasks/abc138_d) | 深さ優先探索 | | [ruby](atcoder_selected_100/ruby/abc138_d.rb) |
@@ -53,6 +54,7 @@
 | 40 | [JOI2012YO/D](https://atcoder.jp/contests/joi2012yo/tasks/joi2012yo_d) | 動的計画法:ナップザックDP | | [ruby](atcoder_selected_100/ruby/joi2012yo_d.rb) |
 | 41 | [JOI2013YO/D](https://atcoder.jp/contests/joi2013yo/tasks/joi2013yo_d) | 動的計画法:ナップザックDP | | [ruby](atcoder_selected_100/ruby/joi2013yo_d.rb) |
 | 42 | [JOI2015YO/D](https://atcoder.jp/contests/joi2015yo/tasks/joi2015yo_d) | 動的計画法:ナップザックDP | | [ruby](atcoder_selected_100/ruby/joi2015yo_d.rb) |
+| - | [ABC364/E](https://atcoder.jp/contests/abc364/tasks/abc364_e) | 動的計画法:ナップザックDP | キーと値を入れ替える | [ruby](atcoder_selected_100/ruby/abc364_e.rb) |
 | 46 | [ALDS1-10/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_10_B&lang=ja) | 動的計画法:区間DP | 連鎖行列積 | [ruby](atcoder_selected_100/ruby/alds1_10_b.rb) |
 | 47 | [JOI2015HO/B](https://atcoder.jp/contests/joi2015ho/tasks/joi2015ho_b) | 動的計画法:区間DP | | [ruby](atcoder_selected_100/ruby/joi2015ho_b.rb) |
 | 48 | [AOJ-1611](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1611&lang=jp) | 動的計画法:区間DP | ダルマ落とし, バックトラック法 | [ruby](atcoder_selected_100/ruby/aoj_1611.rb) |
@@ -130,7 +132,7 @@
 | B | [Frog2](https://atcoder.jp/contests/dp/tasks/dp_b) | | | [ruby](educational_dp/ruby/b.rb), [kotlin](educational_dp/kotlin/b.kt), [ruby](educational_dp/javascript/b.js) |
 | C | [Vacation](https://atcoder.jp/contests/dp/tasks/dp_c) | | | [ruby](educational_dp/ruby/c.rb), [kotlin](educational_dp/kotlin/c.kt), [ruby](educational_dp/javascript/c.js) |
 | D | [Knapsack1](https://atcoder.jp/contests/dp/tasks/dp_d) | ナップザックDP | | [ruby](educational_dp/ruby/d.rb), [kotlin](educational_dp/kotlin/d.kt), [ruby](educational_dp/javascript/d.js) |
-| E | [Knapsack2](https://atcoder.jp/contests/dp/tasks/dp_e) | ナップザックDP | | [ruby](educational_dp/ruby/e.rb), [kotlin](educational_dp/kotlin/e.kt) |
+| E | [Knapsack2](https://atcoder.jp/contests/dp/tasks/dp_e) | ナップザックDP | キーと値を入れ替える | [ruby](educational_dp/ruby/e.rb), [kotlin](educational_dp/kotlin/e.kt) |
 | F | [LCS](https://atcoder.jp/contests/dp/tasks/dp_f) | | 最長共通部分列(LCS), 復元 | [ruby](educational_dp/ruby/f.rb), [kotlin](educational_dp/kotlin/f.kt) |
 | G | [Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g) | | トポロジカルソート | [ruby](educational_dp/ruby/g.rb), [kotlin](educational_dp/kotlin/g.kt) |
 | H | [Grid 1](https://atcoder.jp/contests/dp/tasks/dp_h) | |  | [ruby](educational_dp/ruby/h.rb), [kotlin](educational_dp/kotlin/h.kt) |
