@@ -10,6 +10,7 @@
 | 2 | [ABC106/B](https://atcoder.jp/contests/abc106/tasks/abc106_b) | 全探索:全列挙 | | [ruby](atcoder_selected_100/ruby/abc106_b.rb), [kotlin](atcoder_selected_100/kotlin/abc106_b.rb) |
 | 3 | [ABC122/B](https://atcoder.jp/contests/abc122/tasks/abc122_b) | 全探索:全列挙 | 尺取法 | [ruby](atcoder_selected_100/ruby/abc122_b.rb), [kotlin](atcoder_selected_100/kotlin/abc122_b.kt) |
 | - | [ABC355/D](https://atcoder.jp/contests/abc355/tasks/abc355_d) | 全探索:全列挙 | 尺取法, 余事象 | [ruby](atcoder_selected_100/ruby/abc355_d.rb) |
+| - | [ABC366/E](https://atcoder.jp/contests/abc366/tasks/abc366_e) | 全探索:全列挙 | 尺取法, マンハッタン距離 | [ruby](atcoder_selected_100/ruby/abc366_e.rb) |
 | 4 | [PAKENCAMP-2019-DAY3/C](https://atcoder.jp/contests/pakencamp-2019-day3/tasks/pakencamp_2019_day3_c) | 全探索:全列挙 | | [ruby](atcoder_selected_100/ruby/pakencamp-2019-day3_c.rb) |
 | 5 | [ABC095/C](https://atcoder.jp/contests/abc095/tasks/arc096_a) | 全探索:工夫して通り数を減らす全列挙 | | [ruby](atcoder_selected_100/ruby/abc095_c.rb) |
 | 6 | [SUMITRUST2019/D](https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_d) | 全探索:工夫して通り数を減らす全列挙 | | [ruby1](atcoder_selected_100/ruby/sumitrust2019_d_01.rb), [ruby2](atcoder_selected_100/ruby/sumitrust2019_d_02.rb) |
@@ -97,6 +98,7 @@
 | 77 | [JOI2010HO/A](https://atcoder.jp/contests/joi2010ho/tasks/joi2010ho_a) | 累積和 | | [ruby](atcoder_selected_100/ruby/joi2010ho_a.rb) |
 | 78 | [JOI2011HO/A](https://atcoder.jp/contests/joi2011ho/tasks/joi2011ho1) | 累積和:二次元 | | [ruby](atcoder_selected_100/ruby/joi2011ho_a.rb) |
 | 78 | [ABC106/D](https://atcoder.jp/contests/abc106/tasks/abc106_d) | 累積和:二次元 | 区間DP | [ruby](atcoder_selected_100/ruby/abc106_d.rb) |
+| - | [ABC366/D](https://atcoder.jp/contests/abc366/tasks/abc366_d) | 累積和:三次元 | | [ruby](atcoder_selected_100/ruby/abc366_d.rb) |
 | 80 | [ABC014/C](https://atcoder.jp/contests/gigacode-2019/tasks/gigacode_2019_d) | 累積和 | 二分探索 | [ruby](atcoder_selected_100/ruby/gigacode_2019_d.rb) |
 | - | [ABC347/E](https://atcoder.jp/contests/abc347/tasks/abc347_e) | 累積和 | 横ではなく縦で考える | [ruby](atcoder_selected_100/ruby/abc347_e.rb) |
 | - | [ABC356/E](https://atcoder.jp/contests/abc356/tasks/abc356_e) | 累積和 | 答えから考える | [ruby](atcoder_selected_100/ruby/abc356_e.rb) |
