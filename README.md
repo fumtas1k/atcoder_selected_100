@@ -43,6 +43,7 @@
 | - | [ABC348/E](https://atcoder.jp/contests/abc348/tasks/abc348_e) | 深さ優先探索, 木の重心 | | [ruby](atcoder_selected_100/ruby/abc348_e.rb) |
 | - | [ABC350/F](https://atcoder.jp/contests/abc350/tasks/abc350_f) | 深さ優先探索 | | [ruby](atcoder_selected_100/ruby/abc350_f.rb) |
 | - | [ABC357/C](https://atcoder.jp/contests/abc357/tasks/abc357_c) | 深さ優先探索 | 3進法 | [ruby](atcoder_selected_100/ruby/abc357_c.rb) |
+| - | [ABC213/D](https://atcoder.jp/contests/abc213/tasks/abc213_d) | 深さ優先探索 | オイラーツアー | [ruby](atcoder_selected_100/ruby/abc213_d.rb) |
 | 28 | [ALDS1-11/C](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_C&lang=ja) | 幅優先探索 | | [ruby](atcoder_selected_100/ruby/alds1_11_c.rb) |
 | 29 | [ABC007/C](https://atcoder.jp/contests/abc007/tasks/abc007_3) | 幅優先探索 | | [ruby](atcoder_selected_100/ruby/abc007_c.rb) |
 | 30 | [JOI2011YO/E](https://atcoder.jp/contests/joi2011yo/tasks/joi2011yo_e) | 幅優先探索 | | [ruby](atcoder_selected_100/ruby/joi2011yo_e.rb) |
