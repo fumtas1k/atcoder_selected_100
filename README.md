@@ -89,6 +89,7 @@
 | 64 | [GRL-2/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_2_A&lang=ja) | 最小全域木 | クラスカル法(貪欲法 + Union Find) | [ruby](atcoder_selected_100/ruby/grl_2_a.rb) |
 | 65 | [JOISC2010/FINALS](https://atcoder.jp/contests/joisc2010/tasks/joisc2010_finals) | 最小全域木 | クラスカル法(貪欲法 + Union Find) | [ruby](atcoder_selected_100/ruby/joisc2010_finals.rb) |
 | - | [ ABC355/F](https://atcoder.jp/contests/abc355/tasks/abc355_f) | 最小全域木 | Union Find | [ruby](atcoder_selected_100/ruby/abc355_f.rb) |
+| - | [ ABC214/D](https://atcoder.jp/contests/abc214/tasks/abc214_d) | 最小全域木 | Union Find, 主客転倒 | [ruby](atcoder_selected_100/ruby/abc214_d.rb) |
 | - | [ABC325/D](https://atcoder.jp/contests/abc325/tasks/abc325_d) | 貪欲法 | 優先度付きキュー | [ruby](atcoder_selected_100/ruby/abc325_d.rb) |
 | 68 | [NTL-1/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=NTL_1_A&lang=ja) | 素因数分解 | | [ruby](atcoder_selected_100/ruby/ntl_1_a.rb) |
 | - | [ABC254/D](https://atcoder.jp/contests/abc254/tasks/abc254_d) | 素因数分解 | 平方数 | [ruby1](atcoder_selected_100/ruby/abc254_d_1.rb),[ruby2](atcoder_selected_100/ruby/abc254_d_2.rb) |
