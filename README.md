@@ -34,6 +34,7 @@
 | 23 | [JOI2008HO/C](https://atcoder.jp/contests/joi2008ho/tasks/joi2008ho_c) | 二分探索 | | [ruby](atcoder_selected_100/ruby/joi2008ho_c.rb) |
 | - | [C - Come Together](https://atcoder.jp/contests/nikkei2019-final/tasks/nikkei2019_final_c) | 二分探索 | マンハッタン距離の総和を最小値は、中央値を使う | [ruby](atcoder_selected_100/ruby/nikkei2019_final_c.rb) |
 | - | [ABC364/D](https://atcoder.jp/contests/abc364/tasks/abc364_d) | 二分探索 | さらに二分探索 | [ruby](atcoder_selected_100/ruby/abc364_d.rb) |
+| - | [ABC217/D](https://atcoder.jp/contests/abc217/tasks/abc217_d) | 二分探索 | sorted_setの代わり, セグメント木, unshift | [ruby1](atcoder_selected_100/ruby/abc217_d_1.rb), [ruby2](atcoder_selected_100/ruby/abc217_d_2.rb) |
 | 24 | [ALDS1-11/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_B&lang=ja) | 深さ優先探索 | | [ruby](atcoder_selected_100/ruby/alds1_11_b.rb) |
 | 25 | [1160](https://onlinejudge.u-aizu.ac.jp/problems/1160) | 深さ優先探索 | | [ruby](atcoder_selected_100/ruby/1160.rb) |
 | 26 | [ABC138/D](https://atcoder.jp/contests/abc138/tasks/abc138_d) | 深さ優先探索 | | [ruby](atcoder_selected_100/ruby/abc138_d.rb) |
@@ -84,6 +85,7 @@
 | - | [ABC305/E](https://atcoder.jp/contests/abc305/tasks/abc305_e) | 最短経路問題 | 変形ダイクストラ法, 優先度付キュー | [ruby](atcoder_selected_100/ruby/abc305_e.rb) |
 | - | [ABC325/E](https://atcoder.jp/contests/abc325/tasks/abc325_e) | 最短経路問題 | ダイクストラ法, 幅優先探索, 二分探索法 | [ruby](atcoder_selected_100/ruby/abc325_e.rb) |
 | - | [ABC222/F](https://atcoder.jp/contests/abc222/tasks/abc222_f) | 最短経路問題 | ダイクストラ法, 幅優先探索, 優先度付キュー, 木の直径 | [ruby](atcoder_selected_100/ruby/abc222_f.rb) |
+| - | [ABC217/E](https://atcoder.jp/contests/abc217/tasks/abc217_e) | 優先度付キュー | 二重構造 | [ruby](atcoder_selected_100/ruby/abc217_e.rb) |
 | 60 | [GRL-1/C](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_1_C&lang=ja) | 最短経路問題 | ワーシャルフロイド法 | [ruby](atcoder_selected_100/ruby/grl_1_c.rb) |
 | 61 | [ABC012/D](https://atcoder.jp/contests/abc012/tasks/abc012_4) | 最短経路問題 | ワーシャルフロイド法 | [ruby](atcoder_selected_100/ruby/abc012_d.rb) |
 | 62 | [ABC079/D](https://atcoder.jp/contests/abc079/tasks/abc079_d) | 最短経路問題 | ワーシャルフロイド法 | [ruby](atcoder_selected_100/ruby/abc079_d.rb) |
