@@ -116,6 +116,7 @@
 | 86 | [ABC075/C](https://atcoder.jp/contests/abc075/tasks/abc075_c) | Union Find | DFS, Low Link | [ruby1](atcoder_selected_100/ruby/abc075_c_01.rb), [ruby2](atcoder_selected_100/ruby/abc075_c_02.rb), [kotlin1](atcoder_selected_100/kotlin/abc075_c_01.kt), [kotlin2](atcoder_selected_100/kotlin/abc075_c_02.kt) |
 | 87 | [ABC120/D](https://atcoder.jp/contests/abc120/tasks/abc120_d) | Union Find | | [ruby](atcoder_selected_100/ruby/abc120_d.rb) |
 | - | [ABC350/D](https://atcoder.jp/contests/abc350/tasks/abc350_d) | Union Find | DFS | [ruby1](atcoder_selected_100/ruby/abc350_d_01.rb), [ruby2](atcoder_selected_100/ruby/abc350_d_02.rb) |
+| - | [ABC372/E](https://atcoder.jp/contests/abc372/tasks/abc372_e) | Union Find | | [ruby1](atcoder_selected_100/ruby/abc372_e.rb) |
 | 88 | [JOI2008HO](https://atcoder.jp/contests/joi2008ho/tasks/joi2008ho_a) | 圧縮 | | [ruby](atcoder_selected_100/ruby/joi2008ho_a.rb) |
 | 89 | [JOI2013HO/1](https://atcoder.jp/contests/joi2013ho/tasks/joi2013ho1) | 圧縮 | | [ruby](atcoder_selected_100/ruby/joi2013ho_1.rb) |
 | 90 | [S8PC-5/B](https://atcoder.jp/contests/s8pc-5/tasks/s8pc_5_b) | その他 | | [ruby](atcoder_selected_100/ruby/s8pc_5_b.rb) |
@@ -134,6 +135,7 @@
 | - | [ABC357/D](https://atcoder.jp/contests/abc357/tasks/abc357_d) | 数学的な問題 | 等比数列の和の公式, 逆元 | [ruby](atcoder_selected_100/ruby/abc357_d.rb) |
 | - | [ABC367/F](https://atcoder.jp/contests/abc367/tasks/abc367_f) | 数学的な問題 | Schwartz–Zippel lemma, Zobrist Hash | [ruby](atcoder_selected_100/ruby/abc367_f.rb) |
 | - | [ABC359/E](https://atcoder.jp/contests/abc359/tasks/abc359_e) | その他 | スタック | [ruby](atcoder_selected_100/ruby/abc359_e.rb) |
+| - | [ABC372/D](https://atcoder.jp/contests/abc372/tasks/abc372_d) | その他 | スタック | [ruby](atcoder_selected_100/ruby/abc372_d.rb) |
 
 
 ## [Educational DP Contest/DPまとめコンテスト](https://atcoder.jp/contests/dp)
