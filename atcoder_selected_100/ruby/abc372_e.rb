@@ -1,6 +1,7 @@
 # -
 # ABC372/E
 # Union Find
+# 必要数分のみ保持
 
 class DSU
   attr_reader :parent_or_size, :members10
