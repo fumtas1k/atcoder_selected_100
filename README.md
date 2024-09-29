@@ -11,6 +11,7 @@
 | 3 | [ABC122/B](https://atcoder.jp/contests/abc122/tasks/abc122_b) | 全探索:全列挙 | 尺取法 | [ruby](atcoder_selected_100/ruby/abc122_b.rb), [kotlin](atcoder_selected_100/kotlin/abc122_b.kt) |
 | - | [ABC355/D](https://atcoder.jp/contests/abc355/tasks/abc355_d) | 全探索:全列挙 | 尺取法, 余事象 | [ruby](atcoder_selected_100/ruby/abc355_d.rb) |
 | - | [ABC366/E](https://atcoder.jp/contests/abc366/tasks/abc366_e) | 全探索:全列挙 | 尺取法, マンハッタン距離 | [ruby](atcoder_selected_100/ruby/abc366_e.rb) |
+| - | [ABC229/D](https://atcoder.jp/contests/abc229/tasks/abc229_e) | 全探索:全列挙 | 尺取法, 累積和 | [ruby](atcoder_selected_100/ruby/abc229_d.rb) |
 | 4 | [PAKENCAMP-2019-DAY3/C](https://atcoder.jp/contests/pakencamp-2019-day3/tasks/pakencamp_2019_day3_c) | 全探索:全列挙 | | [ruby](atcoder_selected_100/ruby/pakencamp-2019-day3_c.rb) |
 | 5 | [ABC095/C](https://atcoder.jp/contests/abc095/tasks/arc096_a) | 全探索:工夫して通り数を減らす全列挙 | | [ruby](atcoder_selected_100/ruby/abc095_c.rb) |
 | 6 | [SUMITRUST2019/D](https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_d) | 全探索:工夫して通り数を減らす全列挙 | | [ruby1](atcoder_selected_100/ruby/sumitrust2019_d_01.rb), [ruby2](atcoder_selected_100/ruby/sumitrust2019_d_02.rb) |
