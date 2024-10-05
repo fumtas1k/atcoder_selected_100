@@ -36,6 +36,7 @@
 | - | [C - Come Together](https://atcoder.jp/contests/nikkei2019-final/tasks/nikkei2019_final_c) | 二分探索 | マンハッタン距離の総和を最小値は、中央値を使う | [ruby](atcoder_selected_100/ruby/nikkei2019_final_c.rb) |
 | - | [ABC364/D](https://atcoder.jp/contests/abc364/tasks/abc364_d) | 二分探索 | さらに二分探索 | [ruby](atcoder_selected_100/ruby/abc364_d.rb) |
 | - | [ABC217/D](https://atcoder.jp/contests/abc217/tasks/abc217_d) | 二分探索 | sorted_setの代わり, セグメント木, unshift | [ruby1](atcoder_selected_100/ruby/abc217_d_1.rb), [ruby2](atcoder_selected_100/ruby/abc217_d_2.rb) |
+| - | [ABC364/D](https://atcoder.jp/contests/abc374/tasks/abc374_e) | 二分探索 | 決め打ち二分探索 | [ruby](atcoder_selected_100/ruby/abc374_e.rb) |
 | 24 | [ALDS1-11/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_B&lang=ja) | 深さ優先探索 | | [ruby](atcoder_selected_100/ruby/alds1_11_b.rb) |
 | 25 | [1160](https://onlinejudge.u-aizu.ac.jp/problems/1160) | 深さ優先探索 | | [ruby](atcoder_selected_100/ruby/1160.rb) |
 | 26 | [ABC138/D](https://atcoder.jp/contests/abc138/tasks/abc138_d) | 深さ優先探索 | | [ruby](atcoder_selected_100/ruby/abc138_d.rb) |
