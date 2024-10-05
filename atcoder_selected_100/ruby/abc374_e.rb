@@ -1,6 +1,7 @@
 # -
 # ABC374/E
 # 決め打ち二分探索
+# 最小値の最大化
 
 N, X = gets.split.map(&:to_i)
 APBQ = Array.new(N) { gets.split.map(&:to_i) }
