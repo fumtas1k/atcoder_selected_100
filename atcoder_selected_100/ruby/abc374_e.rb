@@ -8,14 +8,16 @@ APBQ = Array.new(N) { gets.split.map(&:to_i) }
 
 def calc_x(w)
   APBQ.sum do |a, p, b, q|
-    res = Float::INFINITY
-    # 機械SiをBi台と機械TiをAi台は、共にAiBi個の処理能力なのでそれ以上の台数を購入するなら安い方で良い
-    # つまり、どちらかはAiBi個以下の処理能力で良い
-    (b + 1).times do |i|
-      j = [(w - a * i + b - 1) / b, 0].max
-      res = [res, p * i + q * j].min
+    # コスパが良い方を機械Siにする
+    # 機械SiをBi台 = 機械TiをAi台 = 処理能力AiBi個
+    # コスト最小化する場合、 w = AiBi * x + Ai * y　+ Bi * z = Ai * (Bi * x + y) + Bi * z
+    # Siを(Bi * x + y)台、Tiをz台購入すれば良い。
+    # zはAi未満(TiをAi台以上購入するくらいなら、Siを購入した方が安い)
+    if p / a.to_r > q / b.to_r
+      a, b, p, q = b, a, q, p
     end
-    (a + 1).times do |j|
+    res = Float::INFINITY
+    a.times do |j|
       i = [(w - b * j + a - 1) / a, 0].max
       res = [res, p * i + q * j].min
     end
@@ -23,4 +25,5 @@ def calc_x(w)
   end
 end
 
+# Ai, Biが100, Pi, Qiが1, X=10 ** 7の場合、最大個数は10 ** 9
 puts (0 .. 10 ** 9 + 1).bsearch { calc_x(_1) > X } - 1
