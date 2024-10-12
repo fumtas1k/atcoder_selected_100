@@ -83,6 +83,7 @@
 | - | [ABC350/E](https://atcoder.jp/contests/abc350/tasks/abc350_e) | 動的計画法:期待値DP | メモ化再帰 | [ruby](atcoder_selected_100/ruby/abc350_e.rb) |
 | - | [ABC358/E](https://atcoder.jp/contests/abc358/tasks/abc358_e) | 動的計画法:その他 | 組み合わせ, 逆元 | [ruby](atcoder_selected_100/ruby/abc358_e.rb) |
 | - | [ABC362/E](https://atcoder.jp/contests/abc362/tasks/abc362_e) | 動的計画法:その他 | 等差数列 | [ruby](atcoder_selected_100/ruby/abc362_e.rb) |
+| - | [ABC375/E](https://atcoder.jp/contests/abc375/tasks/abc375_e) | 動的計画法:その他 | ループを１つ減らす | [ruby](atcoder_selected_100/ruby/abc375_e.rb) |
 | 56 | [GRL-1/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_1_A&lang=ja) | 最短経路問題 | ダイクストラ法 | [ruby](atcoder_selected_100/ruby/grl_1_a.rb) |
 | 57 | [JOI2008YO/F](https://atcoder.jp/contests/joi2008yo/tasks/joi2008yo_f) | 最短経路問題 | ダイクストラ法 | [ruby1](atcoder_selected_100/ruby/joi2008yo_f_01.rb), [ruby2](atcoder_selected_100/ruby/joi2008yo_f_02.rb) |
 | 59 | [JOI2014YO/E](https://atcoder.jp/contests/joi2014yo/tasks/joi2014yo_e) | 最短経路問題 | ダイクストラ法, 幅優先探索, 優先度付キュー | [ruby](atcoder_selected_100/ruby/joi2014yo_e.rb) |
@@ -114,6 +115,7 @@
 | 80 | [ABC014/C](https://atcoder.jp/contests/gigacode-2019/tasks/gigacode_2019_d) | 累積和 | 二分探索 | [ruby](atcoder_selected_100/ruby/gigacode_2019_d.rb) |
 | - | [ABC347/E](https://atcoder.jp/contests/abc347/tasks/abc347_e) | 累積和 | 横ではなく縦で考える | [ruby](atcoder_selected_100/ruby/abc347_e.rb) |
 | - | [ABC356/E](https://atcoder.jp/contests/abc356/tasks/abc356_e) | 累積和 | 答えから考える | [ruby](atcoder_selected_100/ruby/abc356_e.rb) |
+| - | [ABC375/D](https://atcoder.jp/contests/abc375/tasks/abc375_d) | 累積和 | 3つ組は真ん中 | [ruby1](atcoder_selected_100/ruby/abc375_d_01.rb), [ruby2](atcoder_selected_100/ruby/abc375_d_02.rb) |
 | 81 | [ABC014/C](https://atcoder.jp/contests/abc014/tasks/abc014_3) | 累積和:いもす法 | | [ruby](atcoder_selected_100/ruby/abc014_c.rb) |
 | 83 | [JOI2015HO/A](https://atcoder.jp/contests/joi2015ho/tasks/joi2015ho_a) | 累積和:いもす法 | | [ruby](atcoder_selected_100/ruby/joi2015ho_a.rb) |
 | - | [ABC338/D](https://atcoder.jp/contests/abc338/tasks/abc338_d) | 累積和:いもす法 | | [ruby](atcoder_selected_100/ruby/abc338_d.rb) |
