@@ -1,7 +1,7 @@
 # -
 # ABC375/D
 # 累積和
-# 3つ組は真ん中
+# 3つ組は真ん中固定
 
 S = gets.chomp.chars
 lcnt = Array.new(26, 0)

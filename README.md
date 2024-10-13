@@ -115,7 +115,7 @@
 | 80 | [ABC014/C](https://atcoder.jp/contests/gigacode-2019/tasks/gigacode_2019_d) | 累積和 | 二分探索 | [ruby](atcoder_selected_100/ruby/gigacode_2019_d.rb) |
 | - | [ABC347/E](https://atcoder.jp/contests/abc347/tasks/abc347_e) | 累積和 | 横ではなく縦で考える | [ruby](atcoder_selected_100/ruby/abc347_e.rb) |
 | - | [ABC356/E](https://atcoder.jp/contests/abc356/tasks/abc356_e) | 累積和 | 答えから考える | [ruby](atcoder_selected_100/ruby/abc356_e.rb) |
-| - | [ABC375/D](https://atcoder.jp/contests/abc375/tasks/abc375_d) | 累積和 | 3つ組は真ん中 | [ruby1](atcoder_selected_100/ruby/abc375_d_01.rb), [ruby2](atcoder_selected_100/ruby/abc375_d_02.rb) |
+| - | [ABC375/D](https://atcoder.jp/contests/abc375/tasks/abc375_d) | 累積和 | 3つ組は真ん中固定 | [ruby1](atcoder_selected_100/ruby/abc375_d_01.rb), [ruby2](atcoder_selected_100/ruby/abc375_d_02.rb) |
 | 81 | [ABC014/C](https://atcoder.jp/contests/abc014/tasks/abc014_3) | 累積和:いもす法 | | [ruby](atcoder_selected_100/ruby/abc014_c.rb) |
 | 83 | [JOI2015HO/A](https://atcoder.jp/contests/joi2015ho/tasks/joi2015ho_a) | 累積和:いもす法 | | [ruby](atcoder_selected_100/ruby/joi2015ho_a.rb) |
 | - | [ABC338/D](https://atcoder.jp/contests/abc338/tasks/abc338_d) | 累積和:いもす法 | | [ruby](atcoder_selected_100/ruby/abc338_d.rb) |
