@@ -91,6 +91,7 @@
 | - | [ABC305/E](https://atcoder.jp/contests/abc305/tasks/abc305_e) | 最短経路問題 | 変形ダイクストラ法, 優先度付キュー | [ruby](atcoder_selected_100/ruby/abc305_e.rb) |
 | - | [ABC325/E](https://atcoder.jp/contests/abc325/tasks/abc325_e) | 最短経路問題 | ダイクストラ法, 幅優先探索, 二分探索法 | [ruby](atcoder_selected_100/ruby/abc325_e.rb) |
 | - | [ABC222/F](https://atcoder.jp/contests/abc222/tasks/abc222_f) | 最短経路問題 | ダイクストラ法, 幅優先探索, 優先度付キュー, 木の直径 | [ruby](atcoder_selected_100/ruby/abc222_f.rb) |
+| - | [ABC361/E](https://atcoder.jp/contests/abc361/tasks/abc361_e) | 最短経路問題 | ダイクストラ法, 幅優先探索, 優先度付キュー, 木の直径 | [ruby](atcoder_selected_100/ruby/abc361_e.rb) |
 | - | [ABC217/E](https://atcoder.jp/contests/abc217/tasks/abc217_e) | 優先度付キュー | 二重構造 | [ruby](atcoder_selected_100/ruby/abc217_e.rb) |
 | - | [ABC234/D](https://atcoder.jp/contests/abc234/tasks/abc234_d) | 優先度付キュー | データ構造 | [ruby1](atcoder_selected_100/ruby/abc234_d_01.rb), [ruby2](atcoder_selected_100/ruby/abc234_d_02.rb) |
 | 60 | [GRL-1/C](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_1_C&lang=ja) | 最短経路問題 | ワーシャルフロイド法 | [ruby](atcoder_selected_100/ruby/grl_1_c.rb) |
