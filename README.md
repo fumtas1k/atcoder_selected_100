@@ -148,7 +148,7 @@
 | - | [CHOKUDAI_S001/J](https://atcoder.jp/contests/chokudai_s001/tasks/chokudai_S001_j) | 数学的な問題 | 転倒数 | [ruby](atcoder_selected_100/ruby/chokudai_S001_j.rb) |
 | - | [ABC357/D](https://atcoder.jp/contests/abc357/tasks/abc357_d) | 数学的な問題 | 等比数列の和の公式, 逆元 | [ruby](atcoder_selected_100/ruby/abc357_d.rb) |
 | - | [ABC367/F](https://atcoder.jp/contests/abc367/tasks/abc367_f) | 数学的な問題 | Schwartz–Zippel lemma, Zobrist Hash | [ruby](atcoder_selected_100/ruby/abc367_f.rb) |
-| - | [ABC377/E](https://atcoder.jp/contests/abc377/tasks/abc377_e) | 数学的な問題 | ダブリング, 鳩の巣原理, グラフ | [ruby](atcoder_selected_100/ruby/abc377_e.rb) |
+| - | [ABC377/E](https://atcoder.jp/contests/abc377/tasks/abc377_e) | 数学的な問題 | ダブリング, 鳩の巣原理, グラフ, 循環, 周期 | [ruby](atcoder_selected_100/ruby/abc377_e.rb) |
 
 
 ## [Educational DP Contest/DPまとめコンテスト](https://atcoder.jp/contests/dp)
