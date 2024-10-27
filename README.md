@@ -11,7 +11,8 @@
 | 3 | [ABC122/B](https://atcoder.jp/contests/abc122/tasks/abc122_b) | 全探索:全列挙 | 尺取法 | [ruby](atcoder_selected_100/ruby/abc122_b.rb), [kotlin](atcoder_selected_100/kotlin/abc122_b.kt) |
 | - | [ABC355/D](https://atcoder.jp/contests/abc355/tasks/abc355_d) | 全探索:全列挙 | 尺取法, 余事象 | [ruby](atcoder_selected_100/ruby/abc355_d.rb) |
 | - | [ABC366/E](https://atcoder.jp/contests/abc366/tasks/abc366_e) | 全探索:全列挙 | 尺取法, マンハッタン距離 | [ruby](atcoder_selected_100/ruby/abc366_e.rb) |
-| - | [ABC229/D](https://atcoder.jp/contests/abc229/tasks/abc229_e) | 全探索:全列挙 | 尺取法, 累積和 | [ruby](atcoder_selected_100/ruby/abc229_d.rb) |
+| - | [ABC229/D](https://atcoder.jp/contests/abc229/tasks/abc229_d) | 全探索:全列挙 | 尺取法, 累積和 | [ruby](atcoder_selected_100/ruby/abc229_d.rb) |
+| - | [ABC377/D](https://atcoder.jp/contests/abc377/tasks/abc377_d) | 全探索:全列挙 | 尺取法 | [ruby](atcoder_selected_100/ruby/abc377_d.rb) |
 | 4 | [PAKENCAMP-2019-DAY3/C](https://atcoder.jp/contests/pakencamp-2019-day3/tasks/pakencamp_2019_day3_c) | 全探索:全列挙 | | [ruby](atcoder_selected_100/ruby/pakencamp-2019-day3_c.rb) |
 | 5 | [ABC095/C](https://atcoder.jp/contests/abc095/tasks/arc096_a) | 全探索:工夫して通り数を減らす全列挙 | | [ruby](atcoder_selected_100/ruby/abc095_c.rb) |
 | 6 | [SUMITRUST2019/D](https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_d) | 全探索:工夫して通り数を減らす全列挙 | | [ruby1](atcoder_selected_100/ruby/sumitrust2019_d_01.rb), [ruby2](atcoder_selected_100/ruby/sumitrust2019_d_02.rb) |
@@ -132,6 +133,8 @@
 | 89 | [JOI2013HO/1](https://atcoder.jp/contests/joi2013ho/tasks/joi2013ho1) | 圧縮 | | [ruby](atcoder_selected_100/ruby/joi2013ho_1.rb) |
 | 90 | [S8PC-5/B](https://atcoder.jp/contests/s8pc-5/tasks/s8pc_5_b) | その他 | | [ruby](atcoder_selected_100/ruby/s8pc_5_b.rb) |
 | - | [ABC353/E](https://atcoder.jp/contests/abc353/tasks/abc353_e) | その他 | トライ木, tri木, Rolling Hash | [ruby1](atcoder_selected_100/ruby/abc353_e_01.rb), [ruby2](atcoder_selected_100/ruby/abc353_e_02.rb) |
+| - | [ABC359/E](https://atcoder.jp/contests/abc359/tasks/abc359_e) | その他 | スタック | [ruby](atcoder_selected_100/ruby/abc359_e.rb) |
+| - | [ABC372/D](https://atcoder.jp/contests/abc372/tasks/abc372_d) | その他 | スタック | [ruby](atcoder_selected_100/ruby/abc372_d.rb) |
 | 95 | [ABC149/B](https://atcoder.jp/contests/abc149/tasks/abc149_b) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc149_b.rb) |
 | 96 | [ABC139/D](https://atcoder.jp/contests/abc139/tasks/abc139_d) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc139_d.rb) |
 | 97 | [ABC150/D](https://atcoder.jp/contests/abc139/tasks/abc150_d) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc150_d.rb) |
@@ -145,8 +148,7 @@
 | - | [CHOKUDAI_S001/J](https://atcoder.jp/contests/chokudai_s001/tasks/chokudai_S001_j) | 数学的な問題 | 転倒数 | [ruby](atcoder_selected_100/ruby/chokudai_S001_j.rb) |
 | - | [ABC357/D](https://atcoder.jp/contests/abc357/tasks/abc357_d) | 数学的な問題 | 等比数列の和の公式, 逆元 | [ruby](atcoder_selected_100/ruby/abc357_d.rb) |
 | - | [ABC367/F](https://atcoder.jp/contests/abc367/tasks/abc367_f) | 数学的な問題 | Schwartz–Zippel lemma, Zobrist Hash | [ruby](atcoder_selected_100/ruby/abc367_f.rb) |
-| - | [ABC359/E](https://atcoder.jp/contests/abc359/tasks/abc359_e) | その他 | スタック | [ruby](atcoder_selected_100/ruby/abc359_e.rb) |
-| - | [ABC372/D](https://atcoder.jp/contests/abc372/tasks/abc372_d) | その他 | スタック | [ruby](atcoder_selected_100/ruby/abc372_d.rb) |
+| - | [ABC377/E](https://atcoder.jp/contests/abc377/tasks/abc377_e) | 数学的な問題 | ダブリング, 鳩の巣原理, グラフ | [ruby](atcoder_selected_100/ruby/abc377_e.rb) |
 
 
 ## [Educational DP Contest/DPまとめコンテスト](https://atcoder.jp/contests/dp)
