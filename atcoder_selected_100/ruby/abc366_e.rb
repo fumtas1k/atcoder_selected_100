@@ -9,25 +9,26 @@ X, Y = Array.new(N) { gets.split.map(&:to_i) }.transpose.map(&:sort)
 # マンハッタン距離の総和は、X, Yの最大値にDを足したものを超えない
 M = (X + Y).map(&:abs).max + D
 
-def calc(arr)
-  sums = Array.new(2 * M + 1, 0)
+def counts(arr)
+  cnts = [0] * (2 * M + 1)
   # x or y が -M の時のマンハッタン距離の総和
-  sums[-M] = arr.sum + N * M
-
-  i = 0
-  (-M + 1).upto(M) do |z|
-    i += 1 while i < N && arr[i] < z
-    # zより小さい座標の数 i, z以上の座標の数 N - i
-    sums[z] = sums[z - 1] + i - (N - i)
+  cnts[-M] = arr.sum + M * N
+  j = 0
+  (-M + 1).upto(M) do |i|
+    j += 1 while j < N && arr[j] < i
+    # iより小さい座標の数 j, i以上の座標の数 N - j
+    cnts[i] = cnts[i - 1] + j - (N - j)
   end
-  sums
+  cnts
 end
 
-xsum = calc(X).sort
-ysum = calc(Y).sort
+xcnts = counts(X).sort
+ycnts = counts(Y).sort
+
 j = 0
-ans = (2 * M).downto(0).reduce(0) do |acc, i|
-  j += 1 while j <= 2 * M && xsum[i] + ysum[j] <= D
-  acc + j
+ans = xcnts.reverse.sum do |xcnt|
+  j += 1 while j <= 2 * M && xcnt + ycnts[j] <= D
+  j
 end
+
 puts ans
