@@ -136,7 +136,7 @@
 | - | [ABC189/C](https://atcoder.jp/contests/abc189/tasks/abc189_c) | その他 | スタック, ヒストグラム最大長方形 | [ruby](atcoder_selected_100/ruby/abc189_c.rb) |
 | - | [ABC359/E](https://atcoder.jp/contests/abc359/tasks/abc359_e) | その他 | スタック, ヒストグラム最大長方形 | [ruby](atcoder_selected_100/ruby/abc359_e.rb) |
 | - | [ABC372/D](https://atcoder.jp/contests/abc372/tasks/abc372_d) | その他 | スタック, ヒストグラム最大長方形 | [ruby](atcoder_selected_100/ruby/abc372_d.rb) |
-| - | [ABC379/F](https://atcoder.jp/contests/abc379/tasks/abc379_f) | その他 | スタック, ヒストグラム最大長方形, フェニック木 | [ruby](atcoder_selected_100/ruby/abc379_f.rb) |
+| - | [ABC379/F](https://atcoder.jp/contests/abc379/tasks/abc379_f) | その他 | スタック, ヒストグラム最大長方形, フェニック木, 二分探索法 | [ruby1](atcoder_selected_100/ruby/abc379_f_01.rb), [ruby2](atcoder_selected_100/ruby/abc379_f_02.rb) |
 | 95 | [ABC149/B](https://atcoder.jp/contests/abc149/tasks/abc149_b) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc149_b.rb) |
 | 96 | [ABC139/D](https://atcoder.jp/contests/abc139/tasks/abc139_d) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc139_d.rb) |
 | 97 | [ABC150/D](https://atcoder.jp/contests/abc139/tasks/abc150_d) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc150_d.rb) |
