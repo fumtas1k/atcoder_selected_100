@@ -13,8 +13,7 @@ stack = []
 
 (N - 1).downto(0) do |i|
   LRJ[i]&.each do |_, r, j|
-    idx = stack.bsearch_index { _1 <= r } || stack.size
-    ans[j] = idx
+    ans[j] = stack.bsearch_index { _1 <= r } || stack.size
   end
   stack.pop while !stack.empty? && H[stack[-1]] < H[i]
   stack << i
