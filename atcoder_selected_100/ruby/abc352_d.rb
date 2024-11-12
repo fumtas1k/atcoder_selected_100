@@ -5,26 +5,26 @@
 
 class SlideWindow
   class << self
-    def min(window, data) = new(window, data, &:<)
+    def min(window_size, data) = new(window_size, data, &:<)
 
-    def max(window, data) = new(window, data, &:>)
+    def max(window_size, data) = new(window_size, data, &:>)
   end
 
-  attr_accessor :window, :data, :dequeue, :ope
+  attr_accessor :window_size, :data, :ope
 
-  def initialize(window, data, &ope)
-    @window = window
+  def initialize(window_size, data, &ope)
+    @window_size = window_size
     @data = data
-    @dequeue = []
     @ope = ope
   end
 
   def prod
+    dequeue = []
     data.size.times.each_with_object([]) do |i, res|
-      dequeue.shift while !dequeue.empty? && dequeue[0] < i - window + 1
+      dequeue.shift while !dequeue.empty? && dequeue[0] < i - window_size + 1
       dequeue.pop while !dequeue.empty? && ope.(data[i], data[dequeue[-1]])
       dequeue << i
-      next if i < window - 1
+      next if i < window_size - 1
       res << data[dequeue[0]]
     end
   end
@@ -32,7 +32,7 @@ end
 
 N, K = gets.split.map(&:to_i)
 P = gets.split.map(&:to_i).map(&:pred)
-PINDEX = P.each_with_object([]).with_index { |(p, arr), i| arr[p] = i }
+PINDEX = P.each_with_index.sort_by(&:first).map(&:last)
 
 smaller = SlideWindow.min(K, PINDEX).prod
 larger = SlideWindow.max(K, PINDEX).prod
