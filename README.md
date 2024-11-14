@@ -65,6 +65,7 @@
 | 41 | [JOI2013YO/D](https://atcoder.jp/contests/joi2013yo/tasks/joi2013yo_d) | 動的計画法:ナップザックDP | | [ruby](atcoder_selected_100/ruby/joi2013yo_d.rb) |
 | 42 | [JOI2015YO/D](https://atcoder.jp/contests/joi2015yo/tasks/joi2015yo_d) | 動的計画法:ナップザックDP | | [ruby](atcoder_selected_100/ruby/joi2015yo_d.rb) |
 | - | [ABC364/E](https://atcoder.jp/contests/abc364/tasks/abc364_e) | 動的計画法:ナップザックDP | キーと値を入れ替える | [ruby](atcoder_selected_100/ruby/abc364_e.rb) |
+| - | [DPL-1/G]() | 動的計画法:ナップザックDP | 個数制限付きナップザックDP | [ruby](atcoder_selected_100/ruby/dpl_1_g.rb) |
 | 46 | [ALDS1-10/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_10_B&lang=ja) | 動的計画法:区間DP | 連鎖行列積 | [ruby](atcoder_selected_100/ruby/alds1_10_b.rb) |
 | 47 | [JOI2015HO/B](https://atcoder.jp/contests/joi2015ho/tasks/joi2015ho_b) | 動的計画法:区間DP | | [ruby](atcoder_selected_100/ruby/joi2015ho_b.rb) |
 | 48 | [AOJ-1611](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1611&lang=jp) | 動的計画法:区間DP | ダルマ落とし, バックトラック法 | [ruby](atcoder_selected_100/ruby/aoj_1611.rb) |
