@@ -1,6 +1,6 @@
 # 37
 # DPL-1/B
-# 動的計画法:ナップザックDP
+# 動的計画法:ナップサックDP
 
 N, M = gets.split.map(&:to_i)
 C = gets.split.map(&:to_i).sort.reverse

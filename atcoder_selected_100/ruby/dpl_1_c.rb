@@ -1,6 +1,6 @@
 # 36
 # DPL-1/B
-# 動的計画法:ナップザックDP
+# 動的計画法:ナップサックDP
 
 N, W = gets.split.map(&:to_i)
 VW = []

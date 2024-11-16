@@ -1,6 +1,6 @@
 # 42
 # JOI2015YO/D
-# 動的計画法:ナップザックDP
+# 動的計画法:ナップサックDP
 
 N, M = gets.split.map(&:to_i)
 D = Array.new(N) { gets.to_i }
