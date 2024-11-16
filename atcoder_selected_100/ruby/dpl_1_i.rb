@@ -45,7 +45,7 @@ dp.each_with_index do |weight, value|
   total_value = value
   remaining_w = W - weight
   remaining_vwm.each do |v, w, m|
-    take = [m, (remaining_w / w).to_i].min
+    take = [m, remaining_w / w].min
     total_value += v * take
     remaining_w -= w * take
   end
