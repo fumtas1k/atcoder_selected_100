@@ -17,14 +17,14 @@ dp[0] = 0
 VWM.each do |v, w, m|
   limit = [max_v, m].min
   # スライド最小値を用いて、価値が i のときの重さの最小値を求める
-  v.times do |other_v|
+  v.times do |remainder|
     deque = []
     j = 0
-    while (value = j * v + other_v) <= total_v && j * w <= dp[value]
-      other_w = dp[value] - j * w
-      deque.pop while !deque.empty? && deque[-1][1] > other_w
+    while (value = j * v + remainder) <= total_v && j * w <= W
+      reduced_w = dp[value] - j * w
+      deque.pop while !deque.empty? && deque[-1][1] > reduced_w
       deque.shift while !deque.empty? && limit < j - deque[0][0]
-      deque << [j, other_w]
+      deque << [j, reduced_w]
       dp[value] = [dp[value], deque[0][1] + j * w].min
       j += 1
     end
