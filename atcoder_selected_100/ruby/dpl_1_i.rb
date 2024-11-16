@@ -29,6 +29,7 @@ VWM.each do |v, w, m|
       deque.pop while !deque.empty? && deque[-1][1] > reduced_w
       deque.shift while !deque.empty? && limit < j - deque[0][0]
       deque << [j, reduced_w]
+      # deque[0][0] * w 分は他のアイテムで埋められるため、実際には、(j - deque[0][0]) * w 分だけ使用している
       dp[value] = [dp[value], deque[0][1] + j * w].min
       j += 1
     end
