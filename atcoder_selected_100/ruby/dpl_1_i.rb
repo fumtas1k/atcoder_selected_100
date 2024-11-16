@@ -7,6 +7,10 @@
 N, W = gets.split.map(&:to_i)
 VWM = Array.new(N) { gets.split.map(&:to_i) }
 
+# vi * max_v(個) = max_v * vi(個)の時、重さが最小のものを選べば良い
+# max_v個以上のものは、価値あたり重さが小さいものを選べば良い
+# したがって、それぞれ[max_v, m].min個を選んで、重さが最小になるようスライド最小値を用いてDPする
+# その後、残りの容量に対して、価値あたり重さの小さい順に貪欲法で詰めていけば正解が求まる
 max_v = VWM.max_by(&:first)[0]
 total_v = VWM.sum { |v, _, m| v * [max_v, m].min }
 
@@ -35,9 +39,9 @@ end
 remaining_vwm = VWM.map {|v, w, m| [v, w, m - max_v] if m > max_v }.compact.sort_by {|v, w, _| w.to_f / v }
 
 max_value = 0
-dp.each_with_index do |weight, i|
+dp.each_with_index do |weight, value|
   next if weight > W
-  total_value = i
+  total_value = value
   remaining_w = W - weight
   remaining_vwm.each do |v, w, m|
     take = [m, (remaining_w / w).to_i].min
