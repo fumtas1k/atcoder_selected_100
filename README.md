@@ -55,17 +55,18 @@
 | 29 | [ABC007/C](https://atcoder.jp/contests/abc007/tasks/abc007_3) | 幅優先探索 | | [ruby](atcoder_selected_100/ruby/abc007_c.rb) |
 | 30 | [JOI2011YO/E](https://atcoder.jp/contests/joi2011yo/tasks/joi2011yo_e) | 幅優先探索 | | [ruby](atcoder_selected_100/ruby/joi2011yo_e.rb) |
 | - | [ABC213/E](https://atcoder.jp/contests/abc213/tasks/abc213_e) | 幅優先探索 | 01-BFS | [ruby](atcoder_selected_100/ruby/abc213_e.rb) |
-| 34 | [ALDS1-10/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_10_A&lang=ja) | 動的計画法:ナップザックDP | | [ruby](atcoder_selected_100/ruby/alds1_10_a.rb) |
-| 35 | [DPL-1/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_B&lang=ja) | 動的計画法:ナップザックDP | | [ruby](atcoder_selected_100/ruby/dpl_1_b.rb) |
-| 36 | [DPL-1/C](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_C&lang=ja) | 動的計画法:ナップザックDP | | [ruby](atcoder_selected_100/ruby/dpl_1_c.rb) |
-| 37 | [DPL-1/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_A&lang=ja) | 動的計画法:ナップザックDP | | [ruby](atcoder_selected_100/ruby/dpl_1_a.rb) |
-| 38 | [ALDS1-10/C](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_10_C&lang=ja) | 動的計画法:ナップザックDP | 最長共通部分列(LCS) | [ruby](atcoder_selected_100/ruby/alds1_10_c.rb) |
-| 39 | [JOI2011YO/D](https://atcoder.jp/contests/joi2011yo/tasks/joi2011yo_d) | 動的計画法:ナップザックDP | | [ruby](atcoder_selected_100/ruby/joi2011yo_d.rb) |
-| 40 | [JOI2012YO/D](https://atcoder.jp/contests/joi2012yo/tasks/joi2012yo_d) | 動的計画法:ナップザックDP | | [ruby](atcoder_selected_100/ruby/joi2012yo_d.rb) |
-| 41 | [JOI2013YO/D](https://atcoder.jp/contests/joi2013yo/tasks/joi2013yo_d) | 動的計画法:ナップザックDP | | [ruby](atcoder_selected_100/ruby/joi2013yo_d.rb) |
-| 42 | [JOI2015YO/D](https://atcoder.jp/contests/joi2015yo/tasks/joi2015yo_d) | 動的計画法:ナップザックDP | | [ruby](atcoder_selected_100/ruby/joi2015yo_d.rb) |
-| - | [ABC364/E](https://atcoder.jp/contests/abc364/tasks/abc364_e) | 動的計画法:ナップザックDP | キーと値を入れ替える | [ruby](atcoder_selected_100/ruby/abc364_e.rb) |
-| - | [DPL-1/G]() | 動的計画法:ナップザックDP | 個数制限付きナップザックDP | [ruby](atcoder_selected_100/ruby/dpl_1_g.rb) |
+| 34 | [ALDS1-10/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_10_A&lang=ja) | 動的計画法:ナップサックDP | | [ruby](atcoder_selected_100/ruby/alds1_10_a.rb) |
+| 35 | [DPL-1/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_B&lang=ja) | 動的計画法:ナップサックDP | | [ruby](atcoder_selected_100/ruby/dpl_1_b.rb) |
+| 36 | [DPL-1/C](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_C&lang=ja) | 動的計画法:ナップサックDP | | [ruby](atcoder_selected_100/ruby/dpl_1_c.rb) |
+| 37 | [DPL-1/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_A&lang=ja) | 動的計画法:ナップサックDP | | [ruby](atcoder_selected_100/ruby/dpl_1_a.rb) |
+| 38 | [ALDS1-10/C](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_10_C&lang=ja) | 動的計画法:ナップサックDP | 最長共通部分列(LCS) | [ruby](atcoder_selected_100/ruby/alds1_10_c.rb) |
+| 39 | [JOI2011YO/D](https://atcoder.jp/contests/joi2011yo/tasks/joi2011yo_d) | 動的計画法:ナップサック | | [ruby](atcoder_selected_100/ruby/joi2011yo_d.rb) |
+| 40 | [JOI2012YO/D](https://atcoder.jp/contests/joi2012yo/tasks/joi2012yo_d) | 動的計画法:ナップサックDP | | [ruby](atcoder_selected_100/ruby/joi2012yo_d.rb) |
+| 41 | [JOI2013YO/D](https://atcoder.jp/contests/joi2013yo/tasks/joi2013yo_d) | 動的計画法:ナップサックDP | | [ruby](atcoder_selected_100/ruby/joi2013yo_d.rb) |
+| 42 | [JOI2015YO/D](https://atcoder.jp/contests/joi2015yo/tasks/joi2015yo_d) | 動的計画法:ナップサックDP | | [ruby](atcoder_selected_100/ruby/joi2015yo_d.rb) |
+| - | [ABC364/E](https://atcoder.jp/contests/abc364/tasks/abc364_e) | 動的計画法:ナップサックDP | キーと値を入れ替える | [ruby](atcoder_selected_100/ruby/abc364_e.rb) |
+| - | [DPL-1/G](https://onlinejudge.u-aizu.ac.jp/courses/library/7/DPL/1/DPL_1_G) | 動的計画法:ナップサックDP | 個数制限付きナップサックDP | [ruby](atcoder_selected_100/ruby/dpl_1_g.rb) |
+| - | [DPL-1/I](https://onlinejudge.u-aizu.ac.jp/courses/library/7/DPL/1/DPL_1_I) | 動的計画法:ナップサックDP | 個数制限付きナップサックDP, 貪欲法, スライド最小値 | [ruby](atcoder_selected_100/ruby/dpl_1_i.rb) |
 | 46 | [ALDS1-10/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_10_B&lang=ja) | 動的計画法:区間DP | 連鎖行列積 | [ruby](atcoder_selected_100/ruby/alds1_10_b.rb) |
 | 47 | [JOI2015HO/B](https://atcoder.jp/contests/joi2015ho/tasks/joi2015ho_b) | 動的計画法:区間DP | | [ruby](atcoder_selected_100/ruby/joi2015ho_b.rb) |
 | 48 | [AOJ-1611](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1611&lang=jp) | 動的計画法:区間DP | ダルマ落とし, バックトラック法 | [ruby](atcoder_selected_100/ruby/aoj_1611.rb) |
@@ -164,8 +165,8 @@
 | A | [Frog1](https://atcoder.jp/contests/dp/tasks/dp_a) | | | [ruby](educational_dp/ruby/a.rb), [kotlin](educational_dp/kotlin/a.kt), [ruby](educational_dp/javascript/a.js) |
 | B | [Frog2](https://atcoder.jp/contests/dp/tasks/dp_b) | | | [ruby](educational_dp/ruby/b.rb), [kotlin](educational_dp/kotlin/b.kt), [ruby](educational_dp/javascript/b.js) |
 | C | [Vacation](https://atcoder.jp/contests/dp/tasks/dp_c) | | | [ruby](educational_dp/ruby/c.rb), [kotlin](educational_dp/kotlin/c.kt), [ruby](educational_dp/javascript/c.js) |
-| D | [Knapsack1](https://atcoder.jp/contests/dp/tasks/dp_d) | ナップザックDP | | [ruby](educational_dp/ruby/d.rb), [kotlin](educational_dp/kotlin/d.kt), [ruby](educational_dp/javascript/d.js) |
-| E | [Knapsack2](https://atcoder.jp/contests/dp/tasks/dp_e) | ナップザックDP | キーと値を入れ替える | [ruby](educational_dp/ruby/e.rb), [kotlin](educational_dp/kotlin/e.kt) |
+| D | [Knapsack1](https://atcoder.jp/contests/dp/tasks/dp_d) | ナップサックDP | | [ruby](educational_dp/ruby/d.rb), [kotlin](educational_dp/kotlin/d.kt), [ruby](educational_dp/javascript/d.js) |
+| E | [Knapsack2](https://atcoder.jp/contests/dp/tasks/dp_e) | ナップサックDP | キーと値を入れ替える | [ruby](educational_dp/ruby/e.rb), [kotlin](educational_dp/kotlin/e.kt) |
 | F | [LCS](https://atcoder.jp/contests/dp/tasks/dp_f) | | 最長共通部分列(LCS), 復元 | [ruby](educational_dp/ruby/f.rb), [kotlin](educational_dp/kotlin/f.kt) |
 | G | [Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g) | | トポロジカルソート | [ruby](educational_dp/ruby/g.rb), [kotlin](educational_dp/kotlin/g.kt) |
 | H | [Grid 1](https://atcoder.jp/contests/dp/tasks/dp_h) | |  | [ruby](educational_dp/ruby/h.rb), [kotlin](educational_dp/kotlin/h.kt) |
