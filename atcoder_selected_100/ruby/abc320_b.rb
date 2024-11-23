@@ -8,31 +8,31 @@
 # O(N) で求められる
 def manacher(str)
   # 偶数長の場合も考慮し奇数長になるよう文字列に含まれない"$"を挿入
-  chars = str.chars.join("$").then { "$#{_1}$" }
+  chars = "$" + str.chars.join("$") + "$"
   size = chars.size
   # 中心iの回文の半径
   radius = [0] * size
-  i = 0
+  center = 0
   loop do
-    # 中心がiの半径を求める
-    radius[i] += 1 while i - radius[i] >= 0 &&
-      i + radius[i] < size &&
-      chars[i - radius[i]] == chars[i + radius[i]]
+    # 中心centerの半径を求める
+    radius[center] += 1 while center - radius[center] >= 0 &&
+      center + radius[center] < size &&
+      chars[center - radius[center]] == chars[center + radius[center]]
 
-    j = 1
-    # 対称性を利用して i + j の半径を求める
-    while i - j >= 0 && i + j < size && j + radius[i - j] < radius[i]
-      radius[i + j] = radius[i - j]
-      j += 1
+    i = 1
+    # 対称性を利用して 中心が　center + i の半径を求める
+    while center - i >= 0 && center + i < size && center + radius[center - i] < radius[center]
+      radius[center + i] = radius[center - i]
+      i += 1
     end
 
-    break if i + j == size
+    break if center + i == size
 
-    # k + radius[i - j] が radius[i] 以上の場合 中心iの半径に入っていないので
-    # radius[i + j] は radius[i] - j 以上となることまでしかわからない。
+    # i + radius[center - i] が radius[center] 以上の場合 中心centerの半径に入っていないので
+    # radius[center + i] は radius[center] - i 以上となることまでしかわからない。
     # ここでは、暫定的な値を入れる
-    radius[i + j] = radius[i] - j
-    i += j
+    radius[center + i] = radius[center] - i
+    center += i
   end
   # strに$を付加しているので、その部分を抜く。
   # radiusは回文の半径としているが挿入された$も含むためradiusの値は回文の長さ + 1
