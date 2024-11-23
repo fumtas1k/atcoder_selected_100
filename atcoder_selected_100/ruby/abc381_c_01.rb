@@ -10,8 +10,7 @@ RLE = S.chunk(&:itself).map { [_1, _2.size] }
 
 ans = [1]
 RLE.size.times.each_cons(3) do |i, j, k|
-  next if RLE[i][0] != "1" || RLE[j][0] != "/" || RLE[k][0] != "2"
-  next if RLE[j][1] != 1
+  next if RLE[i][0] != "1" || RLE[j] != ["/", 1] || RLE[k][0] != "2"
   ans << [RLE[i][1], RLE[k][1]].min * 2 + 1
 end
 
