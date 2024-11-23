@@ -157,6 +157,7 @@
 | - | [ABC367/F](https://atcoder.jp/contests/abc367/tasks/abc367_f) | 数学的な問題 | Schwartz–Zippel lemma, Zobrist Hash | [ruby](atcoder_selected_100/ruby/abc367_f.rb) |
 | - | [ABC377/E](https://atcoder.jp/contests/abc377/tasks/abc377_e) | 数学的な問題 | ダブリング, 鳩の巣原理, グラフ, 循環, 周期 | [ruby](atcoder_selected_100/ruby/abc377_e.rb) |
 | - | [ABC379/E](https://atcoder.jp/contests/abc379/tasks/abc379_e) | 数学的な問題 | 下の桁から確定してく, 巨大な桁数 | [ruby](atcoder_selected_100/ruby/abc379_e.rb) |
+| - | [ABC381/C](https://atcoder.jp/contests/abc381/tasks/abc381_c) | 数学的な問題 | ランレングス圧縮 | [ruby1](atcoder_selected_100/ruby/abc381_c_01.rb), [ruby2](atcoder_selected_100/ruby/abc381_c_02.rb) |
 
 
 ## [Educational DP Contest/DPまとめコンテスト](https://atcoder.jp/contests/dp)
