@@ -21,7 +21,7 @@ def manacher(str)
 
     i = 1
     # 対称性を利用して 中心が　center + i の半径を求める
-    while center - i >= 0 && center + i < size && center + radius[center - i] < radius[center]
+    while center - i >= 0 && center + i < size && i + radius[center - i] < radius[center]
       radius[center + i] = radius[center - i]
       i += 1
     end
