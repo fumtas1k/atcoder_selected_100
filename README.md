@@ -86,6 +86,7 @@
 | - | [ABC216/G](https://atcoder.jp/contests/abc216/tasks/abc216_g) | 動的計画法:その他 | フェニック木 | [ruby](atcoder_selected_100/ruby/abc216_g.rb) |
 | - | [ABC312/G](https://atcoder.jp/contests/abc312/tasks/abc312_d) | 動的計画法:その他 | 括弧列の成立条件 | [ruby](atcoder_selected_100/ruby/abc312_d.rb) |
 | - | [ABC357/E](https://atcoder.jp/contests/abc357/tasks/abc357_e) | 動的計画法:その他 | 強連結成分分解 | [ruby](atcoder_selected_100/ruby/abc357_e.rb), [JS](atcoder_selected_100/javascript/abc357_e.js) |
+| - | [ABC326/E](https://atcoder.jp/contests/abc326/tasks/abc326_e) | 動的計画法:期待値DP | 累積和 | [ruby](atcoder_selected_100/ruby/abc326_e.rb) |
 | - | [ABC350/E](https://atcoder.jp/contests/abc350/tasks/abc350_e) | 動的計画法:期待値DP | メモ化再帰 | [ruby](atcoder_selected_100/ruby/abc350_e.rb) |
 | - | [ABC358/E](https://atcoder.jp/contests/abc358/tasks/abc358_e) | 動的計画法:その他 | 組み合わせ, 逆元 | [ruby](atcoder_selected_100/ruby/abc358_e.rb) |
 | - | [ABC362/E](https://atcoder.jp/contests/abc362/tasks/abc362_e) | 動的計画法:その他 | 等差数列 | [ruby](atcoder_selected_100/ruby/abc362_e.rb) |
