@@ -52,6 +52,7 @@
 | - | [ABC213/D](https://atcoder.jp/contests/abc213/tasks/abc213_d) | 深さ優先探索 | オイラーツアー | [ruby](atcoder_selected_100/ruby/abc213_d.rb) |
 | - | [ABC239/E](https://atcoder.jp/contests/abc239/tasks/abc239_e) | 深さ優先探索 | オイラーツアー, 必要数分のみ保持 | [ruby](atcoder_selected_100/ruby/abc239_e.rb) |
 | - | [ABC220/F](https://atcoder.jp/contests/abc220/tasks/abc220_f) | 深さ優先探索 | オイラーツアー, 幅優先探索, 始点の移動 | [ruby](atcoder_selected_100/ruby/abc220_f.rb) |
+| - | [ABC382/D](https://atcoder.jp/contests/abc382/tasks/abc382_d) | 深さ優先探索 | 枝切り | [ruby](atcoder_selected_100/ruby/abc382_d.rb) |
 | 28 | [ALDS1-11/C](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_C&lang=ja) | 幅優先探索 | | [ruby](atcoder_selected_100/ruby/alds1_11_c.rb) |
 | 29 | [ABC007/C](https://atcoder.jp/contests/abc007/tasks/abc007_3) | 幅優先探索 | | [ruby](atcoder_selected_100/ruby/abc007_c.rb) |
 | 30 | [JOI2011YO/E](https://atcoder.jp/contests/joi2011yo/tasks/joi2011yo_e) | 幅優先探索 | | [ruby](atcoder_selected_100/ruby/joi2011yo_e.rb) |
