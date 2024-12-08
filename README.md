@@ -14,6 +14,7 @@
 | - | [ABC229/D](https://atcoder.jp/contests/abc229/tasks/abc229_d) | 全探索:全列挙 | 尺取法, 累積和 | [ruby](atcoder_selected_100/ruby/abc229_d.rb) |
 | - | [ABC377/D](https://atcoder.jp/contests/abc377/tasks/abc377_d) | 全探索:全列挙 | 尺取法 | [ruby](atcoder_selected_100/ruby/abc377_d.rb) |
 | - | [ABC381/D](https://atcoder.jp/contests/abc381/tasks/abc381_d) | 全探索:全列挙 | 尺取法 | [ruby](atcoder_selected_100/ruby/abc381_d.rb) |
+| - | [ABC383/D](https://atcoder.jp/contests/abc383/tasks/abc383_d) | 全探索:全列挙 | 尺取法, 素数, 約数列挙, エラトステネスの篩| [ruby](atcoder_selected_100/ruby/abc383_d.rb) |
 | 4 | [PAKENCAMP-2019-DAY3/C](https://atcoder.jp/contests/pakencamp-2019-day3/tasks/pakencamp_2019_day3_c) | 全探索:全列挙 | | [ruby](atcoder_selected_100/ruby/pakencamp-2019-day3_c.rb) |
 | 5 | [ABC095/C](https://atcoder.jp/contests/abc095/tasks/arc096_a) | 全探索:工夫して通り数を減らす全列挙 | | [ruby](atcoder_selected_100/ruby/abc095_c.rb) |
 | 6 | [SUMITRUST2019/D](https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_d) | 全探索:工夫して通り数を減らす全列挙 | | [ruby1](atcoder_selected_100/ruby/sumitrust2019_d_01.rb), [ruby2](atcoder_selected_100/ruby/sumitrust2019_d_02.rb) |
@@ -105,6 +106,7 @@
 | 62 | [ABC079/D](https://atcoder.jp/contests/abc079/tasks/abc079_d) | 最短経路問題 | ワーシャルフロイド法 | [ruby](atcoder_selected_100/ruby/abc079_d.rb) |
 | 64 | [GRL-2/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_2_A&lang=ja) | 最小全域木 | クラスカル法(貪欲法 + Union Find) | [ruby](atcoder_selected_100/ruby/grl_2_a.rb) |
 | 65 | [JOISC2010/FINALS](https://atcoder.jp/contests/joisc2010/tasks/joisc2010_finals) | 最小全域木 | クラスカル法(貪欲法 + Union Find) | [ruby](atcoder_selected_100/ruby/joisc2010_finals.rb) |
+| - | [ ABC383/E](https://atcoder.jp/contests/abc383/tasks/abc383_e) | 最小全域木 | クラスカル法(貪欲法 + Union Find) | [ruby](atcoder_selected_100/ruby/abc383_e.rb) |
 | - | [ ABC355/F](https://atcoder.jp/contests/abc355/tasks/abc355_f) | 最小全域木 | Union Find | [ruby](atcoder_selected_100/ruby/abc355_f.rb) |
 | - | [ ABC214/D](https://atcoder.jp/contests/abc214/tasks/abc214_d) | 最小全域木 | Union Find, 主客転倒 | [ruby](atcoder_selected_100/ruby/abc214_d.rb) |
 | - | [ABC325/D](https://atcoder.jp/contests/abc325/tasks/abc325_d) | 貪欲法 | 優先度付きキュー | [ruby](atcoder_selected_100/ruby/abc325_d.rb) |
