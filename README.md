@@ -14,7 +14,8 @@
 | - | [ABC229/D](https://atcoder.jp/contests/abc229/tasks/abc229_d) | 全探索:全列挙 | 尺取法, 累積和 | [ruby](atcoder_selected_100/ruby/abc229_d.rb) |
 | - | [ABC377/D](https://atcoder.jp/contests/abc377/tasks/abc377_d) | 全探索:全列挙 | 尺取法 | [ruby](atcoder_selected_100/ruby/abc377_d.rb) |
 | - | [ABC381/D](https://atcoder.jp/contests/abc381/tasks/abc381_d) | 全探索:全列挙 | 尺取法 | [ruby](atcoder_selected_100/ruby/abc381_d.rb) |
-| - | [ABC383/D](https://atcoder.jp/contests/abc383/tasks/abc383_d) | 全探索:全列挙 | 尺取法, 素数, 約数列挙, エラトステネスの篩| [ruby](atcoder_selected_100/ruby/abc383_d.rb) |
+| - | [ABC383/D](https://atcoder.jp/contests/abc383/tasks/abc383_d) | 全探索:全列挙 | 尺取法, 素数, 約数列挙, エラトステネスの篩 | [ruby](atcoder_selected_100/ruby/abc383_d.rb) |
+| - | [ABC384/D](https://atcoder.jp/contests/abc384/tasks/abc384_d) | 全探索:全列挙 | 尺取法, 累積和, ループ | [ruby](atcoder_selected_100/ruby/abc384_d.rb) |
 | 4 | [PAKENCAMP-2019-DAY3/C](https://atcoder.jp/contests/pakencamp-2019-day3/tasks/pakencamp_2019_day3_c) | 全探索:全列挙 | | [ruby](atcoder_selected_100/ruby/pakencamp-2019-day3_c.rb) |
 | 5 | [ABC095/C](https://atcoder.jp/contests/abc095/tasks/arc096_a) | 全探索:工夫して通り数を減らす全列挙 | | [ruby](atcoder_selected_100/ruby/abc095_c.rb) |
 | 6 | [SUMITRUST2019/D](https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_d) | 全探索:工夫して通り数を減らす全列挙 | | [ruby1](atcoder_selected_100/ruby/sumitrust2019_d_01.rb), [ruby2](atcoder_selected_100/ruby/sumitrust2019_d_02.rb) |
@@ -101,6 +102,7 @@
 | - | [ABC361/E](https://atcoder.jp/contests/abc361/tasks/abc361_e) | 最短経路問題 | ダイクストラ法, 幅優先探索, 優先度付キュー, 木の直径 | [ruby](atcoder_selected_100/ruby/abc361_e.rb) |
 | - | [ABC217/E](https://atcoder.jp/contests/abc217/tasks/abc217_e) | 優先度付キュー | 二重構造 | [ruby](atcoder_selected_100/ruby/abc217_e.rb) |
 | - | [ABC234/D](https://atcoder.jp/contests/abc234/tasks/abc234_d) | 優先度付キュー | データ構造 | [ruby1](atcoder_selected_100/ruby/abc234_d_01.rb), [ruby2](atcoder_selected_100/ruby/abc234_d_02.rb) |
+| - | [ABC384/E](https://atcoder.jp/contests/abc384/tasks/abc384_e) | 優先度付キュー | | [ruby](atcoder_selected_100/ruby/abc384_e.rb) |
 | 60 | [GRL-1/C](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_1_C&lang=ja) | 最短経路問題 | ワーシャルフロイド法 | [ruby](atcoder_selected_100/ruby/grl_1_c.rb) |
 | 61 | [ABC012/D](https://atcoder.jp/contests/abc012/tasks/abc012_4) | 最短経路問題 | ワーシャルフロイド法 | [ruby](atcoder_selected_100/ruby/abc012_d.rb) |
 | 62 | [ABC079/D](https://atcoder.jp/contests/abc079/tasks/abc079_d) | 最短経路問題 | ワーシャルフロイド法 | [ruby](atcoder_selected_100/ruby/abc079_d.rb) |
