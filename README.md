@@ -80,6 +80,9 @@
 | 51 | [JOI2014YO/D](https://atcoder.jp/contests/joi2014yo/tasks/joi2014yo_d) | 動的計画法:ビットDP |  | [ruby](atcoder_selected_100/ruby/joi2014yo_d.rb) |
 | 52 | [JOI2017YO/D](https://atcoder.jp/contests/joi2017yo/tasks/joi2017yo_d) | 動的計画法:ビットDP |  | [ruby](atcoder_selected_100/ruby/joi2017yo_d.rb) |
 | - | [ABC215/E](https://atcoder.jp/contests/abc215/tasks/abc215_e) | 動的計画法:ビットDP |  | [ruby](atcoder_selected_100/ruby/abc215_e.rb) |
+| - | [ABC326/E](https://atcoder.jp/contests/abc326/tasks/abc326_e) | 動的計画法:期待値DP | 累積和 | [ruby](atcoder_selected_100/ruby/abc326_e.rb) |
+| - | [ABC350/E](https://atcoder.jp/contests/abc350/tasks/abc350_e) | 動的計画法:期待値DP | メモ化再帰 | [ruby](atcoder_selected_100/ruby/abc350_e.rb) |
+| - | [ABC350/E](https://atcoder.jp/contests/abc387/tasks/abc387_c) | 動的計画法:桁DP |  | [ruby](atcoder_selected_100/ruby/abc387_c.rb) |
 | 53 | [DPL-1/D](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_D&lang=ja) | 動的計画法:その他 | 最長増加部分列(LIS) | [ruby](atcoder_selected_100/ruby/dpl_1_d.rb) |
 | 54 | [ABC006/D](https://atcoder.jp/contests/abc006/tasks/abc006_4) | 動的計画法:その他 | 最長増加部分列(LIS) | [ruby](atcoder_selected_100/ruby/abc006_d.rb) |
 | 55 | [ABC134/E](https://atcoder.jp/contests/abc134/tasks/abc134_e) | 動的計画法:その他 | 最長増加部分列(LIS) | [ruby](atcoder_selected_100/ruby/abc134_e.rb) |
@@ -89,8 +92,6 @@
 | - | [ABC216/G](https://atcoder.jp/contests/abc216/tasks/abc216_g) | 動的計画法:その他 | フェニック木 | [ruby](atcoder_selected_100/ruby/abc216_g.rb) |
 | - | [ABC312/G](https://atcoder.jp/contests/abc312/tasks/abc312_d) | 動的計画法:その他 | 括弧列の成立条件 | [ruby](atcoder_selected_100/ruby/abc312_d.rb) |
 | - | [ABC357/E](https://atcoder.jp/contests/abc357/tasks/abc357_e) | 動的計画法:その他 | 強連結成分分解 | [ruby](atcoder_selected_100/ruby/abc357_e.rb), [JS](atcoder_selected_100/javascript/abc357_e.js) |
-| - | [ABC326/E](https://atcoder.jp/contests/abc326/tasks/abc326_e) | 動的計画法:期待値DP | 累積和 | [ruby](atcoder_selected_100/ruby/abc326_e.rb) |
-| - | [ABC350/E](https://atcoder.jp/contests/abc350/tasks/abc350_e) | 動的計画法:期待値DP | メモ化再帰 | [ruby](atcoder_selected_100/ruby/abc350_e.rb) |
 | - | [ABC358/E](https://atcoder.jp/contests/abc358/tasks/abc358_e) | 動的計画法:その他 | 組み合わせ, 逆元 | [ruby](atcoder_selected_100/ruby/abc358_e.rb) |
 | - | [ABC362/E](https://atcoder.jp/contests/abc362/tasks/abc362_e) | 動的計画法:その他 | 等差数列 | [ruby](atcoder_selected_100/ruby/abc362_e.rb) |
 | - | [ABC375/E](https://atcoder.jp/contests/abc375/tasks/abc375_e) | 動的計画法:その他 | ループを１つ減らす | [ruby](atcoder_selected_100/ruby/abc375_e.rb) |
