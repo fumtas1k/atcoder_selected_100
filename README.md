@@ -40,6 +40,7 @@
 | - | [C - Come Together](https://atcoder.jp/contests/nikkei2019-final/tasks/nikkei2019_final_c) | 二分探索 | マンハッタン距離の総和を最小値は、中央値を使う | [ruby](atcoder_selected_100/ruby/nikkei2019_final_c.rb) |
 | - | [ABC364/D](https://atcoder.jp/contests/abc364/tasks/abc364_d) | 二分探索 | さらに二分探索 | [ruby](atcoder_selected_100/ruby/abc364_d.rb) |
 | - | [ABC217/D](https://atcoder.jp/contests/abc217/tasks/abc217_d) | 二分探索 | sorted_setの代わり, セグメント木, unshift | [ruby1](atcoder_selected_100/ruby/abc217_d_1.rb), [ruby2](atcoder_selected_100/ruby/abc217_d_2.rb) |
+| - | [ABC364/E](https://atcoder.jp/contests/abc388/tasks/abc388_e) | 二分探索 | 決め打ち二分探索 | [ruby](atcoder_selected_100/ruby/abc388_e.rb) |
 | - | [ABC267/E](https://atcoder.jp/contests/abc267/tasks/abc267_e) | 二分探索 | 決め打ち二分探索, 最小値の最大化 | [ruby](atcoder_selected_100/ruby/abc267_e.rb) |
 | - | [ABC364/E](https://atcoder.jp/contests/abc374/tasks/abc374_e) | 二分探索 | 決め打ち二分探索, 最小値の最大化 | [ruby](atcoder_selected_100/ruby/abc374_e.rb) |
 | 24 | [ALDS1-11/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_B&lang=ja) | 深さ優先探索 | | [ruby](atcoder_selected_100/ruby/alds1_11_b.rb) |
@@ -135,6 +136,7 @@
 | 83 | [JOI2015HO/A](https://atcoder.jp/contests/joi2015ho/tasks/joi2015ho_a) | 累積和:いもす法 | | [ruby](atcoder_selected_100/ruby/joi2015ho_a.rb) |
 | - | [ABC338/D](https://atcoder.jp/contests/abc338/tasks/abc338_d) | 累積和:いもす法 | | [ruby](atcoder_selected_100/ruby/abc338_d.rb) |
 | - | [ABC221/D](https://atcoder.jp/contests/abc221/tasks/abc221_d) | 累積和:いもす法 | | [ruby](atcoder_selected_100/ruby/abc221_d.rb) |
+| - | [ABC388/D](https://atcoder.jp/contests/abc388/tasks/abc388_d) | 累積和:いもす法 | | [ruby](atcoder_selected_100/ruby/abc388_d.rb) |
 | 85 | [DSL-1/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DSL_1_A&lang=ja) | Union Find | | [ruby](atcoder_selected_100/ruby/dsl_1_a.rb) |
 | 86 | [ABC075/C](https://atcoder.jp/contests/abc075/tasks/abc075_c) | Union Find | DFS, Low Link | [ruby1](atcoder_selected_100/ruby/abc075_c_01.rb), [ruby2](atcoder_selected_100/ruby/abc075_c_02.rb), [kotlin1](atcoder_selected_100/kotlin/abc075_c_01.kt), [kotlin2](atcoder_selected_100/kotlin/abc075_c_02.kt) |
 | 87 | [ABC120/D](https://atcoder.jp/contests/abc120/tasks/abc120_d) | Union Find | | [ruby](atcoder_selected_100/ruby/abc120_d.rb) |
