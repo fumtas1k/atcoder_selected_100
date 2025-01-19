@@ -43,6 +43,7 @@
 | - | [ABC364/E](https://atcoder.jp/contests/abc388/tasks/abc388_e) | 二分探索 | 決め打ち二分探索 | [ruby](atcoder_selected_100/ruby/abc388_e.rb) |
 | - | [ABC267/E](https://atcoder.jp/contests/abc267/tasks/abc267_e) | 二分探索 | 決め打ち二分探索, 最小値の最大化 | [ruby](atcoder_selected_100/ruby/abc267_e.rb) |
 | - | [ABC364/E](https://atcoder.jp/contests/abc374/tasks/abc374_e) | 二分探索 | 決め打ち二分探索, 最小値の最大化 | [ruby](atcoder_selected_100/ruby/abc374_e.rb) |
+| - | [ABC389/E](https://atcoder.jp/contests/abc389/tasks/abc389_e) | 二分探索 | 決め打ち二分探索, 最小値の最大化 | [ruby](atcoder_selected_100/ruby/abc389_e.rb) |
 | 24 | [ALDS1-11/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_B&lang=ja) | 深さ優先探索 | | [ruby](atcoder_selected_100/ruby/alds1_11_b.rb) |
 | 25 | [1160](https://onlinejudge.u-aizu.ac.jp/problems/1160) | 深さ優先探索 | | [ruby](atcoder_selected_100/ruby/1160.rb) |
 | 26 | [ABC138/D](https://atcoder.jp/contests/abc138/tasks/abc138_d) | 深さ優先探索 | | [ruby](atcoder_selected_100/ruby/abc138_d.rb) |
