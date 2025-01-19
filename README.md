@@ -90,8 +90,9 @@
 | 55 | [ABC134/E](https://atcoder.jp/contests/abc134/tasks/abc134_e) | 動的計画法:その他 | 最長増加部分列(LIS) | [ruby](atcoder_selected_100/ruby/abc134_e.rb) |
 | - | [ABC354/F](https://atcoder.jp/contests/abc354/tasks/abc354_f) | 動的計画法:その他 | 最長増加部分列(LIS), 前後を考える | [ruby](atcoder_selected_100/ruby/abc354_f.rb) |
 | - | [ABC336/E](https://atcoder.jp/contests/abc336/tasks/abc336_e) | 動的計画法:その他 | 両端から計算 | [ruby](atcoder_selected_100/ruby/abc336_e.rb) |
-| - | [ABC340/E](https://atcoder.jp/contests/abc340/tasks/abc340_e) | 動的計画法:その他 | フェニック木 | [ruby](atcoder_selected_100/ruby/abc340_e.rb) |
-| - | [ABC216/G](https://atcoder.jp/contests/abc216/tasks/abc216_g) | 動的計画法:その他 | フェニック木 | [ruby](atcoder_selected_100/ruby/abc216_g.rb) |
+| - | [ABC340/E](https://atcoder.jp/contests/abc340/tasks/abc340_e) | 動的計画法:その他 | フェニック木, Fenwick Tree, BIT | [ruby](atcoder_selected_100/ruby/abc340_e.rb) |
+| - | [ABC216/G](https://atcoder.jp/contests/abc216/tasks/abc216_g) | 動的計画法:その他 | フェニック木, Fenwick Tree, BIT | [ruby](atcoder_selected_100/ruby/abc216_g.rb) |
+| - | [ABC389/F](https://atcoder.jp/contests/abc389/tasks/abc389_f) | 動的計画法:その他 | フェニック木, Fenwick Tree, BIT | [ruby](atcoder_selected_100/ruby/abc389_f.rb) |
 | - | [ABC312/G](https://atcoder.jp/contests/abc312/tasks/abc312_d) | 動的計画法:その他 | 括弧列の成立条件 | [ruby](atcoder_selected_100/ruby/abc312_d.rb) |
 | - | [ABC357/E](https://atcoder.jp/contests/abc357/tasks/abc357_e) | 動的計画法:その他 | 強連結成分分解 | [ruby](atcoder_selected_100/ruby/abc357_e.rb), [JS](atcoder_selected_100/javascript/abc357_e.js) |
 | - | [ABC358/E](https://atcoder.jp/contests/abc358/tasks/abc358_e) | 動的計画法:その他 | 組み合わせ, 逆元 | [ruby](atcoder_selected_100/ruby/abc358_e.rb) |
