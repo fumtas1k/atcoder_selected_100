@@ -39,15 +39,15 @@ class BIT
     r ? _sum(r) - _sum(l) : _sum(l)
   end
 
-  def lower_bound(x)
-    pos = csum = 0
+  def lower_bound(value)
+  idx = csum = 0
     depth.downto(0) do |i|
-      k = pos + (1 << i)
-      next unless k <= size && csum + data[k] < x
+      k = idx + (1 << i)
+      next unless k <= size && csum + data[k] < value
       csum += data[k]
-      pos = k
+      idx = k
     end
-    pos
+    idx
   end
 
   private
