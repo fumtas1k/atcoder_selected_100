@@ -157,9 +157,10 @@
 | - | [ABC359/E](https://atcoder.jp/contests/abc359/tasks/abc359_e) | その他 | スタック, ヒストグラム最大長方形 | [ruby](atcoder_selected_100/ruby/abc359_e.rb) |
 | - | [ABC372/D](https://atcoder.jp/contests/abc372/tasks/abc372_d) | その他 | スタック, ヒストグラム最大長方形 | [ruby](atcoder_selected_100/ruby/abc372_d.rb) |
 | - | [ABC379/F](https://atcoder.jp/contests/abc379/tasks/abc379_f) | その他 | スタック, ヒストグラム最大長方形, フェニック木, 二分探索法 | [ruby1](atcoder_selected_100/ruby/abc379_f_01.rb), [ruby2](atcoder_selected_100/ruby/abc379_f_02.rb) |
-| - | [ABC372/D](https://atcoder.jp/contests/abc352/tasks/abc352_d) | その他 | スライド最小, スライド最大, dequeue | [ruby](atcoder_selected_100/ruby/abc352_d.rb) |
+| - | [ABC352/D](https://atcoder.jp/contests/abc352/tasks/abc352_d) | その他 | スライド最小, スライド最大, dequeue | [ruby](atcoder_selected_100/ruby/abc352_d.rb) |
 | - | [ABC349/D](https://atcoder.jp/contests/abc349/tasks/abc349_d) | その他 | セグメント木の考え方, 深さ優先探索 | [ruby1](atcoder_selected_100/ruby/abc349_d_1.rb),[ruby2](atcoder_selected_100/ruby/abc349_d_2.rb) |
-| - | [ABC372/D](https://atcoder.jp/contests/abc302/tasks/abc302_e) | その他 | Set | [ruby](atcoder_selected_100/ruby/abc302_e.rb) |
+| - | [ABC302/E](https://atcoder.jp/contests/abc302/tasks/abc302_e) | その他 | Set | [ruby](atcoder_selected_100/ruby/abc302_e.rb) |
+| - | [ABC393/D](https://atcoder.jp/contests/abc393/tasks/abc393_d) | その他 | 転倒数, マンハッタン距離の総和を最小値は、中央値 | [ruby1](atcoder_selected_100/ruby/abc393_d_1.rb), [ruby2](atcoder_selected_100/ruby/abc393_d_2.rb) |
 | 95 | [ABC149/B](https://atcoder.jp/contests/abc149/tasks/abc149_b) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc149_b.rb) |
 | 96 | [ABC139/D](https://atcoder.jp/contests/abc139/tasks/abc139_d) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc139_d.rb) |
 | 97 | [ABC150/D](https://atcoder.jp/contests/abc139/tasks/abc150_d) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc150_d.rb) |
