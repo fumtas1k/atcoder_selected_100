@@ -3,22 +3,24 @@
 M = 10 ** 9 + 7
 N = gets.to_i
 G = Array.new(N) { [] }
+
 (N - 1).times do
   x, y = gets.split.map(&:to_i).map(&:pred)
   G[x] << y
   G[y] << x
 end
 
-# [white, black]
-@dp = Array.new(N) { [1, 1] }
-def dfs(pos, pre)
-  G[pos].each do |i|
-    next if i == pre
-    white, black = dfs(i, pos)
-    @dp[pos][0] = (@dp[pos][0] * (white + black)) % M
-    @dp[pos][1] = (@dp[pos][1] * white) % M
+dfs = ->(pos = 0, pre = -1) do
+  # res[i] := pos を根とする部分木において、pos の色が i である場合の数
+  # i = 0: 白, j = 1: 黒
+  res = [1, 1]
+  G[pos].each do |to|
+    next if to == pre
+    w, b = dfs.(to, pos)
+    res[0] = (w + b) * res[0] % M
+    res[1] = w * res[1] % M
   end
-  @dp[pos]
+  res
 end
 
-puts dfs(0, -1).sum % M
+puts dfs.().sum % M
