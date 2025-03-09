@@ -170,11 +170,13 @@
 | 100 | [TENKA12018BEGINNER](https://atcoder.jp/contests/tenka1-2018-beginner/tasks/tenka1_2018_d) | 数学的な問題 | 完全グラフ | [ruby](atcoder_selected_100/ruby/tenka1_2018_d.rb) |
 | - | [ABC337/E](https://atcoder.jp/contests/abc338/tasks/abc337_e) | 数学的な問題 | ビット | [ruby](atcoder_selected_100/ruby/abc337_e.rb) |
 | - | [ABC365/E](https://atcoder.jp/contests/abc365/tasks/abc365_e) | 数学的な問題 | ビット, XOR, 累積和 | [ruby](atcoder_selected_100/ruby/abc365_e.rb) |
+| - | [ABC396/E](https://atcoder.jp/contests/abc396/tasks/abc396_e) | 数学的な問題 | ビット, XOR, ビット毎に独立で考える | [ruby](atcoder_selected_100/ruby/abc396_e.rb) |
 | - | [ABC338/E](https://atcoder.jp/contests/abc338/tasks/abc338_e) | 数学的な問題 | スタック | [ruby](atcoder_selected_100/ruby/abc338_e.rb) |
 | - | [ABC320/B](https://atcoder.jp/contests/abc320/tasks/abc320_b) | 数学的な問題 | 回文, manacher | [ruby](atcoder_selected_100/ruby/abc320_b.rb) |
 | - | [ABC346/E](https://atcoder.jp/contests/abc346/tasks/abc346_e) | 数学的な問題 | 後ろから考える | [ruby](atcoder_selected_100/ruby/abc346_e.rb) |
 | - | [ABC347/C](https://atcoder.jp/contests/abc347/tasks/abc347_c) | 数学的な問題 | 条件を変換する | [ruby](atcoder_selected_100/ruby/abc347_c.rb) |
 | - | [CHOKUDAI_S001/J](https://atcoder.jp/contests/chokudai_s001/tasks/chokudai_S001_j) | 数学的な問題 | 転倒数 | [ruby](atcoder_selected_100/ruby/chokudai_S001_j.rb) |
+| - | [ABC396/F](https://atcoder.jp/contests/abc396/tasks/abc396_f) | 数学的な問題 | 転倒数 | [ruby](atcoder_selected_100/ruby/abc396_f.rb) |
 | - | [ABC357/D](https://atcoder.jp/contests/abc357/tasks/abc357_d) | 数学的な問題 | 等比数列の和の公式, 逆元 | [ruby](atcoder_selected_100/ruby/abc357_d.rb) |
 | - | [ABC367/F](https://atcoder.jp/contests/abc367/tasks/abc367_f) | 数学的な問題 | Schwartz–Zippel lemma, Zobrist Hash | [ruby](atcoder_selected_100/ruby/abc367_f.rb) |
 | - | [ABC377/E](https://atcoder.jp/contests/abc377/tasks/abc377_e) | 数学的な問題 | ダブリング, 鳩の巣原理, グラフ, 循環, 周期 | [ruby](atcoder_selected_100/ruby/abc377_e.rb) |
