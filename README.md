@@ -120,6 +120,7 @@
 | 62 | [ABC079/D](https://atcoder.jp/contests/abc079/tasks/abc079_d) | 最短経路問題 | ワーシャルフロイド法 | [ruby](atcoder_selected_100/ruby/abc079_d.rb) |
 | 64 | [GRL-2/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_2_A&lang=ja) | 最小全域木 | クラスカル法(貪欲法 + Union Find) | [ruby](atcoder_selected_100/ruby/grl_2_a.rb) |
 | 65 | [JOISC2010/FINALS](https://atcoder.jp/contests/joisc2010/tasks/joisc2010_finals) | 最小全域木 | クラスカル法(貪欲法 + Union Find) | [ruby](atcoder_selected_100/ruby/joisc2010_finals.rb) |
+| 67 | [ABC065/D](https://atcoder.jp/contests/abc065/tasks/arc076_b) | 最小全域木 | クラスカル法(貪欲法 + Union Find), XとYを別々に考える | [ruby](atcoder_selected_100/ruby/abc065_d.rb) |
 | - | [ ABC383/E](https://atcoder.jp/contests/abc383/tasks/abc383_e) | 最小全域木 | クラスカル法(貪欲法 + Union Find) | [ruby](atcoder_selected_100/ruby/abc383_e.rb) |
 | - | [ ABC355/F](https://atcoder.jp/contests/abc355/tasks/abc355_f) | 最小全域木 | Union Find | [ruby](atcoder_selected_100/ruby/abc355_f.rb) |
 | - | [ ABC214/D](https://atcoder.jp/contests/abc214/tasks/abc214_d) | 最小全域木 | Union Find, 主客転倒 | [ruby](atcoder_selected_100/ruby/abc214_d.rb) |
