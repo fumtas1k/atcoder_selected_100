@@ -64,6 +64,7 @@
 | 30 | [JOI2011YO/E](https://atcoder.jp/contests/joi2011yo/tasks/joi2011yo_e) | 幅優先探索 | | [ruby](atcoder_selected_100/ruby/joi2011yo_e.rb) |
 | - | [ABC213/E](https://atcoder.jp/contests/abc213/tasks/abc213_e) | 幅優先探索 | 01-BFS | [ruby](atcoder_selected_100/ruby/abc213_e.rb) |
 | - | [ABC386/C](https://atcoder.jp/contests/abc387/tasks/abc387_d) | 幅優先探索 |パリティ, 状態管理 | [ruby](atcoder_selected_100/ruby/abc387_d.rb) |
+| 33 | [ABC088/D](https://atcoder.jp/contests/abc088/tasks/abc088_d) | 幅優先探索 |  | [ruby](atcoder_selected_100/ruby/abc088_d.rb) |
 | 34 | [ALDS1-10/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_10_A&lang=ja) | 動的計画法:ナップサックDP | | [ruby](atcoder_selected_100/ruby/alds1_10_a.rb) |
 | 35 | [DPL-1/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_B&lang=ja) | 動的計画法:ナップサックDP | | [ruby](atcoder_selected_100/ruby/dpl_1_b.rb) |
 | 36 | [DPL-1/C](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_C&lang=ja) | 動的計画法:ナップサックDP | | [ruby](atcoder_selected_100/ruby/dpl_1_c.rb) |
@@ -73,6 +74,7 @@
 | 40 | [JOI2012YO/D](https://atcoder.jp/contests/joi2012yo/tasks/joi2012yo_d) | 動的計画法:ナップサックDP | | [ruby](atcoder_selected_100/ruby/joi2012yo_d.rb) |
 | 41 | [JOI2013YO/D](https://atcoder.jp/contests/joi2013yo/tasks/joi2013yo_d) | 動的計画法:ナップサックDP | | [ruby](atcoder_selected_100/ruby/joi2013yo_d.rb) |
 | 42 | [JOI2015YO/D](https://atcoder.jp/contests/joi2015yo/tasks/joi2015yo_d) | 動的計画法:ナップサックDP | | [ruby](atcoder_selected_100/ruby/joi2015yo_d.rb) |
+| 43 | [PAKENCAMP2019DAY3/D](https://atcoder.jp/contests/pakencamp-2019-day3/tasks/pakencamp_2019_day3_d) | 動的計画法:ナップサックDP | | [ruby](atcoder_selected_100/ruby/pakencamp_2019_day3_d.rb) |
 | - | [ABC364/E](https://atcoder.jp/contests/abc364/tasks/abc364_e) | 動的計画法:ナップサックDP | キーと値を入れ替える | [ruby](atcoder_selected_100/ruby/abc364_e.rb) |
 | - | [DPL-1/G](https://onlinejudge.u-aizu.ac.jp/courses/library/7/DPL/1/DPL_1_G) | 動的計画法:ナップサックDP | 個数制限付きナップサックDP | [ruby](atcoder_selected_100/ruby/dpl_1_g.rb), [kotlin](atcoder_selected_100/kotlin/dpl_1_g.kt) |
 | - | [DPL-1/I](https://onlinejudge.u-aizu.ac.jp/courses/library/7/DPL/1/DPL_1_I) | 動的計画法:ナップサックDP | 個数制限付きナップサックDP, 貪欲法, スライド最小値 | [ruby](atcoder_selected_100/ruby/dpl_1_i.rb), [kotlin](atcoder_selected_100/kotlin/dpl_1_i.kt) |
