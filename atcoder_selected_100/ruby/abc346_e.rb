@@ -17,18 +17,16 @@ TAX.reverse.each do |t, a, x|
   a -= 1
   case t
   when 1
-    next if ROW.include?(a)
-    ROW << a
+    next unless ROW.add?(a)
     ans[x] += W - COLUMN.size unless x.zero?
   when 2
-    next if COLUMN.include?(a)
-    COLUMN << a
+    next unless COLUMN.add?(a)
     ans[x] += H - ROW.size unless x.zero?
   else
   end
 end
 
 ans[0] = H * W - ans.values.sum
-ans.reject! {|k, v| v.zero? }
+ans.reject! {|_, v| v.zero? }
 puts ans.size
 puts ans.sort.map { _1.join(" ") }.join("\n")
