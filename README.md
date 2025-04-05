@@ -48,6 +48,7 @@
 | - | [ABC389/E](https://atcoder.jp/contests/abc389/tasks/abc389_e) | 二分探索 | 決め打ち二分探索, 最小値の最大化 | [ruby](atcoder_selected_100/ruby/abc389_e.rb) |
 | - | [ABC390/E](https://atcoder.jp/contests/abc390/tasks/abc390_e) | 二分探索 | 決め打ち二分探索, 最小値の最大化 | [ruby](atcoder_selected_100/ruby/abc390_e.rb) |
 | - | [ABC270/E](https://atcoder.jp/contests/abc270/tasks/abc270_e) | 二分探索 | 決め打ち二分探索 | [ruby](atcoder_selected_100/ruby/abc270_e.rb) |
+| - | [ABC400/C](https://atcoder.jp/contests/abc400/tasks/abc400_c) | 二分探索 | 平方根を求める | [ruby](atcoder_selected_100/ruby/abc400_c.rb) |
 | 24 | [ALDS1-11/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_B&lang=ja) | 深さ優先探索 | | [ruby](atcoder_selected_100/ruby/alds1_11_b.rb) |
 | 25 | [1160](https://onlinejudge.u-aizu.ac.jp/problems/1160) | 深さ優先探索 | | [ruby](atcoder_selected_100/ruby/1160.rb) |
 | 26 | [ABC138/D](https://atcoder.jp/contests/abc138/tasks/abc138_d) | 深さ優先探索 | | [ruby](atcoder_selected_100/ruby/abc138_d.rb) |
@@ -66,6 +67,7 @@
 | 29 | [ABC007/C](https://atcoder.jp/contests/abc007/tasks/abc007_3) | 幅優先探索 | | [ruby](atcoder_selected_100/ruby/abc007_c.rb) |
 | 30 | [JOI2011YO/E](https://atcoder.jp/contests/joi2011yo/tasks/joi2011yo_e) | 幅優先探索 | | [ruby](atcoder_selected_100/ruby/joi2011yo_e.rb) |
 | - | [ABC213/E](https://atcoder.jp/contests/abc213/tasks/abc213_e) | 幅優先探索 | 01-BFS | [ruby](atcoder_selected_100/ruby/abc213_e.rb) |
+| - | [ABC400/D](https://atcoder.jp/contests/abc400/tasks/abc400_d) | 幅優先探索 | 01-BFS | [ruby](atcoder_selected_100/ruby/abc400_d.rb) |
 | - | [ABC386/C](https://atcoder.jp/contests/abc387/tasks/abc387_d) | 幅優先探索 |パリティ, 状態管理 | [ruby](atcoder_selected_100/ruby/abc387_d.rb) |
 | 33 | [ABC088/D](https://atcoder.jp/contests/abc088/tasks/abc088_d) | 幅優先探索 |  | [ruby](atcoder_selected_100/ruby/abc088_d.rb) |
 | 34 | [ALDS1-10/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_10_A&lang=ja) | 動的計画法:ナップサックDP | | [ruby](atcoder_selected_100/ruby/alds1_10_a.rb) |
@@ -132,6 +134,7 @@
 | - | [ABC230/D](https://atcoder.jp/contests/abc230/tasks/abc230_d) | 貪欲法 | 区間スケジューリング問題 | [ruby](atcoder_selected_100/ruby/abc230_d.rb) |
 | 68 | [NTL-1/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=NTL_1_A&lang=ja) | 素因数分解 | | [ruby](atcoder_selected_100/ruby/ntl_1_a.rb) |
 | - | [ABC254/D](https://atcoder.jp/contests/abc254/tasks/abc254_d) | 素因数分解 | 平方数 | [ruby1](atcoder_selected_100/ruby/abc254_d_1.rb),[ruby2](atcoder_selected_100/ruby/abc254_d_2.rb) |
+| - | [ABC400/E](https://atcoder.jp/contests/abc400/tasks/abc400_e) | 素因数分解 | 平方数 | [ruby](atcoder_selected_100/ruby/abc400_e.rb) |
 | 70 | [NTL-1/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=NTL_1_B&lang=ja) | 高度なべき乗計算 | | [ruby](atcoder_selected_100/ruby/ntl_1_b.rb) |
 | 71 | [S8PC-1/E](https://atcoder.jp/contests/s8pc-1/tasks/s8pc_1_e) | 高度なべき乗計算 | 累積和 | [ruby](atcoder_selected_100/ruby/s8pc_1_e.rb) |
 | 72 | [ABC034/C](https://atcoder.jp/contests/abc034/tasks/abc034_c) | 逆元 | | [ruby](atcoder_selected_100/ruby/abc034_c.rb) |
