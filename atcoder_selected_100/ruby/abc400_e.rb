@@ -3,7 +3,6 @@
 # 素因数
 # 平方数
 
-
 # p, q は 素数
 # p ^ (2 * k) * q ^ (2 * l) <= 10 ** 12
 # p ^ k * q ^ l <= 10 ** 6
@@ -20,13 +19,12 @@ end
 
 candidates = []
 2.upto(MAX) do |i|
-  if prime_factor_cnts[i] == 2
-    candidates << i.pow(2)
-    candidates << i.pow(4)
-  end
+  next unless prime_factor_cnts[i] == 2
+  candidates << i.pow(2)
 end
-candidates.sort!.reverse!
 
+candidates.sort!.reverse!
 gets.to_i.times.map do
-  candidates.bsearch { _1 <= gets.to_i }
+  query = gets.to_i
+  candidates.bsearch { _1 <= query }
 end.then(&method(:puts))
