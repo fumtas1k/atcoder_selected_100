@@ -17,10 +17,8 @@ prime_factor_cnts = Array.new(MAX + 1, 0)
   end
 end
 
-candidates = []
-2.upto(MAX) do |i|
-  next unless prime_factor_cnts[i] == 2
-  candidates << i.pow(2)
+candidates = 2.upto(MAX).filter_map do |i|
+  i.pow(2) if prime_factor_cnts[i] == 2
 end
 
 candidates.sort!.reverse!
