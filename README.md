@@ -93,6 +93,7 @@
 | - | [ABC215/E](https://atcoder.jp/contests/abc215/tasks/abc215_e) | 動的計画法:ビットDP |  | [ruby](atcoder_selected_100/ruby/abc215_e.rb) |
 | - | [ABC326/E](https://atcoder.jp/contests/abc326/tasks/abc326_e) | 動的計画法:期待値DP | 累積和 | [ruby](atcoder_selected_100/ruby/abc326_e.rb) |
 | - | [ABC350/E](https://atcoder.jp/contests/abc350/tasks/abc350_e) | 動的計画法:期待値DP | メモ化再帰 | [ruby](atcoder_selected_100/ruby/abc350_e.rb) |
+| - | [ABC402/E](https://atcoder.jp/contests/abc402/tasks/abc402_e) | 動的計画法:期待値DP |  | [ruby](atcoder_selected_100/ruby/abc402_e.rb) |
 | - | [ABC387/C](https://atcoder.jp/contests/abc387/tasks/abc387_c) | 動的計画法:桁DP |  | [ruby](atcoder_selected_100/ruby/abc387_c.rb) |
 | - | [ABC394/F](https://atcoder.jp/contests/abc394/tasks/abc394_F) | 動的計画法:木DP |  | [ruby](atcoder_selected_100/ruby/abc394_f.rb) |
 | - | [ABC397/E](https://atcoder.jp/contests/abc397/tasks/abc397_E) | 動的計画法:木DP |  | [ruby](atcoder_selected_100/ruby/abc397_e.rb) |
@@ -172,6 +173,7 @@
 | - | [ABC352/D](https://atcoder.jp/contests/abc352/tasks/abc352_d) | その他 | スライド最小, スライド最大, dequeue | [ruby](atcoder_selected_100/ruby/abc352_d.rb) |
 | - | [ABC349/D](https://atcoder.jp/contests/abc349/tasks/abc349_d) | その他 | セグメント木の考え方, 深さ優先探索 | [ruby1](atcoder_selected_100/ruby/abc349_d_1.rb),[ruby2](atcoder_selected_100/ruby/abc349_d_2.rb) |
 | - | [ABC302/E](https://atcoder.jp/contests/abc302/tasks/abc302_e) | その他 | Set | [ruby](atcoder_selected_100/ruby/abc302_e.rb) |
+| - | [ABC402/C](https://atcoder.jp/contests/abc402/tasks/abc402_c) | その他 | Set, 後ろから考える | [ruby](atcoder_selected_100/ruby/abc402_c.rb) |
 | - | [ABC393/D](https://atcoder.jp/contests/abc393/tasks/abc393_d) | その他 | 転倒数, マンハッタン距離の総和を最小値は、中央値 | [ruby1](atcoder_selected_100/ruby/abc393_d_1.rb), [ruby2](atcoder_selected_100/ruby/abc393_d_2.rb) |
 | 95 | [ABC149/B](https://atcoder.jp/contests/abc149/tasks/abc149_b) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc149_b.rb) |
 | 96 | [ABC139/D](https://atcoder.jp/contests/abc139/tasks/abc139_d) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc139_d.rb) |
@@ -195,6 +197,8 @@
 | - | [ABC381/C](https://atcoder.jp/contests/abc381/tasks/abc381_c) | 数学的な問題 | ランレングス圧縮 | [ruby1](atcoder_selected_100/ruby/abc381_c_01.rb), [ruby2](atcoder_selected_100/ruby/abc381_c_02.rb) |
 | - | [ABC393/E](https://atcoder.jp/contests/abc393/tasks/abc393_e) | 数学的な問題 | 約数列挙 | [ruby](atcoder_selected_100/ruby/abc393_e.rb) |
 | - | [ABC398/D](https://atcoder.jp/contests/abc398/tasks/abc398_d) | 数学的な問題 | 全体移動は座標移動, 相対位置 | [ruby](atcoder_selected_100/ruby/abc398_d.rb) |
+| - | [ABC402/D](https://atcoder.jp/contests/abc402/tasks/abc402_d) | 数学的な問題 | 余事象, 平行条件, 中点 | [ruby](atcoder_selected_100/ruby/abc402_d.rb) |
+
 
 ## [Educational DP Contest/DPまとめコンテスト](https://atcoder.jp/contests/dp)
 
