@@ -93,7 +93,7 @@
 | - | [ABC215/E](https://atcoder.jp/contests/abc215/tasks/abc215_e) | 動的計画法:ビットDP |  | [ruby](atcoder_selected_100/ruby/abc215_e.rb) |
 | - | [ABC326/E](https://atcoder.jp/contests/abc326/tasks/abc326_e) | 動的計画法:期待値DP | 累積和 | [ruby](atcoder_selected_100/ruby/abc326_e.rb) |
 | - | [ABC350/E](https://atcoder.jp/contests/abc350/tasks/abc350_e) | 動的計画法:期待値DP | メモ化再帰 | [ruby](atcoder_selected_100/ruby/abc350_e.rb) |
-| - | [ABC402/E](https://atcoder.jp/contests/abc402/tasks/abc402_e) | 動的計画法:期待値DP |  | [ruby](atcoder_selected_100/ruby/abc402_e.rb) |
+| - | [ABC402/E](https://atcoder.jp/contests/abc402/tasks/abc402_e) | 動的計画法:期待値DP | ビットDP | [ruby](atcoder_selected_100/ruby/abc402_e.rb) |
 | - | [ABC387/C](https://atcoder.jp/contests/abc387/tasks/abc387_c) | 動的計画法:桁DP |  | [ruby](atcoder_selected_100/ruby/abc387_c.rb) |
 | - | [ABC394/F](https://atcoder.jp/contests/abc394/tasks/abc394_F) | 動的計画法:木DP |  | [ruby](atcoder_selected_100/ruby/abc394_f.rb) |
 | - | [ABC397/E](https://atcoder.jp/contests/abc397/tasks/abc397_E) | 動的計画法:木DP |  | [ruby](atcoder_selected_100/ruby/abc397_e.rb) |

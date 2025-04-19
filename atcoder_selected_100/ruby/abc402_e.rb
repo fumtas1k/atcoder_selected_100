@@ -1,6 +1,7 @@
 # -
 # ABC402/E
 # 動的計画法:期待値DP
+# ビットDP
 
 N, X = gets.split.map(&:to_i)
 SCP = Array.new(N) { gets.split.map(&:to_i) }
