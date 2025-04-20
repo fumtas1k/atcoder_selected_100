@@ -37,6 +37,7 @@
 | 19 | [JOI2009HO/B](https://atcoder.jp/contests/joi2009ho/tasks/joi2009ho_b) | 二分探索 | | [ruby](atcoder_selected_100/ruby/joi2009ho_b.rb) |
 | 20 | [ABC077/C](https://atcoder.jp/contests/abc077/tasks/arc084_a) | 二分探索 | | [ruby](atcoder_selected_100/ruby/abc077_c.rb) |
 | 21 | [ABC023/D](https://atcoder.jp/contests/abc023/tasks/abc023_d) | 二分探索 | | [ruby](atcoder_selected_100/ruby/abc023_d.rb) |
+| 22 | [ARC054/B](https://atcoder.jp/contests/arc054/tasks/arc054_b) | 二分探索 | 黄金分割探索, 微分 | [ruby1](atcoder_selected_100/ruby/arc054_b_01.rb), [ruby2](atcoder_selected_100/ruby/arc054_b_02.rb) |
 | 23 | [JOI2008HO/C](https://atcoder.jp/contests/joi2008ho/tasks/joi2008ho_c) | 二分探索 | | [ruby](atcoder_selected_100/ruby/joi2008ho_c.rb) |
 | - | [ABC397/D](https://atcoder.jp/contests/abc397/tasks/abc397_d) | 二分探索 | | [ruby](atcoder_selected_100/ruby/abc397_d.rb) |
 | - | [C - Come Together](https://atcoder.jp/contests/nikkei2019-final/tasks/nikkei2019_final_c) | 二分探索 | マンハッタン距離の総和を最小値は、中央値を使う | [ruby](atcoder_selected_100/ruby/nikkei2019_final_c.rb) |
