@@ -137,7 +137,7 @@
 | 68 | [NTL-1/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=NTL_1_A&lang=ja) | 素因数分解 | | [ruby](atcoder_selected_100/ruby/ntl_1_a.rb) |
 | - | [ABC254/D](https://atcoder.jp/contests/abc254/tasks/abc254_d) | 素因数分解 | 平方数 | [ruby1](atcoder_selected_100/ruby/abc254_d_1.rb),[ruby2](atcoder_selected_100/ruby/abc254_d_2.rb) |
 | - | [ABC400/E](https://atcoder.jp/contests/abc400/tasks/abc400_e) | 素因数分解 | 平方数 | [ruby](atcoder_selected_100/ruby/abc400_e.rb) |
-| 69 | [ABC084/D](https://atcoder.jp/contests/abc084/tasks/abc084_d) | 素因数分解 | 平方数 | [ruby](atcoder_selected_100/ruby/abc084_d.rb) |
+| 69 | [ABC084/D](https://atcoder.jp/contests/abc084/tasks/abc084_d) | 素因数分解 | 平方数, 累積和 | [ruby](atcoder_selected_100/ruby/abc084_d.rb) |
 | 70 | [NTL-1/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=NTL_1_B&lang=ja) | 高度なべき乗計算 | | [ruby](atcoder_selected_100/ruby/ntl_1_b.rb) |
 | 71 | [S8PC-1/E](https://atcoder.jp/contests/s8pc-1/tasks/s8pc_1_e) | 高度なべき乗計算 | 累積和 | [ruby](atcoder_selected_100/ruby/s8pc_1_e.rb) |
 | 72 | [ABC034/C](https://atcoder.jp/contests/abc034/tasks/abc034_c) | 逆元 | | [ruby](atcoder_selected_100/ruby/abc034_c.rb) |
@@ -146,7 +146,7 @@
 | 77 | [JOI2010HO/A](https://atcoder.jp/contests/joi2010ho/tasks/joi2010ho_a) | 累積和 | | [ruby](atcoder_selected_100/ruby/joi2010ho_a.rb) |
 | - | [ABC233/D](https://atcoder.jp/contests/abc233/tasks/abc233_d) | 累積和 | | [ruby](atcoder_selected_100/ruby/abc233_d.rb) |
 | 78 | [JOI2011HO/A](https://atcoder.jp/contests/joi2011ho/tasks/joi2011ho1) | 累積和:二次元 | | [ruby](atcoder_selected_100/ruby/joi2011ho_a.rb) |
-| 78 | [ABC106/D](https://atcoder.jp/contests/abc106/tasks/abc106_d) | 累積和:二次元 | 区間DP | [ruby](atcoder_selected_100/ruby/abc106_d.rb) |
+| 79 | [ABC106/D](https://atcoder.jp/contests/abc106/tasks/abc106_d) | 累積和:二次元 | 区間DP | [ruby](atcoder_selected_100/ruby/abc106_d.rb) |
 | - | [ABC366/D](https://atcoder.jp/contests/abc366/tasks/abc366_d) | 累積和:三次元 | | [ruby](atcoder_selected_100/ruby/abc366_d.rb) |
 | 80 | [ABC014/C](https://atcoder.jp/contests/gigacode-2019/tasks/gigacode_2019_d) | 累積和 | 二分探索 | [ruby](atcoder_selected_100/ruby/gigacode_2019_d.rb) |
 | - | [ABC347/E](https://atcoder.jp/contests/abc347/tasks/abc347_e) | 累積和 | 横ではなく縦で考える | [ruby](atcoder_selected_100/ruby/abc347_e.rb) |
