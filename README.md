@@ -114,6 +114,7 @@
 | - | [ABC358/E](https://atcoder.jp/contests/abc358/tasks/abc358_e) | 動的計画法:その他 | 組み合わせ, 逆元 | [ruby](atcoder_selected_100/ruby/abc358_e.rb) |
 | - | [ABC362/E](https://atcoder.jp/contests/abc362/tasks/abc362_e) | 動的計画法:その他 | 等差数列 | [ruby](atcoder_selected_100/ruby/abc362_e.rb) |
 | - | [ABC375/E](https://atcoder.jp/contests/abc375/tasks/abc375_e) | 動的計画法:その他 | ループを１つ減らす | [ruby](atcoder_selected_100/ruby/abc375_e.rb) |
+| - | [ABC403/D](https://atcoder.jp/contests/abc403/tasks/abc403_d) | 動的計画法:その他 | | [ruby](atcoder_selected_100/ruby/abc403_d.rb) |
 | 56 | [GRL-1/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_1_A&lang=ja) | 最短経路問題 | ダイクストラ法 | [ruby](atcoder_selected_100/ruby/grl_1_a.rb) |
 | 57 | [JOI2008YO/F](https://atcoder.jp/contests/joi2008yo/tasks/joi2008yo_f) | 最短経路問題 | ダイクストラ法 | [ruby1](atcoder_selected_100/ruby/joi2008yo_f_01.rb), [ruby2](atcoder_selected_100/ruby/joi2008yo_f_02.rb) |
 | 59 | [JOI2014YO/E](https://atcoder.jp/contests/joi2014yo/tasks/joi2014yo_e) | 最短経路問題 | ダイクストラ法, 幅優先探索, 優先度付キュー | [ruby](atcoder_selected_100/ruby/joi2014yo_e.rb) |
@@ -180,6 +181,7 @@
 | - | [ABC302/E](https://atcoder.jp/contests/abc302/tasks/abc302_e) | その他 | Set | [ruby](atcoder_selected_100/ruby/abc302_e.rb) |
 | - | [ABC402/C](https://atcoder.jp/contests/abc402/tasks/abc402_c) | その他 | Set, 後ろから考える | [ruby1](atcoder_selected_100/ruby/abc402_c_01.rb), [ruby1](atcoder_selected_100/ruby/abc402_c_02.rb) |
 | - | [ABC393/D](https://atcoder.jp/contests/abc393/tasks/abc393_d) | その他 | 転倒数, マンハッタン距離の総和を最小値は、中央値 | [ruby1](atcoder_selected_100/ruby/abc393_d_1.rb), [ruby2](atcoder_selected_100/ruby/abc393_d_2.rb) |
+| - | [ABC403/E](https://atcoder.jp/contests/abc403/tasks/abc403_e) | その他 | trie木 | [ruby](atcoder_selected_100/ruby/abc403_e.rb) |
 | 95 | [ABC149/B](https://atcoder.jp/contests/abc149/tasks/abc149_b) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc149_b.rb) |
 | 96 | [ABC139/D](https://atcoder.jp/contests/abc139/tasks/abc139_d) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc139_d.rb) |
 | 97 | [ABC150/D](https://atcoder.jp/contests/abc139/tasks/abc150_d) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc150_d.rb) |
