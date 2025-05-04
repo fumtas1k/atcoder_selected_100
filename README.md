@@ -30,7 +30,8 @@
 | 14 | [S8PC4/B](https://atcoder.jp/contests/s8pc-4/tasks/s8pc_4_b) | 全探索:ビット全探索 | | [ruby](atcoder_selected_100/ruby/s8pc_4_b.rb) |
 | - | [ABC354/E](https://atcoder.jp/contests/abc354/tasks/abc354_e) | 全探索:ビット全探索 | 後ろから考える | [ruby](atcoder_selected_100/ruby/abc354_e.rb) |
 | - | [ABC356/C](https://atcoder.jp/contests/abc356/tasks/abc356_c) | 全探索:ビット全探索 |  | [ruby](atcoder_selected_100/ruby/abc356_c.rb) |
-| - | [ABC359/D](https://atcoder.jp/contests/abc359/tasks/abc359_d) | 全探索:ビット全探索系 |  | [ruby](atcoder_selected_100/ruby/abc359_d.rb) |
+| - | [ABC359/D](https://atcoder.jp/contests/abc359/tasks/abc359_d) | 全探索:ビット全探索系 |  | [ruby](atcoder_selected_100/ruby/abc359_d.rb)| - | [ABC356/C](https://atcoder.jp/contests/abc404/tasks/abc404_d) | 全探索:ビット全探索系 | 3進数で全探索 | [ruby](atcoder_selected_100/ruby/abc404_d.rb) | |
+
 | 15 | [ABC145/C](https://atcoder.jp/contests/abc145/tasks/abc145_c) | 全探索:順列全探索 | | [ruby](atcoder_selected_100/ruby/abc145_c.rb) |
 | 16 | [ABC150/C](https://atcoder.jp/contests/abc150/tasks/abc150_c) | 全探索:順列全探索 | | [ruby](atcoder_selected_100/ruby/abc150_c.rb) |
 | 17 | [SLDS1-13/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_13_A&lang=ja) | 全探索:順列全探索 | バックトラック法 | [ruby](atcoder_selected_100/ruby/alds1_13_a.rb) |
@@ -165,8 +166,9 @@
 | 86 | [ABC075/C](https://atcoder.jp/contests/abc075/tasks/abc075_c) | Union Find | DFS, Low Link | [ruby1](atcoder_selected_100/ruby/abc075_c_01.rb), [ruby2](atcoder_selected_100/ruby/abc075_c_02.rb), [kotlin1](atcoder_selected_100/kotlin/abc075_c_01.kt), [kotlin2](atcoder_selected_100/kotlin/abc075_c_02.kt) |
 | 87 | [ABC120/D](https://atcoder.jp/contests/abc120/tasks/abc120_d) | Union Find | | [ruby](atcoder_selected_100/ruby/abc120_d.rb) |
 | - | [ABC350/D](https://atcoder.jp/contests/abc350/tasks/abc350_d) | Union Find | DFS | [ruby1](atcoder_selected_100/ruby/abc350_d_01.rb), [ruby2](atcoder_selected_100/ruby/abc350_d_02.rb) |
-| - | [ABC372/E](https://atcoder.jp/contests/abc372/tasks/abc372_e) | Union Find | 必要数分のみ保持 | [ruby1](atcoder_selected_100/ruby/abc372_e.rb) |
+| - | [ABC372/E](https://atcoder.jp/contests/abc372/tasks/abc372_e) | Union Find | 必要数分のみ保持 | [ruby](atcoder_selected_100/ruby/abc372_e.rb) |
 | - | [ABC372/E](https://atcoder.jp/contests/code-thanks-festival-2017-open/tasks/code_thanks_festival_2017_h) | Union Find | 部分永続Union Find | [ruby1](atcoder_selected_100/ruby/code_thanks_festival_2017_h_01.rb), [ruby2](atcoder_selected_100/ruby/code_thanks_festival_2017_h_02.rb) |
+| - | [ABC404/C](https://atcoder.jp/contests/abc404/tasks/abc404_c) | Union Find | サイクルグラフ | [ruby](atcoder_selected_100/ruby/abc404_c.rb) |
 | 88 | [JOI2008HO](https://atcoder.jp/contests/joi2008ho/tasks/joi2008ho_a) | 圧縮 | | [ruby](atcoder_selected_100/ruby/joi2008ho_a.rb) |
 | 89 | [JOI2013HO/1](https://atcoder.jp/contests/joi2013ho/tasks/joi2013ho1) | 圧縮 | | [ruby](atcoder_selected_100/ruby/joi2013ho_1.rb) |
 | 90 | [S8PC-5/B](https://atcoder.jp/contests/s8pc-5/tasks/s8pc_5_b) | その他 | | [ruby](atcoder_selected_100/ruby/s8pc_5_b.rb) |
