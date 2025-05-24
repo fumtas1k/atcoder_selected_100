@@ -186,6 +186,7 @@
 | - | [ABC402/C](https://atcoder.jp/contests/abc402/tasks/abc402_c) | その他 | Set, 後ろから考える | [ruby1](atcoder_selected_100/ruby/abc402_c_01.rb), [ruby1](atcoder_selected_100/ruby/abc402_c_02.rb) |
 | - | [ABC393/D](https://atcoder.jp/contests/abc393/tasks/abc393_d) | その他 | 転倒数, マンハッタン距離の総和を最小値は、中央値 | [ruby1](atcoder_selected_100/ruby/abc393_d_1.rb), [ruby2](atcoder_selected_100/ruby/abc393_d_2.rb) |
 | - | [ABC403/E](https://atcoder.jp/contests/abc403/tasks/abc403_e) | その他 | trie木 | [ruby](atcoder_selected_100/ruby/abc403_e.rb) |
+| - | [ABC407/E](https://atcoder.jp/contests/abc407/tasks/abc407_e) | その他 | 括弧列の成立条件, 優先度付きキュー | [ruby](atcoder_selected_100/ruby/abc407_e.rb) |
 | 95 | [ABC149/B](https://atcoder.jp/contests/abc149/tasks/abc149_b) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc149_b.rb) |
 | 96 | [ABC139/D](https://atcoder.jp/contests/abc139/tasks/abc139_d) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc139_d.rb) |
 | 97 | [ABC150/D](https://atcoder.jp/contests/abc139/tasks/abc150_d) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc150_d.rb) |
