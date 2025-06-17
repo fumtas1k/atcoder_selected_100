@@ -213,7 +213,7 @@
 | - | [ABC398/D](https://atcoder.jp/contests/abc398/tasks/abc398_d) | 数学的な問題 | 全体移動は座標移動, 相対位置 | [ruby](atcoder_selected_100/ruby/abc398_d.rb) |
 | - | [ABC402/D](https://atcoder.jp/contests/abc402/tasks/abc402_d) | 数学的な問題 | 余事象, 平行条件, 中点 | [ruby](atcoder_selected_100/ruby/abc402_d.rb) |
 | - | [ABC405/E](https://atcoder.jp/contests/abc405/tasks/abc405_e) | 数学的な問題 | フェルマーの小定理, 基準となるものを決める | [ruby](atcoder_selected_100/ruby/abc405_e.rb) |
-
+| - | [ABC405/E](https://atcoder.jp/contests/abc164/tasks/abc164_d) | 数学的な問題 | 累積和, 互いに素, 剰余 | [ruby](atcoder_selected_100/ruby/abc164_d.rb) |
 
 ## [Educational DP Contest/DPまとめコンテスト](https://atcoder.jp/contests/dp)
 
