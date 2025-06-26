@@ -30,7 +30,8 @@
 | 14 | [S8PC4/B](https://atcoder.jp/contests/s8pc-4/tasks/s8pc_4_b) | 全探索:ビット全探索 | | [ruby](atcoder_selected_100/ruby/s8pc_4_b.rb) |
 | - | [ABC354/E](https://atcoder.jp/contests/abc354/tasks/abc354_e) | 全探索:ビット全探索 | 後ろから考える | [ruby](atcoder_selected_100/ruby/abc354_e.rb) |
 | - | [ABC356/C](https://atcoder.jp/contests/abc356/tasks/abc356_c) | 全探索:ビット全探索 |  | [ruby](atcoder_selected_100/ruby/abc356_c.rb) |
-| - | [ABC359/D](https://atcoder.jp/contests/abc359/tasks/abc359_d) | 全探索:ビット全探索系 |  | [ruby](atcoder_selected_100/ruby/abc359_d.rb)| - | [ABC356/C](https://atcoder.jp/contests/abc404/tasks/abc404_d) | 全探索:ビット全探索系 | 3進数で全探索 | [ruby](atcoder_selected_100/ruby/abc404_d.rb) | |
+| - | [ABC359/D](https://atcoder.jp/contests/abc359/tasks/abc359_d) | 全探索:ビット全探索系 |  | [ruby](atcoder_selected_100/ruby/abc359_d.rb)|
+| - | [ABC404/D](https://atcoder.jp/contests/abc404/tasks/abc404_d) | 全探索:ビット全探索系 | 3進数で全探索 | [ruby](atcoder_selected_100/ruby/abc404_d.rb) | |
 | 15 | [ABC145/C](https://atcoder.jp/contests/abc145/tasks/abc145_c) | 全探索:順列全探索 | | [ruby](atcoder_selected_100/ruby/abc145_c.rb) |
 | 16 | [ABC150/C](https://atcoder.jp/contests/abc150/tasks/abc150_c) | 全探索:順列全探索 | | [ruby](atcoder_selected_100/ruby/abc150_c.rb) |
 | 17 | [SLDS1-13/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_13_A&lang=ja) | 全探索:順列全探索 | バックトラック法 | [ruby](atcoder_selected_100/ruby/alds1_13_a.rb) |
@@ -71,7 +72,7 @@
 | 30 | [JOI2011YO/E](https://atcoder.jp/contests/joi2011yo/tasks/joi2011yo_e) | 幅優先探索 | | [ruby](atcoder_selected_100/ruby/joi2011yo_e.rb) |
 | - | [ABC213/E](https://atcoder.jp/contests/abc213/tasks/abc213_e) | 幅優先探索 | 01-BFS | [ruby](atcoder_selected_100/ruby/abc213_e.rb) |
 | - | [ABC400/D](https://atcoder.jp/contests/abc400/tasks/abc400_d) | 幅優先探索 | 01-BFS | [ruby](atcoder_selected_100/ruby/abc400_d.rb) |
-| - | [ABC386/C](https://atcoder.jp/contests/abc387/tasks/abc387_d) | 幅優先探索 |パリティ, 状態管理 | [ruby](atcoder_selected_100/ruby/abc387_d.rb) |
+| - | [ABC387/D](https://atcoder.jp/contests/abc387/tasks/abc387_d) | 幅優先探索 |パリティ, 状態管理 | [ruby](atcoder_selected_100/ruby/abc387_d.rb) |
 | 33 | [ABC088/D](https://atcoder.jp/contests/abc088/tasks/abc088_d) | 幅優先探索 |  | [ruby](atcoder_selected_100/ruby/abc088_d.rb) |
 | - | [ABC405/D](https://atcoder.jp/contests/abc405/tasks/abc405_d) | 幅優先探索 | 多始点 BFS | [ruby](atcoder_selected_100/ruby/abc405_d.rb) |
 | 34 | [ALDS1-10/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_10_A&lang=ja) | 動的計画法:ナップサックDP | | [ruby](atcoder_selected_100/ruby/alds1_10_a.rb) |
@@ -214,7 +215,8 @@
 | - | [ABC398/D](https://atcoder.jp/contests/abc398/tasks/abc398_d) | 数学的な問題 | 全体移動は座標移動, 相対位置 | [ruby](atcoder_selected_100/ruby/abc398_d.rb) |
 | - | [ABC402/D](https://atcoder.jp/contests/abc402/tasks/abc402_d) | 数学的な問題 | 余事象, 平行条件, 中点 | [ruby](atcoder_selected_100/ruby/abc402_d.rb) |
 | - | [ABC405/E](https://atcoder.jp/contests/abc405/tasks/abc405_e) | 数学的な問題 | フェルマーの小定理, 基準となるものを決める | [ruby](atcoder_selected_100/ruby/abc405_e.rb) |
-| - | [ABC405/E](https://atcoder.jp/contests/abc164/tasks/abc164_d) | 数学的な問題 | 累積和, 互いに素, 剰余 | [ruby](atcoder_selected_100/ruby/abc164_d.rb) |
+| - | [ABC164/D](https://atcoder.jp/contests/abc164/tasks/abc164_d) | 数学的な問題 | 累積和, 互いに素, 剰余 | [ruby](atcoder_selected_100/ruby/abc164_d.rb) |
+| - | [ABC230/E](https://atcoder.jp/contests/abc230/tasks/abc230_e) | 数学的な問題 | 整数 | [ruby](atcoder_selected_100/ruby/abc230_e.rb) |
 
 ## [Educational DP Contest/DPまとめコンテスト](https://atcoder.jp/contests/dp)
 
