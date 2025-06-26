@@ -7,15 +7,14 @@
 MOD = 998244353
 N = gets.to_i
 A = gets.split.map(&:to_i)
+P = N.pow(MOD - 2, MOD)
 
-prob = p = N.pow(MOD - 2, MOD)
-ans = 0
-N.times do |i|
-  ans = (ans + prob * A[i]) % MOD
-  # -1、つまり初期値の確率は 1
-  # (0 から i - 1までの確率の和) * p + (i の確率) * p
-  # つまり、 prob + prob * p
-  prob = (prob + prob * p) % MOD
+# x = i + 1 から始めた場合の期待値を計算する
+# 最後に得られるのは、 x = 0
+sum = 0
+(N - 1).downto(0) do |i|
+  sum += (sum + A[i]) * P % MOD
+  sum %= MOD
 end
 
-puts ans
+puts sum
