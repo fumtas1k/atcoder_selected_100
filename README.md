@@ -16,7 +16,8 @@
 | - | [ABC381/D](https://atcoder.jp/contests/abc381/tasks/abc381_d) | 全探索:全列挙 | 尺取法 | [ruby](atcoder_selected_100/ruby/abc381_d.rb) |
 | - | [ABC383/D](https://atcoder.jp/contests/abc383/tasks/abc383_d) | 全探索:全列挙 | 尺取法, 素数, 約数列挙, エラトステネスの篩 | [ruby](atcoder_selected_100/ruby/abc383_d.rb) |
 | - | [ABC384/D](https://atcoder.jp/contests/abc384/tasks/abc384_d) | 全探索:全列挙 | 尺取法, 累積和, ループ | [ruby](atcoder_selected_100/ruby/abc384_d.rb) |
-| - | [ABC384/D](https://atcoder.jp/contests/abc124/tasks/abc124_d) | 全探索:全列挙 | 尺取法, ランレングス圧縮 | [ruby](atcoder_selected_100/ruby/abc124_d.rb) |
+| - | [ABC124/D](https://atcoder.jp/contests/abc124/tasks/abc124_d) | 全探索:全列挙 | 尺取法, ランレングス圧縮 | [ruby](atcoder_selected_100/ruby/abc124_d.rb) |
+| - | [ABC416/D](https://atcoder.jp/contests/abc416/tasks/abc416_d) | 全探索:全列挙 | 尺取法, 除くものを考える | [ruby](atcoder_selected_100/ruby/abc416_d.rb) |
 | 4 | [PAKENCAMP-2019-DAY3/C](https://atcoder.jp/contests/pakencamp-2019-day3/tasks/pakencamp_2019_day3_c) | 全探索:全列挙 | | [ruby](atcoder_selected_100/ruby/pakencamp-2019-day3_c.rb) |
 | - | [ABC390/D](https://atcoder.jp/contests/abc390/tasks/abc390_d) | 全探索:全列挙 | ベル数, 深さ優先探索 | [ruby](atcoder_selected_100/ruby/abc390_d.rb) |
 | 5 | [ABC095/C](https://atcoder.jp/contests/abc095/tasks/arc096_a) | 全探索:工夫して通り数を減らす全列挙 | | [ruby](atcoder_selected_100/ruby/abc095_c.rb) |
