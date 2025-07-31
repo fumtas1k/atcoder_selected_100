@@ -154,6 +154,7 @@
 | 76 | [NIKKEI2019-FINAL/A](https://atcoder.jp/contests/nikkei2019-final/tasks/nikkei2019_final_a) | 累積和 | | [ruby](atcoder_selected_100/ruby/nikkei2019_final_a.rb) |
 | 77 | [JOI2010HO/A](https://atcoder.jp/contests/joi2010ho/tasks/joi2010ho_a) | 累積和 | | [ruby](atcoder_selected_100/ruby/joi2010ho_a.rb) |
 | - | [ABC233/D](https://atcoder.jp/contests/abc233/tasks/abc233_d) | 累積和 | | [ruby](atcoder_selected_100/ruby/abc233_d.rb) |
+| - | [ABC308/E](https://atcoder.jp/contests/abc308/tasks/abc308_e) | 累積和 | MEX, 3つ組は真ん中固定, セグメント木 | [ruby](atcoder_selected_100/ruby/abc308_e.rb) |
 | - | [ABC405/C](https://atcoder.jp/contests/abc405/tasks/abc405_c) | 累積和 | | [ruby](atcoder_selected_100/ruby/abc405_c.rb) |
 | 78 | [JOI2011HO/A](https://atcoder.jp/contests/joi2011ho/tasks/joi2011ho1) | 累積和:二次元 | | [ruby](atcoder_selected_100/ruby/joi2011ho_a.rb) |
 | 79 | [ABC106/D](https://atcoder.jp/contests/abc106/tasks/abc106_d) | 累積和:二次元 | 区間DP | [ruby](atcoder_selected_100/ruby/abc106_d.rb) |
