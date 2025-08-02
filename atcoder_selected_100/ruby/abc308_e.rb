@@ -12,32 +12,31 @@ INF = 1 << 60
 M, E, X = "MEX".bytes
 
 # 事前にMEXの全パターンを計算
-MEX = Hash.new
+mex = Hash.new
 [*0 .. 2].repeated_permutation(3) do |abc|
   st = SegTree.new([*0 .. 3], INF) { |a, b| [a, b].min }
   abc.each { st.set(_1, INF) }
-  MEX[abc] = st.all_prod
+  mex[abc] = st.all_prod
 end
 
 N = gets.to_i
 A = gets.split.map(&:to_i)
 S = gets.chomp.bytes
-msum = Array.new(3, 0)
-xsum = Array.new(3, 0)
+msum = [0] * 3
+xsum = [0] * 3
 
 # Xのtotalを事前に計算しておく
-A.each_with_index do |a, i|
-  xsum[a] += 1 if S[i] == X
-end
+A.zip(S) { xsum[_1] += 1 if _2 == X }
 
 ans = 0
-A.each_with_index do |a, i|
-  case S[i]
+A.zip(S) do |a, s|
+  case s
   when M
     msum[a] += 1
   when E
-    ans += [*0 .. 2].repeated_permutation(2).sum do |(m, x)|
-      MEX[[m, a, x]] * msum[m] * xsum[x]
+    e = a
+    [*0 .. 2].repeated_permutation(2) do |m, x|
+      ans += mex[[m, e, x]] * msum[m] * xsum[x]
     end
   when X
     xsum[a] -= 1
