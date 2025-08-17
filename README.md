@@ -45,12 +45,12 @@
 | 22 | [ARC054/B](https://atcoder.jp/contests/arc054/tasks/arc054_b) | 二分探索 | 黄金分割探索, 微分 | [ruby1](atcoder_selected_100/ruby/arc054_b_01.rb), [ruby2](atcoder_selected_100/ruby/arc054_b_02.rb) |
 | 23 | [JOI2008HO/C](https://atcoder.jp/contests/joi2008ho/tasks/joi2008ho_c) | 二分探索 | | [ruby](atcoder_selected_100/ruby/joi2008ho_c.rb) |
 | - | [ABC397/D](https://atcoder.jp/contests/abc397/tasks/abc397_d) | 二分探索 | | [ruby](atcoder_selected_100/ruby/abc397_d.rb) |
-| - | [C - Come Together](https://atcoder.jp/contests/nikkei2019-final/tasks/nikkei2019_final_c) | 二分探索 | マンハッタン距離の総和を最小値は、中央値を使う | [ruby](atcoder_selected_100/ruby/nikkei2019_final_c.rb) |
+| - | [NIKKEI2019/C](https://atcoder.jp/contests/nikkei2019-final/tasks/nikkei2019_final_c) | 二分探索 | マンハッタン距離の総和を最小値は、中央値を使う | [ruby](atcoder_selected_100/ruby/nikkei2019_final_c.rb) |
 | - | [ABC364/D](https://atcoder.jp/contests/abc364/tasks/abc364_d) | 二分探索 | さらに二分探索 | [ruby](atcoder_selected_100/ruby/abc364_d.rb) |
 | - | [ABC217/D](https://atcoder.jp/contests/abc217/tasks/abc217_d) | 二分探索 | sorted_setの代わり, セグメント木, unshift | [ruby1](atcoder_selected_100/ruby/abc217_d_1.rb), [ruby2](atcoder_selected_100/ruby/abc217_d_2.rb) |
-| - | [ABC364/E](https://atcoder.jp/contests/abc388/tasks/abc388_e) | 二分探索 | 決め打ち二分探索 | [ruby](atcoder_selected_100/ruby/abc388_e.rb) |
+| - | [ABC388/E](https://atcoder.jp/contests/abc388/tasks/abc388_e) | 二分探索 | 決め打ち二分探索 | [ruby](atcoder_selected_100/ruby/abc388_e.rb) |
 | - | [ABC267/E](https://atcoder.jp/contests/abc267/tasks/abc267_e) | 二分探索 | 決め打ち二分探索, 最小値の最大化 | [ruby](atcoder_selected_100/ruby/abc267_e.rb) |
-| - | [ABC364/E](https://atcoder.jp/contests/abc374/tasks/abc374_e) | 二分探索 | 決め打ち二分探索, 最小値の最大化 | [ruby](atcoder_selected_100/ruby/abc374_e.rb) |
+| - | [ABC374/E](https://atcoder.jp/contests/abc374/tasks/abc374_e) | 二分探索 | 決め打ち二分探索, 最小値の最大化 | [ruby](atcoder_selected_100/ruby/abc374_e.rb) |
 | - | [ABC389/E](https://atcoder.jp/contests/abc389/tasks/abc389_e) | 二分探索 | 決め打ち二分探索, 最小値の最大化 | [ruby](atcoder_selected_100/ruby/abc389_e.rb) |
 | - | [ABC390/E](https://atcoder.jp/contests/abc390/tasks/abc390_e) | 二分探索 | 決め打ち二分探索, 最小値の最大化 | [ruby](atcoder_selected_100/ruby/abc390_e.rb) |
 | - | [ABC270/E](https://atcoder.jp/contests/abc270/tasks/abc270_e) | 二分探索 | 決め打ち二分探索 | [ruby](atcoder_selected_100/ruby/abc270_e.rb) |
@@ -105,8 +105,8 @@
 | - | [ABC184/D](https://atcoder.jp/contests/abc184/tasks/abc184_d) | 動的計画法:期待値DP | ビットDP | [ruby](atcoder_selected_100/ruby/abc184_d.rb) |
 | - | [ABC410/D](https://atcoder.jp/contests/abc410/tasks/abc410_d) | 動的計画法:期待値DP | ビットDP | [ruby](atcoder_selected_100/ruby/abc410_d.rb) |
 | - | [ABC387/C](https://atcoder.jp/contests/abc387/tasks/abc387_c) | 動的計画法:桁DP |  | [ruby](atcoder_selected_100/ruby/abc387_c.rb) |
-| - | [ABC394/F](https://atcoder.jp/contests/abc394/tasks/abc394_F) | 動的計画法:木DP |  | [ruby](atcoder_selected_100/ruby/abc394_f.rb) |
-| - | [ABC397/E](https://atcoder.jp/contests/abc397/tasks/abc397_E) | 動的計画法:木DP |  | [ruby](atcoder_selected_100/ruby/abc397_e.rb) |
+| - | [ABC394/F](https://atcoder.jp/contests/abc394/tasks/abc394_f) | 動的計画法:木DP |  | [ruby](atcoder_selected_100/ruby/abc394_f.rb) |
+| - | [ABC397/E](https://atcoder.jp/contests/abc397/tasks/abc397_e) | 動的計画法:木DP |  | [ruby](atcoder_selected_100/ruby/abc397_e.rb) |
 | 53 | [DPL-1/D](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_D&lang=ja) | 動的計画法:その他 | 最長増加部分列(LIS) | [ruby](atcoder_selected_100/ruby/dpl_1_d.rb) |
 | 54 | [ABC006/D](https://atcoder.jp/contests/abc006/tasks/abc006_4) | 動的計画法:その他 | 最長増加部分列(LIS) | [ruby](atcoder_selected_100/ruby/abc006_d.rb) |
 | 55 | [ABC134/E](https://atcoder.jp/contests/abc134/tasks/abc134_e) | 動的計画法:その他 | 最長増加部分列(LIS) | [ruby](atcoder_selected_100/ruby/abc134_e.rb) |
@@ -116,7 +116,7 @@
 | - | [ABC216/G](https://atcoder.jp/contests/abc216/tasks/abc216_g) | 動的計画法:その他 | フェニック木, Fenwick Tree, BIT | [ruby](atcoder_selected_100/ruby/abc216_g.rb) |
 | - | [ABC389/F](https://atcoder.jp/contests/abc389/tasks/abc389_f) | 動的計画法:その他 | フェニック木, Fenwick Tree, BIT | [ruby](atcoder_selected_100/ruby/abc389_f.rb) |
 | - | [ABC392/F](https://atcoder.jp/contests/abc392/tasks/abc392_f) | 動的計画法:その他 | フェニック木, Fenwick Tree, BIT, 二分探索法, 後ろから考える | [ruby](atcoder_selected_100/ruby/abc392_f.rb) |
-| - | [ABC312/G](https://atcoder.jp/contests/abc312/tasks/abc312_d) | 動的計画法:その他 | 括弧列の成立条件 | [ruby](atcoder_selected_100/ruby/abc312_d.rb) |
+| - | [ABC312/D](https://atcoder.jp/contests/abc312/tasks/abc312_d) | 動的計画法:その他 | 括弧列の成立条件 | [ruby](atcoder_selected_100/ruby/abc312_d.rb) |
 | - | [ABC357/E](https://atcoder.jp/contests/abc357/tasks/abc357_e) | 動的計画法:その他 | 強連結成分分解 | [ruby](atcoder_selected_100/ruby/abc357_e.rb), [JS](atcoder_selected_100/javascript/abc357_e.js) |
 | - | [ABC358/E](https://atcoder.jp/contests/abc358/tasks/abc358_e) | 動的計画法:その他 | 組み合わせ, 逆元 | [ruby](atcoder_selected_100/ruby/abc358_e.rb) |
 | - | [ABC362/E](https://atcoder.jp/contests/abc362/tasks/abc362_e) | 動的計画法:その他 | 等差数列 | [ruby](atcoder_selected_100/ruby/abc362_e.rb) |
@@ -163,7 +163,7 @@
 | 78 | [JOI2011HO/A](https://atcoder.jp/contests/joi2011ho/tasks/joi2011ho1) | 累積和:二次元 | | [ruby](atcoder_selected_100/ruby/joi2011ho_a.rb) |
 | 79 | [ABC106/D](https://atcoder.jp/contests/abc106/tasks/abc106_d) | 累積和:二次元 | 区間DP | [ruby](atcoder_selected_100/ruby/abc106_d.rb) |
 | - | [ABC366/D](https://atcoder.jp/contests/abc366/tasks/abc366_d) | 累積和:三次元 | | [ruby](atcoder_selected_100/ruby/abc366_d.rb) |
-| 80 | [ABC014/C](https://atcoder.jp/contests/gigacode-2019/tasks/gigacode_2019_d) | 累積和 | 二分探索 | [ruby](atcoder_selected_100/ruby/gigacode_2019_d.rb) |
+| 80 | [GIGACODE2019/D](https://atcoder.jp/contests/gigacode-2019/tasks/gigacode_2019_d) | 累積和 | 二分探索 | [ruby](atcoder_selected_100/ruby/gigacode_2019_d.rb) |
 | - | [ABC347/E](https://atcoder.jp/contests/abc347/tasks/abc347_e) | 累積和 | 横ではなく縦で考える | [ruby](atcoder_selected_100/ruby/abc347_e.rb) |
 | - | [ABC356/E](https://atcoder.jp/contests/abc356/tasks/abc356_e) | 累積和 | 答えから考える | [ruby](atcoder_selected_100/ruby/abc356_e.rb) |
 | - | [ABC375/D](https://atcoder.jp/contests/abc375/tasks/abc375_d) | 累積和 | 3つ組は真ん中固定 | [ruby1](atcoder_selected_100/ruby/abc375_d_01.rb), [ruby2](atcoder_selected_100/ruby/abc375_d_02.rb) |
@@ -178,9 +178,9 @@
 | 87 | [ABC120/D](https://atcoder.jp/contests/abc120/tasks/abc120_d) | Union Find | | [ruby](atcoder_selected_100/ruby/abc120_d.rb) |
 | - | [ABC350/D](https://atcoder.jp/contests/abc350/tasks/abc350_d) | Union Find | DFS | [ruby1](atcoder_selected_100/ruby/abc350_d_01.rb), [ruby2](atcoder_selected_100/ruby/abc350_d_02.rb) |
 | - | [ABC372/E](https://atcoder.jp/contests/abc372/tasks/abc372_e) | Union Find | 必要数分のみ保持 | [ruby](atcoder_selected_100/ruby/abc372_e.rb) |
-| - | [ABC372/E](https://atcoder.jp/contests/code-thanks-festival-2017-open/tasks/code_thanks_festival_2017_h) | Union Find | 部分永続Union Find | [ruby1](atcoder_selected_100/ruby/code_thanks_festival_2017_h_01.rb), [ruby2](atcoder_selected_100/ruby/code_thanks_festival_2017_h_02.rb) |
+| - | [CODE_THANKS_FESTIVAL_2017_OPEN/H](https://atcoder.jp/contests/code-thanks-festival-2017-open/tasks/code_thanks_festival_2017_h) | Union Find | 部分永続Union Find | [ruby1](atcoder_selected_100/ruby/code_thanks_festival_2017_h_01.rb), [ruby2](atcoder_selected_100/ruby/code_thanks_festival_2017_h_02.rb) |
 | - | [ABC404/C](https://atcoder.jp/contests/abc404/tasks/abc404_c) | Union Find | サイクルグラフ | [ruby](atcoder_selected_100/ruby/abc404_c.rb) |
-| 88 | [JOI2008HO](https://atcoder.jp/contests/joi2008ho/tasks/joi2008ho_a) | 圧縮 | | [ruby](atcoder_selected_100/ruby/joi2008ho_a.rb) |
+| 88 | [JOI2008HO/A](https://atcoder.jp/contests/joi2008ho/tasks/joi2008ho_a) | 圧縮 | | [ruby](atcoder_selected_100/ruby/joi2008ho_a.rb) |
 | 89 | [JOI2013HO/1](https://atcoder.jp/contests/joi2013ho/tasks/joi2013ho1) | 圧縮 | | [ruby](atcoder_selected_100/ruby/joi2013ho_1.rb) |
 | 90 | [S8PC-5/B](https://atcoder.jp/contests/s8pc-5/tasks/s8pc_5_b) | その他 | | [ruby](atcoder_selected_100/ruby/s8pc_5_b.rb) |
 | - | [ABC353/E](https://atcoder.jp/contests/abc353/tasks/abc353_e) | その他 | トライ木, tri木, Rolling Hash | [ruby1](atcoder_selected_100/ruby/abc353_e_01.rb), [ruby2](atcoder_selected_100/ruby/abc353_e_02.rb) |
@@ -199,10 +199,10 @@
 | - | [ABC407/F](https://atcoder.jp/contests/abc407/tasks/abc407_f) | その他 | カルテジアン木, いもす法, 累積和 | [ruby](atcoder_selected_100/ruby/abc407_f.rb) |
 | 95 | [ABC149/B](https://atcoder.jp/contests/abc149/tasks/abc149_b) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc149_b.rb) |
 | 96 | [ABC139/D](https://atcoder.jp/contests/abc139/tasks/abc139_d) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc139_d.rb) |
-| 97 | [ABC150/D](https://atcoder.jp/contests/abc139/tasks/abc150_d) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc150_d.rb) |
+| 97 | [ABC150/D](https://atcoder.jp/contests/abc150/tasks/abc150_d) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc150_d.rb) |
 | 98 | [SUMITRUST2019/E](https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_e) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/sumitrust2019_e.rb) |
-| 100 | [TENKA12018BEGINNER](https://atcoder.jp/contests/tenka1-2018-beginner/tasks/tenka1_2018_d) | 数学的な問題 | 完全グラフ | [ruby](atcoder_selected_100/ruby/tenka1_2018_d.rb) |
-| - | [ABC337/E](https://atcoder.jp/contests/abc338/tasks/abc337_e) | 数学的な問題 | ビット | [ruby](atcoder_selected_100/ruby/abc337_e.rb) |
+| 100 | [TENKA12018/D](https://atcoder.jp/contests/tenka1-2018-beginner/tasks/tenka1_2018_d) | 数学的な問題 | 完全グラフ | [ruby](atcoder_selected_100/ruby/tenka1_2018_d.rb) |
+| - | [ABC337/E](https://atcoder.jp/contests/abc337/tasks/abc337_e) | 数学的な問題 | ビット | [ruby](atcoder_selected_100/ruby/abc337_e.rb) |
 | - | [ABC365/E](https://atcoder.jp/contests/abc365/tasks/abc365_e) | 数学的な問題 | ビット, XOR, 累積和 | [ruby](atcoder_selected_100/ruby/abc365_e.rb) |
 | - | [ABC396/E](https://atcoder.jp/contests/abc396/tasks/abc396_e) | 数学的な問題 | ビット, XOR, ビット毎に独立で考える | [ruby](atcoder_selected_100/ruby/abc396_e.rb) |
 | - | [ABC338/E](https://atcoder.jp/contests/abc338/tasks/abc338_e) | 数学的な問題 | スタック | [ruby](atcoder_selected_100/ruby/abc338_e.rb) |
