@@ -38,7 +38,7 @@ ans = []
 exclude_comb = 0
 AB.each_with_index.reverse_each do |(a, b), i|
   ans[i] = N * (N - 1) / 2 - exclude_comb
-  exclude_comb += uf.unit(a, b)
+  exclude_comb += uf.unite(a, b)
 end
 
 puts ans
