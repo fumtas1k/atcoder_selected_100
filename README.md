@@ -196,6 +196,10 @@
 | - | [ABC393/D](https://atcoder.jp/contests/abc393/tasks/abc393_d) | その他 | 転倒数, マンハッタン距離の総和を最小値は、中央値 | [ruby1](atcoder_selected_100/ruby/abc393_d_1.rb), [ruby2](atcoder_selected_100/ruby/abc393_d_2.rb) |
 | - | [ABC403/E](https://atcoder.jp/contests/abc403/tasks/abc403_e) | その他 | trie木 | [ruby](atcoder_selected_100/ruby/abc403_e.rb) |
 | - | [ABC407/E](https://atcoder.jp/contests/abc407/tasks/abc407_e) | その他 | 括弧列の成立条件, 優先度付きキュー | [ruby](atcoder_selected_100/ruby/abc407_e.rb) |
+| - | [DSL/F](https://onlinejudge.u-aizu.ac.jp/problems/DSL_2_F) | その他 | 遅延セグメント木, 区間最小値, 区間更新 | [ruby](atcoder_selected_100/ruby/dsl_2_f.rb) |
+| - | [DSL/G](https://onlinejudge.u-aizu.ac.jp/problems/DSL_2_G) | その他 | 遅延セグメント木, 区間和, 区間加算 | [ruby](atcoder_selected_100/ruby/dsl_2_g.rb) |
+| - | [DSL/H](https://onlinejudge.u-aizu.ac.jp/problems/DSL_2_H) | その他 | 遅延セグメント木, 区間最小値, 区間加算 | [ruby](atcoder_selected_100/ruby/dsl_2_h.rb) |
+| - | [DSL/I](https://onlinejudge.u-aizu.ac.jp/problems/DSL_2_I) | その他 | 遅延セグメント木, 区間和, 区間更新 | [ruby](atcoder_selected_100/ruby/dsl_2_i.rb) |
 | - | [ABC407/F](https://atcoder.jp/contests/abc407/tasks/abc407_f) | その他 | カルテジアン木, いもす法, 累積和 | [ruby](atcoder_selected_100/ruby/abc407_f.rb) |
 | 95 | [ABC149/B](https://atcoder.jp/contests/abc149/tasks/abc149_b) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc149_b.rb) |
 | 96 | [ABC139/D](https://atcoder.jp/contests/abc139/tasks/abc139_d) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc139_d.rb) |
