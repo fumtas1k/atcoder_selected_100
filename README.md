@@ -201,6 +201,7 @@
 | - | [DSL/H](https://onlinejudge.u-aizu.ac.jp/problems/DSL_2_H) | その他 | 遅延セグメント木, 区間最小値, 区間加算 | [ruby](atcoder_selected_100/ruby/dsl_2_h.rb) |
 | - | [DSL/I](https://onlinejudge.u-aizu.ac.jp/problems/DSL_2_I) | その他 | 遅延セグメント木, 区間和, 区間更新 | [ruby](atcoder_selected_100/ruby/dsl_2_i.rb) |
 | - | [ABC407/F](https://atcoder.jp/contests/abc407/tasks/abc407_f) | その他 | カルテジアン木, いもす法, 累積和 | [ruby](atcoder_selected_100/ruby/abc407_f.rb) |
+| - | [ABC422/E](https://atcoder.jp/contests/abc422/tasks/abc422_e) | その他 | 乱択 | [ruby](atcoder_selected_100/ruby/abc422_e.rb) |
 | 95 | [ABC149/B](https://atcoder.jp/contests/abc149/tasks/abc149_b) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc149_b.rb) |
 | 96 | [ABC139/D](https://atcoder.jp/contests/abc139/tasks/abc139_d) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc139_d.rb) |
 | 97 | [ABC150/D](https://atcoder.jp/contests/abc150/tasks/abc150_d) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc150_d.rb) |
