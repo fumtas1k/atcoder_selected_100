@@ -46,7 +46,7 @@ gets.to_i.times do
     # 現在の行の初期状態（黒マスの位置）をビットマスクで表現
     state = 0
     w.times do |c|
-      state += (1 << c) if grid[r][c] == BLACK
+      state |= (1 << c) if grid[r][c] == BLACK
     end
 
     ep = Array.new(k, INF)
