@@ -32,6 +32,7 @@
 | - | [ABC310/D](https://atcoder.jp/contests/abc310/tasks/abc310_d) | 全探索:ビット全探索 | 深さ優先探索 | [ruby](atcoder_selected_100/ruby/abc310_d.rb) |
 | - | [ABC354/E](https://atcoder.jp/contests/abc354/tasks/abc354_e) | 全探索:ビット全探索 | 後ろから考える | [ruby](atcoder_selected_100/ruby/abc354_e.rb) |
 | - | [ABC356/C](https://atcoder.jp/contests/abc356/tasks/abc356_c) | 全探索:ビット全探索 |  | [ruby](atcoder_selected_100/ruby/abc356_c.rb) |
+| - | [ABC424/D](https://atcoder.jp/contests/abc424/tasks/abc424_d) | 全探索:ビット全探索 | ポップカウント事前計算 | [ruby](atcoder_selected_100/ruby/abc424_d.rb) |
 | - | [ABC359/D](https://atcoder.jp/contests/abc359/tasks/abc359_d) | 全探索:ビット全探索系 |  | [ruby](atcoder_selected_100/ruby/abc359_d.rb)|
 | - | [ABC404/D](https://atcoder.jp/contests/abc404/tasks/abc404_d) | 全探索:ビット全探索系 | 3進数で全探索 | [ruby](atcoder_selected_100/ruby/abc404_d.rb) | |
 | 15 | [ABC145/C](https://atcoder.jp/contests/abc145/tasks/abc145_c) | 全探索:順列全探索 | | [ruby](atcoder_selected_100/ruby/abc145_c.rb) |
