@@ -121,6 +121,7 @@
 | - | [ABC312/D](https://atcoder.jp/contests/abc312/tasks/abc312_d) | 動的計画法:その他 | 括弧列の成立条件 | [ruby](atcoder_selected_100/ruby/abc312_d.rb) |
 | - | [ABC357/E](https://atcoder.jp/contests/abc357/tasks/abc357_e) | 動的計画法:その他 | 強連結成分分解 | [ruby](atcoder_selected_100/ruby/abc357_e.rb), [JS](atcoder_selected_100/javascript/abc357_e.js) |
 | - | [ABC358/E](https://atcoder.jp/contests/abc358/tasks/abc358_e) | 動的計画法:その他 | 組み合わせ, 逆元 | [ruby](atcoder_selected_100/ruby/abc358_e.rb) |
+| - | [ABC425/E](https://atcoder.jp/contests/abc425/tasks/abc425_e) | 動的計画法:その他 | 組み合わせ, パスカルの三角形 | [ruby](atcoder_selected_100/ruby/abc425_e.rb) |
 | - | [ABC362/E](https://atcoder.jp/contests/abc362/tasks/abc362_e) | 動的計画法:その他 | 等差数列 | [ruby](atcoder_selected_100/ruby/abc362_e.rb) |
 | - | [ABC375/E](https://atcoder.jp/contests/abc375/tasks/abc375_e) | 動的計画法:その他 | ループを１つ減らす | [ruby](atcoder_selected_100/ruby/abc375_e.rb) |
 | - | [ABC403/D](https://atcoder.jp/contests/abc403/tasks/abc403_d) | 動的計画法:その他 | | [ruby](atcoder_selected_100/ruby/abc403_d.rb) |
