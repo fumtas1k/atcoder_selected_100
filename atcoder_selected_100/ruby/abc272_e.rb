@@ -27,6 +27,7 @@ ans = []
   B[i].sort!.uniq!
   j = 0
   j += 1 while j == B[i].shift
+  ans << j
 end
 
 puts ans
