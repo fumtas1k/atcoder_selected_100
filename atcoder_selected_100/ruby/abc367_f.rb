@@ -3,7 +3,7 @@
 # Zobrist Hash
 # Schwartz–Zippel lemma
 
-M = 2.pow(61) - 1
+M = (1 << 61) - 1
 
 N, Q = gets.split.map(&:to_i)
 A = gets.split.map(&:to_i)
