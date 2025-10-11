@@ -35,6 +35,7 @@
 | - | [ABC424/D](https://atcoder.jp/contests/abc424/tasks/abc424_d) | 全探索:ビット全探索 | ポップカウント事前計算 | [ruby](atcoder_selected_100/ruby/abc424_d.rb) |
 | - | [ABC359/D](https://atcoder.jp/contests/abc359/tasks/abc359_d) | 全探索:ビット全探索系 |  | [ruby](atcoder_selected_100/ruby/abc359_d.rb)|
 | - | [ABC404/D](https://atcoder.jp/contests/abc404/tasks/abc404_d) | 全探索:ビット全探索系 | 3進数で全探索 | [ruby](atcoder_selected_100/ruby/abc404_d.rb) | |
+| - | [ABC427/C](https://atcoder.jp/contests/abc427/tasks/abc427_c) | 全探索:ビット全探索 | 二部グラフの判定 | [ruby](atcoder_selected_100/ruby/abc427_c.rb) |
 | 15 | [ABC145/C](https://atcoder.jp/contests/abc145/tasks/abc145_c) | 全探索:順列全探索 | | [ruby](atcoder_selected_100/ruby/abc145_c.rb) |
 | 16 | [ABC150/C](https://atcoder.jp/contests/abc150/tasks/abc150_c) | 全探索:順列全探索 | | [ruby](atcoder_selected_100/ruby/abc150_c.rb) |
 | 17 | [SLDS1-13/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_13_A&lang=ja) | 全探索:順列全探索 | バックトラック法 | [ruby](atcoder_selected_100/ruby/alds1_13_a.rb) |
@@ -128,6 +129,7 @@
 | - | [ABC403/D](https://atcoder.jp/contests/abc403/tasks/abc403_d) | 動的計画法:その他 | | [ruby](atcoder_selected_100/ruby/abc403_d.rb) |
 | - | [ABC417/D](https://atcoder.jp/contests/abc417/tasks/abc417_d) | 動的計画法:その他 | 累積和, 二分探索法, 後ろから考える | [ruby](atcoder_selected_100/ruby/abc417_d.rb) |
 | - | [ABC419/D](https://atcoder.jp/contests/abc419/tasks/abc419_d) | 動的計画法:その他 | 長さLの連続部分列の総和がMの倍数 | [ruby](atcoder_selected_100/ruby/abc419_d.rb) |
+| - | [ABC427/D](https://atcoder.jp/contests/abc427/tasks/abc427_d) | 動的計画法:その他 | ゲーム必勝法, 後ろから考える | [ruby](atcoder_selected_100/ruby/abc427_d.rb) |
 | 56 | [GRL-1/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_1_A&lang=ja) | 最短経路問題 | ダイクストラ法 | [ruby](atcoder_selected_100/ruby/grl_1_a.rb) |
 | 57 | [JOI2008YO/F](https://atcoder.jp/contests/joi2008yo/tasks/joi2008yo_f) | 最短経路問題 | ダイクストラ法 | [ruby1](atcoder_selected_100/ruby/joi2008yo_f_01.rb), [ruby2](atcoder_selected_100/ruby/joi2008yo_f_02.rb) |
 | 59 | [JOI2014YO/E](https://atcoder.jp/contests/joi2014yo/tasks/joi2014yo_e) | 最短経路問題 | ダイクストラ法, 幅優先探索, 優先度付キュー | [ruby](atcoder_selected_100/ruby/joi2014yo_e.rb) |
@@ -207,6 +209,7 @@
 | - | [ABC407/F](https://atcoder.jp/contests/abc407/tasks/abc407_f) | その他 | カルテジアン木, いもす法, 累積和 | [ruby](atcoder_selected_100/ruby/abc407_f.rb) |
 | - | [ABC422/E](https://atcoder.jp/contests/abc422/tasks/abc422_e) | その他 | 乱択 | [ruby](atcoder_selected_100/ruby/abc422_e.rb) |
 | - | [ABC272/E](https://atcoder.jp/contests/abc272/tasks/abc272_e) | その他 | オーダーの見積もり | [ruby](atcoder_selected_100/ruby/abc272_e.rb) |
+| - | [ABC426/D](https://atcoder.jp/contests/abc426/tasks/abc426_d) | その他 | 最長連続区間, ランレングス圧縮 | [ruby](atcoder_selected_100/ruby/abc426_d.rb) |
 | 95 | [ABC149/B](https://atcoder.jp/contests/abc149/tasks/abc149_b) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc149_b.rb) |
 | 96 | [ABC139/D](https://atcoder.jp/contests/abc139/tasks/abc139_d) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc139_d.rb) |
 | 97 | [ABC150/D](https://atcoder.jp/contests/abc150/tasks/abc150_d) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc150_d.rb) |
