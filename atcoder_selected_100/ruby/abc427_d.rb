@@ -13,7 +13,7 @@ T = gets.to_i.times do
     rev_edges[v] << u
   end
 
-  # dp[i] = 手番が勝つ場合true
+  # dp[i] = iの位置に置いて手番が勝つ場合true
   # 後ろから考えると最後の手番はAlice
   dp = Array.new(n) { ss[_1] == "A" }
   (2 * k).times do |i|
