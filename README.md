@@ -75,6 +75,7 @@
 | 28 | [ALDS1-11/C](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_C&lang=ja) | 幅優先探索 | | [ruby](atcoder_selected_100/ruby/alds1_11_c.rb) |
 | 29 | [ABC007/C](https://atcoder.jp/contests/abc007/tasks/abc007_3) | 幅優先探索 | | [ruby](atcoder_selected_100/ruby/abc007_c.rb) |
 | 30 | [JOI2011YO/E](https://atcoder.jp/contests/joi2011yo/tasks/joi2011yo_e) | 幅優先探索 | | [ruby](atcoder_selected_100/ruby/joi2011yo_e.rb) |
+| - | [ABC428/E](https://atcoder.jp/contests/abc428/tasks/abc428_e) | 幅優先探索 | 木の直径, 両端は全ての頂点の最遠距離 | [ruby](atcoder_selected_100/ruby/abc428_e.rb) |
 | - | [ABC213/E](https://atcoder.jp/contests/abc213/tasks/abc213_e) | 幅優先探索 | 01-BFS | [ruby](atcoder_selected_100/ruby/abc213_e.rb) |
 | - | [ABC400/D](https://atcoder.jp/contests/abc400/tasks/abc400_d) | 幅優先探索 | 01-BFS | [ruby](atcoder_selected_100/ruby/abc400_d.rb) |
 | - | [ABC387/D](https://atcoder.jp/contests/abc387/tasks/abc387_d) | 幅優先探索 |パリティ, 状態管理 | [ruby](atcoder_selected_100/ruby/abc387_d.rb) |
@@ -238,6 +239,7 @@
 | - | [ABC405/E](https://atcoder.jp/contests/abc405/tasks/abc405_e) | 数学的な問題 | フェルマーの小定理, 基準となるものを決める | [ruby](atcoder_selected_100/ruby/abc405_e.rb) |
 | - | [ABC164/D](https://atcoder.jp/contests/abc164/tasks/abc164_d) | 数学的な問題 | 累積和, 互いに素, 剰余 | [ruby](atcoder_selected_100/ruby/abc164_d.rb) |
 | - | [ABC230/E](https://atcoder.jp/contests/abc230/tasks/abc230_e) | 数学的な問題 | 整数, 反比例 | [ruby](atcoder_selected_100/ruby/abc230_e.rb) |
+| - | [ABC428/D](https://atcoder.jp/contests/abc428/tasks/abc428_d) | 数学的な問題 | 整数, 平方数, 1桁ずつ計算 | [ruby](atcoder_selected_100/ruby/abc428_drb) |
 
 ## [Educational DP Contest/DPまとめコンテスト](https://atcoder.jp/contests/dp)
 
