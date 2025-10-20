@@ -12,38 +12,38 @@ G = Array.new(N) { [] }
   G[b] << a
 end
 C = gets.split.map(&:to_i)
+total = C.sum
+centroid = []
 
-@total = C.sum
-@center = -1
 # 重心を求める
-def dfs1(pos = 0, pre = -1)
-  res = C[pos]
+dfs1 = ->(pos, pre = -1) do
+  csum = C[pos]
   max = 0
   G[pos].each do |nex|
     next if nex == pre
-    now = dfs1(nex, pos)
-    max = [max, now].max
-    res += now
+    c = dfs1.(nex, pos)
+    max = [max, c].max
+    csum += c
   end
   # posを中心とした時の各部分木の重みの合計の最大を求める
-  max = [max, @total - res].max
+  max = [max, total - csum].max
   # 部分木の重みの合計の最大値がそれ以外より大きければそちらに中心を移動した方が Ci * d(x, i)の合計が最小化する。
   # つまりそちらの方が木の重心になる
-  # max <= @total / 2 であるなら重心。最大で2カ所存在するがどちらでも問題ない
-  @center = pos if max * 2 <= @total
-  res
+  # max <= total / 2 であるなら重心。最大で2カ所存在するがどちらでも問題ない
+  centroid << pos if max * 2 <= total
+  csum
 end
 
-@ans = 0
+ans = 0
 # sum(Ci * d(pos, i))を求める
-def dfs2(pos = @center, pre = -1, dist = 0)
-  @ans += dist * C[pos]
-  G[pos].each do |i|
-    next if i == pre
-    dfs2(i, pos, dist + 1)
+dfs2 = ->(pos, pre = -1, dist = 0) do
+  ans += dist * C[pos]
+  G[pos].each do |nex|
+    next if nex == pre
+    dfs2.(nex, pos, dist + 1)
   end
 end
 
-dfs1
-dfs2
-puts @ans
+dfs1.(0)
+dfs2.(centroid[0])
+puts ans
