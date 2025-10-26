@@ -82,6 +82,7 @@
 | 33 | [ABC088/D](https://atcoder.jp/contests/abc088/tasks/abc088_d) | 幅優先探索 |  | [ruby](atcoder_selected_100/ruby/abc088_d.rb) |
 | - | [ABC405/D](https://atcoder.jp/contests/abc405/tasks/abc405_d) | 幅優先探索 | 多始点BFS | [ruby](atcoder_selected_100/ruby/abc405_d.rb) |
 | - | [ABC425/D](https://atcoder.jp/contests/abc425/tasks/abc425_d) | 幅優先探索 | 同時更新, 多始点BFS | [ruby](atcoder_selected_100/ruby/abc425_d.rb) |
+| - | [ABC429/D](https://atcoder.jp/contests/abc429/tasks/abc429_d) | 幅優先探索 | 多始点BFS | [ruby](atcoder_selected_100/ruby/abc429_d.rb) |
 | 34 | [ALDS1-10/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_10_A&lang=ja) | 動的計画法:ナップサックDP | | [ruby](atcoder_selected_100/ruby/alds1_10_a.rb) |
 | 35 | [DPL-1/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_B&lang=ja) | 動的計画法:ナップサックDP | | [ruby](atcoder_selected_100/ruby/dpl_1_b.rb) |
 | 36 | [DPL-1/C](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_C&lang=ja) | 動的計画法:ナップサックDP | | [ruby](atcoder_selected_100/ruby/dpl_1_c.rb) |
