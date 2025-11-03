@@ -4,25 +4,23 @@
 # manacher
 
 def manacher(str)
-  chars = str.chars.join("$").then { "$#{_1}$" }
-  size = chars.size
+  bytes = str.chars.join("$").then { "$#{_1}$" }.bytes
+  size = bytes.size
   radius = [0] * size
-  i = 0
-  loop do
-    radius[i] += 1 while i - radius[i] >= 0 &&
-      i + radius[i] < size &&
-      chars[i - radius[i]] == chars[i + radius[i]]
+  center = 0
+  r = 0
+  while center < size
+    r += 1 while center >= r && center + r < size && bytes[center - r] == bytes[center + r]
+    radius[center] = r
 
-    j = 1
-    while i - j >= 0 && i + j < size && j + radius[i - j] < radius[i]
-      radius[i + j] = radius[i - j]
-      j += 1
+    i = 1
+    while center >= i && center + i < size && i + radius[center - i] < r
+      radius[center + i] = radius[center - i]
+      i += 1
     end
 
-    break if i + j == size
-
-    radius[i + j] = radius[i] - j
-    i += j
+    r -= i
+    center += i
   end
   radius[1...-1].map(&:pred)
 end
