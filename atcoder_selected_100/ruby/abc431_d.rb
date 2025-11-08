@@ -20,7 +20,7 @@ T.times do
   # [r, c, dir, cost]
   deque = [[0, -1, 0, 0]]
 
-  # Hashにすると遅い
+  # HashにするとTLE
   costs = Array.new(h) { Array.new(w) { Array.new(4, INF) } }
   until deque.empty?
     r, c, dir, cost = deque.shift
