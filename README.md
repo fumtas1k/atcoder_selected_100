@@ -79,6 +79,7 @@
 | - | [ABC428/E](https://atcoder.jp/contests/abc428/tasks/abc428_e) | 幅優先探索 | 木の直径, 両端は全ての頂点の最遠距離 | [ruby](atcoder_selected_100/ruby/abc428_e.rb) |
 | - | [ABC213/E](https://atcoder.jp/contests/abc213/tasks/abc213_e) | 幅優先探索 | 01-BFS | [ruby](atcoder_selected_100/ruby/abc213_e.rb) |
 | - | [ABC400/D](https://atcoder.jp/contests/abc400/tasks/abc400_d) | 幅優先探索 | 01-BFS | [ruby](atcoder_selected_100/ruby/abc400_d.rb) |
+| - | [ABC431/E](https://atcoder.jp/contests/abc431/tasks/abc431_e) | 幅優先探索 | 01-BFS | [ruby](atcoder_selected_100/ruby/abc431_e.rb) |
 | - | [ABC387/D](https://atcoder.jp/contests/abc387/tasks/abc387_d) | 幅優先探索 |パリティ, 状態管理 | [ruby](atcoder_selected_100/ruby/abc387_d.rb) |
 | 33 | [ABC088/D](https://atcoder.jp/contests/abc088/tasks/abc088_d) | 幅優先探索 |  | [ruby](atcoder_selected_100/ruby/abc088_d.rb) |
 | - | [ABC405/D](https://atcoder.jp/contests/abc405/tasks/abc405_d) | 幅優先探索 | 多始点BFS | [ruby](atcoder_selected_100/ruby/abc405_d.rb) |
