@@ -98,6 +98,7 @@
 | - | [ABC410/E](https://atcoder.jp/contests/abc410/tasks/abc410_e) | 動的計画法:ナップサックDP | キーと値を入れ替える | [ruby](atcoder_selected_100/ruby/abc410_e.rb) |
 | - | [DPL-1/G](https://onlinejudge.u-aizu.ac.jp/courses/library/7/DPL/1/DPL_1_G) | 動的計画法:ナップサックDP | 個数制限付きナップサックDP | [ruby](atcoder_selected_100/ruby/dpl_1_g.rb), [kotlin](atcoder_selected_100/kotlin/dpl_1_g.kt) |
 | - | [DPL-1/I](https://onlinejudge.u-aizu.ac.jp/courses/library/7/DPL/1/DPL_1_I) | 動的計画法:ナップサックDP | 個数制限付きナップサックDP, 貪欲法, スライド最小値 | [ruby](atcoder_selected_100/ruby/dpl_1_i.rb), [kotlin](atcoder_selected_100/kotlin/dpl_1_i.kt) |
+| - | [ABC431/D](https://atcoder.jp/contests/abc431/tasks/abc431_d) | 動的計画法:ナップサックDP | 次元を下げる | [ruby](atcoder_selected_100/ruby/abc341_d.rb) |
 | 46 | [ALDS1-10/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_10_B&lang=ja) | 動的計画法:区間DP | 連鎖行列積 | [ruby](atcoder_selected_100/ruby/alds1_10_b.rb) |
 | 47 | [JOI2015HO/B](https://atcoder.jp/contests/joi2015ho/tasks/joi2015ho_b) | 動的計画法:区間DP | | [ruby](atcoder_selected_100/ruby/joi2015ho_b.rb) |
 | 48 | [AOJ-1611](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1611&lang=jp) | 動的計画法:区間DP | ダルマ落とし, バックトラック法 | [ruby](atcoder_selected_100/ruby/aoj_1611.rb) |
