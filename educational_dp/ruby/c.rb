@@ -5,10 +5,13 @@ ABC = Array.new(N) { gets.split.map(&:to_i) }
 
 dp = Array.new(N + 1) { [0] * 3 }
 
-N.times do |i|
-  3.times do |j|
-    dp[i + 1][j] = [dp[i][(j + 1) % 3], dp[i][(j + 2) % 3]].max + ABC[i][j]
+ABC.each_with_index do |happiness, i|
+  happiness.each_with_index do |h, j|
+    3.times do |k|
+      next if j == k
+      dp[i + 1][j] = [dp[i + 1][j], dp[i][k] + h].max
+    end
   end
 end
 
-puts dp[-1].max
+puts dp[N].max
