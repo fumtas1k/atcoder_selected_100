@@ -255,7 +255,7 @@
 | C | [Vacation](https://atcoder.jp/contests/dp/tasks/dp_c) | | | [ruby](educational_dp/ruby/c.rb), [kotlin](educational_dp/kotlin/c.kt), [JS](educational_dp/javascript/c.js) |
 | D | [Knapsack1](https://atcoder.jp/contests/dp/tasks/dp_d) | ナップサックDP | | [ruby](educational_dp/ruby/d.rb), [kotlin](educational_dp/kotlin/d.kt), [JS](educational_dp/javascript/d.js) |
 | E | [Knapsack2](https://atcoder.jp/contests/dp/tasks/dp_e) | ナップサックDP | キーと値を入れ替える | [ruby](educational_dp/ruby/e.rb), [kotlin](educational_dp/kotlin/e.kt) |
-| F | [LCS](https://atcoder.jp/contests/dp/tasks/dp_f) | | 最長共通部分列(LCS), 復元 | [ruby](educational_dp/ruby/f.rb), [kotlin](educational_dp/kotlin/f.kt) |
+| F | [LCS](https://atcoder.jp/contests/dp/tasks/dp_f) | | 最長共通部分列(LCS), DP復元 | [ruby](educational_dp/ruby/f.rb), [kotlin](educational_dp/kotlin/f.kt) |
 | G | [Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g) | | トポロジカルソート | [ruby](educational_dp/ruby/g.rb), [kotlin](educational_dp/kotlin/g.kt) |
 | H | [Grid 1](https://atcoder.jp/contests/dp/tasks/dp_h) | |  | [ruby](educational_dp/ruby/h.rb), [kotlin](educational_dp/kotlin/h.kt) |
 | I | [Coins](https://atcoder.jp/contests/dp/tasks/dp_i) | 確率DP | | [ruby](educational_dp/ruby/i.rb) |

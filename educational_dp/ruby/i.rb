@@ -1,4 +1,5 @@
 # I
+# 確率DP
 
 N = gets.to_i
 P = gets.split.map(&:to_f)

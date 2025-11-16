@@ -1,4 +1,5 @@
 # D
+# ナップサックDP
 
 N, W = gets.split.map(&:to_i)
 WV = Array.new(N) { gets.split.map(&:to_i) }

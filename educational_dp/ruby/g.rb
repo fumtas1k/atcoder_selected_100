@@ -1,4 +1,5 @@
 # G
+# トポロジカルソート
 
 N, M = gets.split.map(&:to_i)
 G = Array.new(N) { [] }
