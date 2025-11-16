@@ -1,4 +1,6 @@
 # J
+# 期待値DP
+# メモ化再帰
 
 N = gets.to_i
 A = gets.split.map(&:to_i)
