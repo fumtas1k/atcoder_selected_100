@@ -33,7 +33,7 @@ S.each_with_index do |c, i|
   # 元の和: Σ(k=0 to min(left,right)) C(left,k) * C(right,k+1)
   #
   # この和の閉形式 (min制約込み):
-  # Σ(k=0 to min(left,right)) C(left,k) * C(right,k+1) = C(left,left-k) * C(right,k+1) = C(left+right, left+1)
+  # Σ(k=0 to min(left,right)) C(left,left-k) * C(right,k+1) = C(left+right, left+1)
   ans += facts[left + right] * inv_facts[left + 1] % MOD * inv_facts[right - 1] % MOD
   ans %= MOD
 end
