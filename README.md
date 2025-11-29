@@ -66,6 +66,7 @@
 | - | [ABC311/C](https://atcoder.jp/contests/abc311/tasks/abc311_c) | 深さ優先探索, 閉路 | | [ruby](atcoder_selected_100/ruby/abc311_c.rb) |
 | - | [ABC282/D](https://atcoder.jp/contests/abc282/tasks/abc282_d) | 深さ優先探索, 二部グラフ, 余事象 | | [ruby](atcoder_selected_100/ruby/abc282_d.rb) |
 | - | [ABC398/E](https://atcoder.jp/contests/abc398/tasks/abc398_e) | 深さ優先探索, 二部グラフ | 奇閉路がない | [ruby](atcoder_selected_100/ruby/abc398_e.rb) |
+| - | [ABC398/E](https://atcoder.jp/contests/abc434/tasks/abc434_e) | 深さ優先探索, グラフ | | [ruby](atcoder_selected_100/ruby/abc434_e.rb) |
 | - | [ABC348/E](https://atcoder.jp/contests/abc348/tasks/abc348_e) | 深さ優先探索, 木の重心, 全方位木DP | | [ruby1](atcoder_selected_100/ruby/abc348_e_1.rb), [ruby2](atcoder_selected_100/ruby/abc348_e_2.rb) |
 | - | [ABC350/F](https://atcoder.jp/contests/abc350/tasks/abc350_f) | 深さ優先探索 | | [ruby](atcoder_selected_100/ruby/abc350_f.rb) |
 | - | [ABC357/C](https://atcoder.jp/contests/abc357/tasks/abc357_c) | 深さ優先探索 | 3進法 | [ruby](atcoder_selected_100/ruby/abc357_c.rb) |
@@ -185,6 +186,7 @@
 | - | [ABC221/D](https://atcoder.jp/contests/abc221/tasks/abc221_d) | 累積和:いもす法 | | [ruby](atcoder_selected_100/ruby/abc221_d.rb) |
 | - | [ABC388/D](https://atcoder.jp/contests/abc388/tasks/abc388_d) | 累積和:いもす法 | | [ruby](atcoder_selected_100/ruby/abc388_d.rb) |
 | - | [ABC188/D](https://atcoder.jp/contests/abc188/tasks/abc188_d) | 累積和:いもす法 | | [ruby](atcoder_selected_100/ruby/abc188_d.rb) |
+| - | [ABC434/D](https://atcoder.jp/contests/abc434/tasks/abc434_d) | 累積和:いもす法 | 二次元いもす法 | [ruby](atcoder_selected_100/ruby/abc434_d.rb) |
 | 85 | [DSL-1/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DSL_1_A&lang=ja) | Union Find | | [ruby](atcoder_selected_100/ruby/dsl_1_a.rb) |
 | 86 | [ABC075/C](https://atcoder.jp/contests/abc075/tasks/abc075_c) | Union Find | DFS, Low Link | [ruby1](atcoder_selected_100/ruby/abc075_c_01.rb), [ruby2](atcoder_selected_100/ruby/abc075_c_02.rb), [kotlin1](atcoder_selected_100/kotlin/abc075_c_01.kt), [kotlin2](atcoder_selected_100/kotlin/abc075_c_02.kt) |
 | 87 | [ABC120/D](https://atcoder.jp/contests/abc120/tasks/abc120_d) | Union Find | | [ruby](atcoder_selected_100/ruby/abc120_d.rb) |
