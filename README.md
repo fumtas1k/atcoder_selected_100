@@ -125,6 +125,7 @@
 | - | [ABC340/E](https://atcoder.jp/contests/abc340/tasks/abc340_e) | 動的計画法:その他 | フェニック木, Fenwick Tree, BIT | [ruby](atcoder_selected_100/ruby/abc340_e.rb) |
 | - | [ABC216/G](https://atcoder.jp/contests/abc216/tasks/abc216_g) | 動的計画法:その他 | フェニック木, Fenwick Tree, BIT | [ruby](atcoder_selected_100/ruby/abc216_g.rb) |
 | - | [ABC389/F](https://atcoder.jp/contests/abc389/tasks/abc389_f) | 動的計画法:その他 | フェニック木, Fenwick Tree, BIT | [ruby](atcoder_selected_100/ruby/abc389_f.rb) |
+| - | [ABC436/F](https://atcoder.jp/contests/abc436/tasks/abc436_f) | 動的計画法:その他 | フェニック木, Fenwick Tree, BIT, 真ん中を固定する | [ruby](atcoder_selected_100/ruby/abc436_f.rb) |
 | - | [ABC392/F](https://atcoder.jp/contests/abc392/tasks/abc392_f) | 動的計画法:その他 | フェニック木, Fenwick Tree, BIT, 二分探索法, 後ろから考える | [ruby](atcoder_selected_100/ruby/abc392_f.rb) |
 | - | [ABC392/F](https://atcoder.jp/contests/abc245/tasks/abc245_e) | 動的計画法:その他 | フェニック木, Fenwick Tree, BIT, 二分探索法, 座標圧縮 | [ruby](atcoder_selected_100/ruby/abc245_e.rb) |
 | - | [ABC312/D](https://atcoder.jp/contests/abc312/tasks/abc312_d) | 動的計画法:その他 | 括弧列の成立条件 | [ruby](atcoder_selected_100/ruby/abc312_d.rb) |
@@ -194,6 +195,7 @@
 | - | [ABC372/E](https://atcoder.jp/contests/abc372/tasks/abc372_e) | Union Find | 必要数分のみ保持 | [ruby](atcoder_selected_100/ruby/abc372_e.rb) |
 | - | [CODE_THANKS_FESTIVAL_2017_OPEN/H](https://atcoder.jp/contests/code-thanks-festival-2017-open/tasks/code_thanks_festival_2017_h) | Union Find | 部分永続Union Find | [ruby1](atcoder_selected_100/ruby/code_thanks_festival_2017_h_01.rb), [ruby2](atcoder_selected_100/ruby/code_thanks_festival_2017_h_02.rb) |
 | - | [ABC404/C](https://atcoder.jp/contests/abc404/tasks/abc404_c) | Union Find | サイクルグラフ | [ruby](atcoder_selected_100/ruby/abc404_c.rb) |
+| - | [ABC436/E](https://atcoder.jp/contests/abc436/tasks/abc436_e) | Union Find | グラフで考える | [ruby](atcoder_selected_100/ruby/abc436_e.rb) |
 | 88 | [JOI2008HO/A](https://atcoder.jp/contests/joi2008ho/tasks/joi2008ho_a) | 圧縮 | | [ruby](atcoder_selected_100/ruby/joi2008ho_a.rb) |
 | 89 | [JOI2013HO/1](https://atcoder.jp/contests/joi2013ho/tasks/joi2013ho1) | 圧縮 | | [ruby](atcoder_selected_100/ruby/joi2013ho_1.rb) |
 | 90 | [S8PC-5/B](https://atcoder.jp/contests/s8pc-5/tasks/s8pc_5_b) | その他 | | [ruby](atcoder_selected_100/ruby/s8pc_5_b.rb) |
