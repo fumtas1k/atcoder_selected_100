@@ -208,6 +208,7 @@
 | - | [ABC379/F](https://atcoder.jp/contests/abc379/tasks/abc379_f) | その他 | スタック, ヒストグラム最大長方形, フェニック木, 二分探索法 | [ruby1](atcoder_selected_100/ruby/abc379_f_01.rb), [ruby2](atcoder_selected_100/ruby/abc379_f_02.rb) |
 | - | [ABC352/D](https://atcoder.jp/contests/abc352/tasks/abc352_d) | その他 | スライド最小, スライド最大, dequeue | [ruby](atcoder_selected_100/ruby/abc352_d.rb) |
 | - | [ABC349/D](https://atcoder.jp/contests/abc349/tasks/abc349_d) | その他 | セグメント木の考え方, 深さ優先探索 | [ruby1](atcoder_selected_100/ruby/abc349_d_1.rb),[ruby2](atcoder_selected_100/ruby/abc349_d_2.rb) |
+| - | [ABC437/F](https://atcoder.jp/contests/abc437/tasks/abc437_f) | その他 | セグメント木, マンハッタン距離の45度回転 | [ruby](atcoder_selected_100/ruby/abc437_f.rb) |
 | - | [ABC302/E](https://atcoder.jp/contests/abc302/tasks/abc302_e) | その他 | Set | [ruby](atcoder_selected_100/ruby/abc302_e.rb) |
 | - | [ABC402/C](https://atcoder.jp/contests/abc402/tasks/abc402_c) | その他 | Set, 後ろから考える | [ruby1](atcoder_selected_100/ruby/abc402_c_01.rb), [ruby1](atcoder_selected_100/ruby/abc402_c_02.rb) |
 | - | [ABC393/D](https://atcoder.jp/contests/abc393/tasks/abc393_d) | その他 | 転倒数, マンハッタン距離の総和を最小値は、中央値 | [ruby1](atcoder_selected_100/ruby/abc393_d_1.rb), [ruby2](atcoder_selected_100/ruby/abc393_d_2.rb) |
