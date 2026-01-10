@@ -20,6 +20,7 @@
 | - | [ABC416/D](https://atcoder.jp/contests/abc416/tasks/abc416_d) | 全探索:全列挙 | 尺取法, 除くものを考える | [ruby](atcoder_selected_100/ruby/abc416_d.rb) |
 | - | [ABC246/D](https://atcoder.jp/contests/abc246/tasks/abc246_d) | 全探索:全列挙 | 尺取法 | [ruby](atcoder_selected_100/ruby/abc246_d.rb) |
 | - | [ABC430/C](https://atcoder.jp/contests/abc430/tasks/abc430_c) | 全探索:全列挙 | 尺取法, 条件分離 | [ruby](atcoder_selected_100/ruby/abc430_c.rb) |
+| - | [ABC440/C](https://atcoder.jp/contests/abc440/tasks/abc440_c) | 全探索:全列挙 | 尺取法 | [ruby](atcoder_selected_100/ruby/abc440_c.rb) |
 | 4 | [PAKENCAMP-2019-DAY3/C](https://atcoder.jp/contests/pakencamp-2019-day3/tasks/pakencamp_2019_day3_c) | 全探索:全列挙 | | [ruby](atcoder_selected_100/ruby/pakencamp-2019-day3_c.rb) |
 | - | [ABC390/D](https://atcoder.jp/contests/abc390/tasks/abc390_d) | 全探索:全列挙 | ベル数, 深さ優先探索 | [ruby](atcoder_selected_100/ruby/abc390_d.rb) |
 | 5 | [ABC095/C](https://atcoder.jp/contests/abc095/tasks/arc096_a) | 全探索:工夫して通り数を減らす全列挙 | | [ruby](atcoder_selected_100/ruby/abc095_c.rb) |
@@ -59,6 +60,7 @@
 | - | [ABC390/E](https://atcoder.jp/contests/abc390/tasks/abc390_e) | 二分探索 | 決め打ち二分探索, 最小値の最大化 | [ruby](atcoder_selected_100/ruby/abc390_e.rb) |
 | - | [ABC270/E](https://atcoder.jp/contests/abc270/tasks/abc270_e) | 二分探索 | 決め打ち二分探索 | [ruby](atcoder_selected_100/ruby/abc270_e.rb) |
 | - | [ABC400/C](https://atcoder.jp/contests/abc400/tasks/abc400_c) | 二分探索 | 平方根を求める | [ruby](atcoder_selected_100/ruby/abc400_c.rb) |
+| - | [ABC440/C](https://atcoder.jp/contests/abc440/tasks/abc440_d) | 二分探索 | 包除原理 | [ruby](atcoder_selected_100/ruby/abc440_d.rb) |
 | 24 | [ALDS1-11/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_B&lang=ja) | 深さ優先探索 | | [ruby](atcoder_selected_100/ruby/alds1_11_b.rb) |
 | 25 | [1160](https://onlinejudge.u-aizu.ac.jp/problems/1160) | 深さ優先探索 | | [ruby](atcoder_selected_100/ruby/1160.rb) |
 | 26 | [ABC138/D](https://atcoder.jp/contests/abc138/tasks/abc138_d) | 深さ優先探索 | | [ruby](atcoder_selected_100/ruby/abc138_d.rb) |
