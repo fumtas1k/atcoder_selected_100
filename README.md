@@ -149,9 +149,6 @@
 | - | [ABC222/F](https://atcoder.jp/contests/abc222/tasks/abc222_f) | 最短経路問題 | ダイクストラ法, 幅優先探索, 優先度付キュー, 木の直径 | [ruby](atcoder_selected_100/ruby/abc222_f.rb) |
 | - | [ABC361/E](https://atcoder.jp/contests/abc361/tasks/abc361_e) | 最短経路問題 | ダイクストラ法, 幅優先探索, 優先度付キュー, 木の直径 | [ruby](atcoder_selected_100/ruby/abc361_e.rb) |
 | - | [ABC395/E](https://atcoder.jp/contests/abc395/tasks/abc395_e) | 最短経路問題 | ダイクストラ法, 幅優先探索, 優先度付キュー | [ruby](atcoder_selected_100/ruby/abc395_e.rb) |
-| - | [ABC217/E](https://atcoder.jp/contests/abc217/tasks/abc217_e) | 優先度付キュー | 二重構造 | [ruby](atcoder_selected_100/ruby/abc217_e.rb) |
-| - | [ABC234/D](https://atcoder.jp/contests/abc234/tasks/abc234_d) | 優先度付キュー | データ構造 | [ruby1](atcoder_selected_100/ruby/abc234_d_01.rb), [ruby2](atcoder_selected_100/ruby/abc234_d_02.rb) |
-| - | [ABC384/E](https://atcoder.jp/contests/abc384/tasks/abc384_e) | 優先度付キュー | | [ruby](atcoder_selected_100/ruby/abc384_e.rb) |
 | 60 | [GRL-1/C](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_1_C&lang=ja) | 最短経路問題 | ワーシャルフロイド法 | [ruby](atcoder_selected_100/ruby/grl_1_c.rb) |
 | 61 | [ABC012/D](https://atcoder.jp/contests/abc012/tasks/abc012_4) | 最短経路問題 | ワーシャルフロイド法 | [ruby](atcoder_selected_100/ruby/abc012_d.rb) |
 | 62 | [ABC079/D](https://atcoder.jp/contests/abc079/tasks/abc079_d) | 最短経路問題 | ワーシャルフロイド法 | [ruby](atcoder_selected_100/ruby/abc079_d.rb) |
@@ -216,6 +213,10 @@
 | - | [ABC402/C](https://atcoder.jp/contests/abc402/tasks/abc402_c) | その他 | Set, 後ろから考える | [ruby1](atcoder_selected_100/ruby/abc402_c_01.rb), [ruby1](atcoder_selected_100/ruby/abc402_c_02.rb) |
 | - | [ABC393/D](https://atcoder.jp/contests/abc393/tasks/abc393_d) | その他 | 転倒数, マンハッタン距離の総和を最小値は、中央値 | [ruby1](atcoder_selected_100/ruby/abc393_d_1.rb), [ruby2](atcoder_selected_100/ruby/abc393_d_2.rb) |
 | - | [ABC403/E](https://atcoder.jp/contests/abc403/tasks/abc403_e) | その他 | trie木 | [ruby](atcoder_selected_100/ruby/abc403_e.rb) |
+| - | [ABC217/E](https://atcoder.jp/contests/abc217/tasks/abc217_e) | その他 | 優先度付キュー, 二重構造 | [ruby](atcoder_selected_100/ruby/abc217_e.rb) |
+| - | [ABC234/D](https://atcoder.jp/contests/abc234/tasks/abc234_d) | その他 | 優先度付キュー, データ構造 | [ruby1](atcoder_selected_100/ruby/abc234_d_01.rb), [ruby2](atcoder_selected_100/ruby/abc234_d_02.rb) |
+| - | [ABC384/E](https://atcoder.jp/contests/abc384/tasks/abc384_e) | その他 | 優先度付キュー | [ruby](atcoder_selected_100/ruby/abc384_e.rb) |
+| - | [ABC440/E](https://atcoder.jp/contests/abc440/tasks/abc440_e) | その他 | 優先度付キュー, K番目 | [ruby](atcoder_selected_100/ruby/abc440_e.rb) |
 | - | [ABC407/E](https://atcoder.jp/contests/abc407/tasks/abc407_e) | その他 | 括弧列の成立条件, 優先度付きキュー | [ruby](atcoder_selected_100/ruby/abc407_e.rb) |
 | - | [DSL/F](https://onlinejudge.u-aizu.ac.jp/problems/DSL_2_F) | その他 | 遅延セグメント木, 区間最小値, 区間更新 | [ruby](atcoder_selected_100/ruby/dsl_2_f.rb) |
 | - | [DSL/G](https://onlinejudge.u-aizu.ac.jp/problems/DSL_2_G) | その他 | 遅延セグメント木, 区間和, 区間加算 | [ruby](atcoder_selected_100/ruby/dsl_2_g.rb) |
