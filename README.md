@@ -21,6 +21,7 @@
 | - | [ABC246/D](https://atcoder.jp/contests/abc246/tasks/abc246_d) | 全探索:全列挙 | 尺取法 | [ruby](atcoder_selected_100/ruby/abc246_d.rb) |
 | - | [ABC430/C](https://atcoder.jp/contests/abc430/tasks/abc430_c) | 全探索:全列挙 | 尺取法, 条件分離 | [ruby](atcoder_selected_100/ruby/abc430_c.rb) |
 | - | [ABC440/C](https://atcoder.jp/contests/abc440/tasks/abc440_c) | 全探索:全列挙 | 尺取法 | [ruby](atcoder_selected_100/ruby/abc440_c.rb) |
+| - | [ABC184/F](https://atcoder.jp/contests/abc184/tasks/abc184_f) | 全探索:全列挙 | 半分全列挙, 尺取法 | [ruby](atcoder_selected_100/ruby/abc184_f.rb) |
 | 4 | [PAKENCAMP-2019-DAY3/C](https://atcoder.jp/contests/pakencamp-2019-day3/tasks/pakencamp_2019_day3_c) | 全探索:全列挙 | | [ruby](atcoder_selected_100/ruby/pakencamp-2019-day3_c.rb) |
 | - | [ABC390/D](https://atcoder.jp/contests/abc390/tasks/abc390_d) | 全探索:全列挙 | ベル数, 深さ優先探索 | [ruby](atcoder_selected_100/ruby/abc390_d.rb) |
 | 5 | [ABC095/C](https://atcoder.jp/contests/abc095/tasks/arc096_a) | 全探索:工夫して通り数を減らす全列挙 | | [ruby](atcoder_selected_100/ruby/abc095_c.rb) |
