@@ -161,6 +161,7 @@
 | - | [ ABC214/D](https://atcoder.jp/contests/abc214/tasks/abc214_d) | 最小全域木 | Union Find, 主客転倒 | [ruby](atcoder_selected_100/ruby/abc214_d.rb) |
 | - | [ABC325/D](https://atcoder.jp/contests/abc325/tasks/abc325_d) | 貪欲法 | 優先度付きキュー | [ruby](atcoder_selected_100/ruby/abc325_d.rb) |
 | - | [ABC230/D](https://atcoder.jp/contests/abc230/tasks/abc230_d) | 貪欲法 | 区間スケジューリング問題 | [ruby](atcoder_selected_100/ruby/abc230_d.rb) |
+| - | [ABC441/C](https://atcoder.jp/contests/abc441/tasks/abc441_c) | 貪欲法 |  | [ruby](atcoder_selected_100/ruby/abc441_c.rb) |
 | 68 | [NTL-1/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=NTL_1_A&lang=ja) | 素因数分解 | | [ruby](atcoder_selected_100/ruby/ntl_1_a.rb) |
 | - | [ABC254/D](https://atcoder.jp/contests/abc254/tasks/abc254_d) | 素因数分解 | 平方数 | [ruby1](atcoder_selected_100/ruby/abc254_d_1.rb),[ruby2](atcoder_selected_100/ruby/abc254_d_2.rb) |
 | - | [ABC400/E](https://atcoder.jp/contests/abc400/tasks/abc400_e) | 素因数分解 | 平方数 | [ruby](atcoder_selected_100/ruby/abc400_e.rb) |
@@ -241,8 +242,9 @@
 | - | [ABC398/F](https://atcoder.jp/contests/abc398/tasks/abc398_f) | 数学的な問題 | 回文, manacher | [ruby](atcoder_selected_100/ruby/abc398_f.rb) |
 | - | [ABC346/E](https://atcoder.jp/contests/abc346/tasks/abc346_e) | 数学的な問題 | 後ろから考える | [ruby](atcoder_selected_100/ruby/abc346_e.rb) |
 | - | [ABC347/C](https://atcoder.jp/contests/abc347/tasks/abc347_c) | 数学的な問題 | 条件を変換する | [ruby](atcoder_selected_100/ruby/abc347_c.rb) |
-| - | [CHOKUDAI_S001/J](https://atcoder.jp/contests/chokudai_s001/tasks/chokudai_S001_j) | 数学的な問題 | 転倒数 | [ruby](atcoder_selected_100/ruby/chokudai_S001_j.rb) |
-| - | [ABC396/F](https://atcoder.jp/contests/abc396/tasks/abc396_f) | 数学的な問題 | 転倒数 | [ruby](atcoder_selected_100/ruby/abc396_f.rb) |
+| - | [CHOKUDAI_S001/J](https://atcoder.jp/contests/chokudai_s001/tasks/chokudai_S001_j) | 数学的な問題 | 転倒数, Fenwick Tree | [ruby](atcoder_selected_100/ruby/chokudai_S001_j.rb) |
+| - | [ABC396/F](https://atcoder.jp/contests/abc396/tasks/abc396_f) | 数学的な問題 | 転倒数, Fenwick Tree | [ruby](atcoder_selected_100/ruby/abc396_f.rb) |
+| - | [ABC441/E](https://atcoder.jp/contests/abc441/tasks/abc441_e) | 数学的な問題 | 転倒数, Fenwick Tree | [ruby1](atcoder_selected_100/ruby/abc441_e_01.rb),[ruby2](atcoder_selected_100/ruby/abc441_e_02.rb) |
 | - | [ABC357/D](https://atcoder.jp/contests/abc357/tasks/abc357_d) | 数学的な問題 | 等比数列の和の公式, 逆元 | [ruby](atcoder_selected_100/ruby/abc357_d.rb) |
 | - | [ABC367/F](https://atcoder.jp/contests/abc367/tasks/abc367_f) | 数学的な問題 | Schwartz–Zippel lemma, Zobrist Hash | [ruby](atcoder_selected_100/ruby/abc367_f.rb) |
 | - | [ABC377/E](https://atcoder.jp/contests/abc377/tasks/abc377_e) | 数学的な問題 | ダブリング, 鳩の巣原理, グラフ, 循環, 周期 | [ruby](atcoder_selected_100/ruby/abc377_e.rb) |
