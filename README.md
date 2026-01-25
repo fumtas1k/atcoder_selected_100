@@ -259,6 +259,8 @@
 | - | [ABC164/D](https://atcoder.jp/contests/abc164/tasks/abc164_d) | 数学的な問題 | 累積和, 互いに素, 剰余 | [ruby](atcoder_selected_100/ruby/abc164_d.rb) |
 | - | [ABC230/E](https://atcoder.jp/contests/abc230/tasks/abc230_e) | 数学的な問題 | 整数, 反比例 | [ruby](atcoder_selected_100/ruby/abc230_e.rb) |
 | - | [ABC428/D](https://atcoder.jp/contests/abc428/tasks/abc428_d) | 数学的な問題 | 整数, 平方数, 1桁ずつ計算 | [ruby](atcoder_selected_100/ruby/abc428_d.rb) |
+| - | [ABC442/E](https://atcoder.jp/contests/abc442/tasks/abc442_e) | 数学的な問題 | 偏角ソート | [ruby](atcoder_selected_100/ruby/abc442_e.rb) |
+| - | [ABC442/F](https://atcoder.jp/contests/abc442/tasks/abc442_f) | 数学的な問題 | 累積和, 動的計画法, バイト列 | [ruby](atcoder_selected_100/ruby/abc442_f.rb) |
 
 ## [Educational DP Contest/DPまとめコンテスト](https://atcoder.jp/contests/dp)
 
