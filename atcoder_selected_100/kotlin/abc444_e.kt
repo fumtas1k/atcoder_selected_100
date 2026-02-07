@@ -16,6 +16,7 @@ fun main() {
 
     // TreeSet では同じ値を扱えないため、(値, インデックス) のペアで管理
     val sortedSet = TreeSet<Pair<Long, Int>>(compareBy({ it.first }, { it.second }))
+    // 番兵を追加
     sortedSet.add(-INF to -2)
     sortedSet.add(2 * INF to -1)
 
