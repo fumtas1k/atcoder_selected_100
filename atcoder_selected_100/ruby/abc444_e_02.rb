@@ -11,38 +11,28 @@ A = gets.split.map(&:to_i)
 
 INF = 10**18
 
-# 正順の木: lower_bound(b) で b以上の最小を取得
-# 逆順の木: lower_bound(-b) で -b以上の最小 = 元の値で b以下の最大を取得
-fwd = MultiRBTree.new  # 正順
-rev = MultiRBTree.new  # 逆順（キーを負にして格納）
+sorted_set = RBTree.new
 
 # 番兵
-fwd[INF] = true
-rev[INF] = true  # 元の値で -INF に相当
+sorted_set[-INF] = true
+sorted_set[2*INF] = true
 
 ans = 0
 r = 0
-
 N.times do |l|
   while r < N
     b = A[r]
-
     # b 以上の最小要素（正順の木で lower_bound）
-    hi_key, = fwd.lower_bound(b)
+    hi_key, = sorted_set.lower_bound(b)
     break if hi_key - b < D
-
-    # b 以下の最大要素（逆順の木で lower_bound(-b) → 元の値は符号反転）
-    neg_lo_key, = rev.lower_bound(-b)
-    lo_key = -neg_lo_key  # 元の値に戻す
+    # b 未満の最大要素
+    lo_key, = sorted_set.upper_bound(b - 1)
     break if b - lo_key < D
-
-    fwd[b] = r
-    rev[-b] = r
+    sorted_set[b] = true
     r += 1
   end
   ans += r - l
-  fwd.delete(A[l])
-  rev.delete(-A[l])
+  sorted_set.delete(A[l])
 end
 
 puts ans
