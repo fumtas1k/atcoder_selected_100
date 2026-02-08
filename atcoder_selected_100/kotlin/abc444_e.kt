@@ -15,28 +15,27 @@ fun main() {
     val A = readln().split(" ").map(String::toLong)
 
     // TreeSet では同じ値を扱えないため、(値, インデックス) のペアで管理
-    val sortedSet = TreeSet<Pair<Long, Int>>(compareBy({ it.first }, { it.second }))
-    // 番兵を追加
-    sortedSet.add(-INF to -2)
-    sortedSet.add(2 * INF to -1)
+    val sortedSet = TreeSet<Long>()
+    sortedSet.add(-INF)
+    sortedSet.add(2 * INF)
 
     var ans = 0L
     var r = 0
 
     for (l in 0 until N) {
         while (r < N) {
-            val key = A[r] to r
+            val ar = A[r]
             // A[r] 以上の最小要素
-            val hi = sortedSet.ceiling(key)!!
-            if (hi.first - A[r] < D) break
+            val hi = sortedSet.ceiling(ar)!!
+            if (hi - ar < D) break
             // A[r] 未満の最大要素
-            val lo = sortedSet.lower(key)!!
-            if (A[r] - lo.first < D) break
-            sortedSet.add(key)
+            val lo = sortedSet.lower(ar)!!
+            if (ar - lo < D) break
+            sortedSet.add(ar)
             r++
         }
         ans += r - l
-        sortedSet.remove(A[l] to l)
+        sortedSet.remove(A[l])
     }
 
     println(ans)
