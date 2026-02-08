@@ -22,7 +22,7 @@ r = 0
 N.times do |l|
   while r < N
     b = A[r]
-    # b 以上の最小要素（正順の木で lower_bound）
+    # b 以上の最小要素
     hi_key, = sorted_set.lower_bound(b)
     break if hi_key - b < D
     # b 未満の最大要素
