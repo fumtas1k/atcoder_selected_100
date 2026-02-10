@@ -12,7 +12,7 @@ N, M = gets.split.map(&:to_i)
 # チョコレートを0, 箱を1で表現
 AB = Array.new(2) { gets.split.map(&:to_i) }.transpose.map { [0, *_1] }
 CD = Array.new(2) { gets.split.map(&:to_i) }.transpose.map { [1, *_1] }
-ALL = (AB + CD).sort_by { [_2, _3] }.reverse
+ALL = (AB + CD).sort_by { [_2, _1] }.reverse
 
 y_indexes = ALL.map { _3 }.uniq.sort.reverse.map.with_index.to_h
 bit = FenwickTree.new(y_indexes.size)
@@ -34,4 +34,3 @@ ALL.each do |query|
 end
 
 puts "Yes"
-

@@ -132,7 +132,7 @@
 | - | [ABC389/F](https://atcoder.jp/contests/abc389/tasks/abc389_f) | 動的計画法:その他 | フェニック木, Fenwick Tree, BIT | [ruby](atcoder_selected_100/ruby/abc389_f.rb) |
 | - | [ABC436/F](https://atcoder.jp/contests/abc436/tasks/abc436_f) | 動的計画法:その他 | フェニック木, Fenwick Tree, BIT, 真ん中を固定する | [ruby](atcoder_selected_100/ruby/abc436_f.rb) |
 | - | [ABC392/F](https://atcoder.jp/contests/abc392/tasks/abc392_f) | 動的計画法:その他 | フェニック木, Fenwick Tree, BIT, 二分探索法, 後ろから考える | [ruby](atcoder_selected_100/ruby/abc392_f.rb) |
-| - | [ABC392/F](https://atcoder.jp/contests/abc245/tasks/abc245_e) | 動的計画法:その他 | フェニック木, Fenwick Tree, BIT, 二分探索法, 座標圧縮 | [ruby](atcoder_selected_100/ruby/abc245_e.rb) |
+| - | [ABC392/F](https://atcoder.jp/contests/abc245/tasks/abc245_e) | 動的計画法:その他 | フェニック木, Fenwick Tree, BIT, 二分探索法, 座標圧縮 | [ruby1](atcoder_selected_100/ruby/abc245_e_01.rb),[ruby2](atcoder_selected_100/ruby/abc245_e_02.rb) |
 | - | [ABC312/D](https://atcoder.jp/contests/abc312/tasks/abc312_d) | 動的計画法:その他 | 括弧列の成立条件 | [ruby](atcoder_selected_100/ruby/abc312_d.rb) |
 | - | [ABC357/E](https://atcoder.jp/contests/abc357/tasks/abc357_e) | 動的計画法:その他 | 強連結成分分解 | [ruby](atcoder_selected_100/ruby/abc357_e.rb), [JS](atcoder_selected_100/javascript/abc357_e.js) |
 | - | [ABC358/E](https://atcoder.jp/contests/abc358/tasks/abc358_e) | 動的計画法:その他 | 組み合わせ, 逆元 | [ruby](atcoder_selected_100/ruby/abc358_e.rb) |
@@ -231,6 +231,7 @@
 | - | [ABC272/E](https://atcoder.jp/contests/abc272/tasks/abc272_e) | その他 | オーダーの見積もり | [ruby](atcoder_selected_100/ruby/abc272_e.rb) |
 | - | [ABC426/D](https://atcoder.jp/contests/abc426/tasks/abc426_d) | その他 | 最長連続区間, ランレングス圧縮 | [ruby](atcoder_selected_100/ruby/abc426_d.rb) |
 | - | [ABC287/E](https://atcoder.jp/contests/abc287/tasks/abc287_e) | その他 | 辞書順 | [ruby](atcoder_selected_100/ruby/abc287_e.rb) |
+| - | [ABC241/D](https://atcoder.jp/contests/abc241/tasks/abc241_d) | その他 | 順序付き集合 | [ruby](atcoder_selected_100/ruby/abc241_d.rb) |
 | 95 | [ABC149/B](https://atcoder.jp/contests/abc149/tasks/abc149_b) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc149_b.rb) |
 | 96 | [ABC139/D](https://atcoder.jp/contests/abc139/tasks/abc139_d) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc139_d.rb) |
 | 97 | [ABC150/D](https://atcoder.jp/contests/abc150/tasks/abc150_d) | 数学的な問題 | | [ruby](atcoder_selected_100/ruby/abc150_d.rb) |
