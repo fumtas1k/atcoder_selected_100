@@ -3,6 +3,7 @@
 # 数学的問題
 # min-plus半環
 # 繰り返し二乗法
+# ワーシャルフロイド法
 
 INF = 1 << 60
 N, K = gets.split.map(&:to_i)
