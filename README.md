@@ -266,6 +266,7 @@
 | - | [ABC442/E](https://atcoder.jp/contests/abc442/tasks/abc442_e) | 数学的な問題 | 偏角ソート | [ruby](atcoder_selected_100/ruby/abc442_e.rb) |
 | - | [ABC442/F](https://atcoder.jp/contests/abc442/tasks/abc442_f) | 数学的な問題 | 累積和, 動的計画法, バイト列 | [ruby](atcoder_selected_100/ruby/abc442_f.rb) |
 | - | [ABC445/F](https://atcoder.jp/contests/abc445/tasks/abc445_f) | 数学的な問題 | 繰り返し二乗法, min-plus半環, ワーシャルフロイド法 | [ruby](atcoder_selected_100/ruby/abc445_f.rb) |
+| - | [AWC0010/E](https://atcoder.jp/contests/awc0010/tasks/awc0010_e) | 数学的な問題 | スワップ回数(swap), サイクル数(cycle) | [ruby](atcoder_selected_100/ruby/awc0010_e.rb) |
 
 ## [Educational DP Contest/DPまとめコンテスト](https://atcoder.jp/contests/dp)
 
