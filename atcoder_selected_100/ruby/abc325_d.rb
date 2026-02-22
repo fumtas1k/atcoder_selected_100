@@ -6,32 +6,35 @@
 require "ac-library-rb/priority_queue"
 
 N = gets.to_i
-TD = Array.new(N) { gets.split.map(&:to_i).then { [_1[0], _1.sum ] } }.sort
+TD = Array.new(N) { gets.split.map(&:to_i).then { [_1[0], _1.sum] } }.sort
 
-# i = 商品のindex, t = 時間, ans = 答え
-i = t = ans = 0
-# ds = 商品が印字機の範囲外になる時間のリスト
-ds = AcLibraryRb::PriorityQueue.min([])
+i = ans = 0
+t = 0
+# 商品が印字機の範囲外になる時間のリスト
+pq = AcLibraryRb::PriorityQueue.min([])
+
 loop do
-  if ds.empty?
+  if pq.empty?
     break if i == N
     # 印字する商品がない場合は、商品が印字可能な時間に繰り上げ
     t = TD[i][0]
   end
 
-  # 印字機外になった商品(時間)を削除
-  ds.pop until ds.empty? || ds.first >= t
-
-  # 印字機に入る時間がtの商品の、印字範囲外になる時間をdsに詰める
+  # 時刻tに新たに印字機に入る商品を追加
   while i < N && TD[i][0] == t
-    ds << TD[i][1]
+    pq << TD[i][1]
     i += 1
   end
 
-  next if ds.empty?
-  # 印字する
-  ds.pop
-  ans += 1
+  # 期限切れの商品を除去
+  pq.pop while !pq.empty? && pq.first < t
+
+  # 期限が最も早い商品に印字
+  unless pq.empty?
+    pq.pop
+    ans += 1
+  end
+
   t += 1
 end
 
