@@ -114,6 +114,7 @@
 | 51 | [JOI2014YO/D](https://atcoder.jp/contests/joi2014yo/tasks/joi2014yo_d) | 動的計画法:ビットDP |  | [ruby](atcoder_selected_100/ruby/joi2014yo_d.rb) |
 | 52 | [JOI2017YO/D](https://atcoder.jp/contests/joi2017yo/tasks/joi2017yo_d) | 動的計画法:ビットDP |  | [ruby](atcoder_selected_100/ruby/joi2017yo_d.rb) |
 | - | [ABC215/E](https://atcoder.jp/contests/abc215/tasks/abc215_e) | 動的計画法:ビットDP |  | [ruby](atcoder_selected_100/ruby/abc215_e.rb) |
+| - | [AWC0023/E](https://atcoder.jp/contests/awc0023/tasks/awc0023_e) | 動的計画法:ビットDP | ビンパッキング問題 | [ruby1](atcoder_selected_100/ruby/awc0023_e_01.rb), [ruby2](atcoder_selected_100/ruby/awc0023_e_02.rb) |
 | - | [ABC326/E](https://atcoder.jp/contests/abc326/tasks/abc326_e) | 動的計画法:期待値DP | 累積和 | [ruby](atcoder_selected_100/ruby/abc326_e.rb) |
 | - | [ABC350/E](https://atcoder.jp/contests/abc350/tasks/abc350_e) | 動的計画法:期待値DP | メモ化再帰 | [ruby](atcoder_selected_100/ruby/abc350_e.rb) |
 | - | [ABC402/E](https://atcoder.jp/contests/abc402/tasks/abc402_e) | 動的計画法:期待値DP | ビットDP | [ruby](atcoder_selected_100/ruby/abc402_e.rb) |
