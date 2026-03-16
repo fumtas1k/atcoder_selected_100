@@ -23,6 +23,7 @@
 | - | [ABC440/C](https://atcoder.jp/contests/abc440/tasks/abc440_c) | 全探索:全列挙 | 尺取法 | [ruby](atcoder_selected_100/ruby/abc440_c.rb) |
 | - | [ABC444/E](https://atcoder.jp/contests/abc444/tasks/abc444_e) | 全探索:全列挙 | 尺取法, 順序付き集合, Fenwick Tree | [ruby1](atcoder_selected_100/ruby/abc444_e_01.rb),[ruby2](atcoder_selected_100/ruby/abc444_e_02.rb),[ruby3](atcoder_selected_100/ruby/abc444_e_03.rb), [kotlin](atcoder_selected_100/kotlin/abc444_e.kt) |
 | - | [ABC184/F](https://atcoder.jp/contests/abc184/tasks/abc184_f) | 全探索:全列挙 | 半分全列挙, 尺取法 | [ruby](atcoder_selected_100/ruby/abc184_f.rb) |
+| - | [AWC0026/E](https://atcoder.jp/contests/awc0026/tasks/awc0026_e) | 全探索:全列挙 | 尺取法, 単調デック, スライド最大, 最小| [ruby](atcoder_selected_100/ruby/awc0026_e.rb) |
 | 4 | [PAKENCAMP-2019-DAY3/C](https://atcoder.jp/contests/pakencamp-2019-day3/tasks/pakencamp_2019_day3_c) | 全探索:全列挙 | | [ruby](atcoder_selected_100/ruby/pakencamp-2019-day3_c.rb) |
 | - | [ABC390/D](https://atcoder.jp/contests/abc390/tasks/abc390_d) | 全探索:全列挙 | ベル数, 深さ優先探索 | [ruby](atcoder_selected_100/ruby/abc390_d.rb) |
 | 5 | [ABC095/C](https://atcoder.jp/contests/abc095/tasks/arc096_a) | 全探索:工夫して通り数を減らす全列挙 | | [ruby](atcoder_selected_100/ruby/abc095_c.rb) |
