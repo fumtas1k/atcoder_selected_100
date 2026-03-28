@@ -236,6 +236,7 @@
 | - | [DSL/G](https://onlinejudge.u-aizu.ac.jp/problems/DSL_2_G) | その他 | 遅延セグメント木, 区間和, 区間加算 | [ruby](atcoder_selected_100/ruby/dsl_2_g.rb) |
 | - | [DSL/H](https://onlinejudge.u-aizu.ac.jp/problems/DSL_2_H) | その他 | 遅延セグメント木, 区間最小値, 区間加算 | [ruby](atcoder_selected_100/ruby/dsl_2_h.rb) |
 | - | [DSL/I](https://onlinejudge.u-aizu.ac.jp/problems/DSL_2_I) | その他 | 遅延セグメント木, 区間和, 区間更新 | [ruby](atcoder_selected_100/ruby/dsl_2_i.rb) |
+| - | [AWC0014/E](https://atcoder.jp/contests/awc0014/tasks/awc0014_e) | その他 | Fenwick Tree, いもす法, 累積和, 区間更新, 区間和 | [ruby](atcoder_selected_100/ruby/awc0014_e.rb) |
 | - | [ABC407/F](https://atcoder.jp/contests/abc407/tasks/abc407_f) | その他 | カルテジアン木, いもす法, 累積和 | [ruby](atcoder_selected_100/ruby/abc407_f.rb) |
 | - | [ABC422/E](https://atcoder.jp/contests/abc422/tasks/abc422_e) | その他 | 乱択 | [ruby](atcoder_selected_100/ruby/abc422_e.rb) |
 | - | [ABC272/E](https://atcoder.jp/contests/abc272/tasks/abc272_e) | その他 | オーダーの見積もり | [ruby](atcoder_selected_100/ruby/abc272_e.rb) |
