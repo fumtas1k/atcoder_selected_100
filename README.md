@@ -42,6 +42,7 @@
 | - | [ABC359/D](https://atcoder.jp/contests/abc359/tasks/abc359_d) | 全探索:ビット全探索系 |  | [ruby](atcoder_selected_100/ruby/abc359_d.rb)|
 | - | [ABC404/D](https://atcoder.jp/contests/abc404/tasks/abc404_d) | 全探索:ビット全探索系 | 3進数で全探索 | [ruby](atcoder_selected_100/ruby/abc404_d.rb) | |
 | - | [ABC427/C](https://atcoder.jp/contests/abc427/tasks/abc427_c) | 全探索:ビット全探索 | 二部グラフの判定 | [ruby](atcoder_selected_100/ruby/abc427_c.rb) |
+| - | [AWC0038/E](https://atcoder.jp/contests/awc0038/tasks/awc0038_e) | 全探索:ビット全探索 | 半分全列挙 | [ruby](atcoder_selected_100/ruby/awc0038_e.rb) |
 | 15 | [ABC145/C](https://atcoder.jp/contests/abc145/tasks/abc145_c) | 全探索:順列全探索 | | [ruby](atcoder_selected_100/ruby/abc145_c.rb) |
 | 16 | [ABC150/C](https://atcoder.jp/contests/abc150/tasks/abc150_c) | 全探索:順列全探索 | | [ruby](atcoder_selected_100/ruby/abc150_c.rb) |
 | 17 | [SLDS1-13/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_13_A&lang=ja) | 全探索:順列全探索 | バックトラック法 | [ruby](atcoder_selected_100/ruby/alds1_13_a.rb) |
@@ -302,12 +303,12 @@
 | L | [Deque](https://atcoder.jp/contests/dp/tasks/dp_l) | 区間DP | バックトラック法 | [ruby](educational_dp/ruby/l.rb) |
 | M | [Candies](https://atcoder.jp/contests/dp/tasks/dp_m) |  | 累積和 | [ruby](educational_dp/ruby/m.rb) |
 | N | [Slimes](https://atcoder.jp/contests/dp/tasks/dp_n) | 区間DP | 累積和 | [ruby](educational_dp/ruby/n.rb) |
-| O | [Matching](https://atcoder.jp/contests/dp/tasks/dp_o) | bitDP | | [ruby](educational_dp/ruby/o.rb) |
+| O | [Matching](https://atcoder.jp/contests/dp/tasks/dp_o) | ビットDP | | [ruby](educational_dp/ruby/o.rb) |
 | P | [Independent Set](https://atcoder.jp/contests/dp/tasks/dp_p) | 木DP | | [ruby](educational_dp/ruby/p.rb) |
 | Q | [Flowers](https://atcoder.jp/contests/dp/tasks/dp_q) | | セグメント木 | [ruby](educational_dp/ruby/q.rb) |
 | S | [Digit Sum](https://atcoder.jp/contests/dp/tasks/dp_s) | 桁DP | | [ruby](educational_dp/ruby/s.rb), [JS](educational_dp/javascript/s.js) |
 | T | [Permutation](https://atcoder.jp/contests/dp/tasks/dp_t) | 挿入DP | | [ruby](educational_dp/ruby/t.rb) |
-| U | [Grouping](https://atcoder.jp/contests/dp/tasks/dp_u) | bitDP | | [ruby](educational_dp/ruby/u.rb) |
+| U | [Grouping](https://atcoder.jp/contests/dp/tasks/dp_u) | ビットDP | | [ruby](educational_dp/ruby/u.rb) |
 | V | [Subtree](https://atcoder.jp/contests/dp/tasks/dp_v) | 全方位木DP | 累積積 | [ruby](educational_dp/ruby/v.rb), [kotlin](educational_dp/kotlin/v.kt) |
 | X | [Tower](https://atcoder.jp/contests/dp/tasks/dp_x) | | | [ruby](educational_dp/ruby/x.rb) |
 | Y | [Gride 2](https://atcoder.jp/contests/dp/tasks/dp_y) |  | 包除原理 | [ruby](educational_dp/ruby/y.rb), [kotlin](educational_dp/kotlin/y.kt) |
