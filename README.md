@@ -139,7 +139,8 @@
 | - | [ABC436/F](https://atcoder.jp/contests/abc436/tasks/abc436_f) | 動的計画法:その他 | フェニック木, Fenwick Tree, BIT, 真ん中を固定する | [ruby](atcoder_selected_100/ruby/abc436_f.rb) |
 | - | [ABC392/F](https://atcoder.jp/contests/abc392/tasks/abc392_f) | 動的計画法:その他 | フェニック木, Fenwick Tree, BIT, 二分探索法, 後ろから考える | [ruby](atcoder_selected_100/ruby/abc392_f.rb) |
 | - | [ABC245/E](https://atcoder.jp/contests/abc245/tasks/abc245_e) | 動的計画法:その他 | フェニック木, Fenwick Tree, BIT, 二分探索法, 座標圧縮 | [ruby1](atcoder_selected_100/ruby/abc245_e_01.rb),[ruby2](atcoder_selected_100/ruby/abc245_e_02.rb) |
-| - | [ABC449/E](https://atcoder.jp/contests/abc449/tasks/abc449_e) | 動的計画法:その他 | フェニック木, Fenwick Tree, BIT, 二分探索法, クエリ先読み | [ruby1](atcoder_selected_100/ruby/abc449_e.rb) |
+| - | [ABC449/E](https://atcoder.jp/contests/abc449/tasks/abc449_e) | 動的計画法:その他 | フェニック木, Fenwick Tree, BIT, 二分探索法, クエリ先読み | [ruby](atcoder_selected_100/ruby/abc449_e.rb) |
+| - | [AWC0039/E](https://atcoder.jp/contests/awc0039/tasks/awc0039_e) | 動的計画法:その他 | フェニック木, Fenwick Tree, BIT, クエリ先読み | [ruby](atcoder_selected_100/ruby/awc0039_e.rb) |
 | - | [ABC312/D](https://atcoder.jp/contests/abc312/tasks/abc312_d) | 動的計画法:その他 | 括弧列の成立条件 | [ruby](atcoder_selected_100/ruby/abc312_d.rb) |
 | - | [ABC357/E](https://atcoder.jp/contests/abc357/tasks/abc357_e) | 動的計画法:その他 | 強連結成分分解 | [ruby](atcoder_selected_100/ruby/abc357_e.rb), [JS](atcoder_selected_100/javascript/abc357_e.js) |
 | - | [ABC358/E](https://atcoder.jp/contests/abc358/tasks/abc358_e) | 動的計画法:その他 | 組み合わせ, 逆元 | [ruby](atcoder_selected_100/ruby/abc358_e.rb) |
