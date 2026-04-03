@@ -176,6 +176,7 @@
 | - | [ABC443/D](https://atcoder.jp/contests/abc443/tasks/abc443_d) | 貪欲法 | スイープ法, 二方向貪欲法 | [ruby](atcoder_selected_100/ruby/abc443_d.rb) |
 | - | [AWC0019/E](https://atcoder.jp/contests/awc0019/tasks/awc0019_e) | 貪欲法 | 反悔貪欲, 交換論法 | [ruby](atcoder_selected_100/ruby/awc0019_e.rb) |
 | - | [AWC0026/D](https://atcoder.jp/contests/awc0026/tasks/awc0026_d) | 貪欲法 | 優先度付きキュー | [ruby](atcoder_selected_100/ruby/awc0026_d.rb) |
+| - | [AWC0040/D](https://atcoder.jp/contests/awc0040/tasks/awc0040_d) | 貪欲法 | 優先度付きキュー, 遅延評価 | [ruby](atcoder_selected_100/ruby/awc0040_d.rb) |
 | 68 | [NTL-1/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=NTL_1_A&lang=ja) | 素因数分解 | | [ruby](atcoder_selected_100/ruby/ntl_1_a.rb) |
 | - | [ABC254/D](https://atcoder.jp/contests/abc254/tasks/abc254_d) | 素因数分解 | 平方数 | [ruby1](atcoder_selected_100/ruby/abc254_d_1.rb),[ruby2](atcoder_selected_100/ruby/abc254_d_2.rb) |
 | - | [ABC400/E](https://atcoder.jp/contests/abc400/tasks/abc400_e) | 素因数分解 | 平方数 | [ruby](atcoder_selected_100/ruby/abc400_e.rb) |
