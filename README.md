@@ -152,6 +152,7 @@
 | - | [ABC417/D](https://atcoder.jp/contests/abc417/tasks/abc417_d) | 動的計画法:その他 | 累積和, 二分探索法, 後ろから考える | [ruby](atcoder_selected_100/ruby/abc417_d.rb) |
 | - | [ABC419/D](https://atcoder.jp/contests/abc419/tasks/abc419_d) | 動的計画法:その他 | 長さLの連続部分列の総和がMの倍数 | [ruby](atcoder_selected_100/ruby/abc419_d.rb) |
 | - | [ABC427/D](https://atcoder.jp/contests/abc427/tasks/abc427_d) | 動的計画法:その他 | ゲーム必勝法, 後ろから考える | [ruby](atcoder_selected_100/ruby/abc427_d.rb) |
+| - | [AWC0042/E](https://atcoder.jp/contests/awc0042/tasks/awc0042_e) | 動的計画法:その他 | スライド最大 | [ruby](atcoder_selected_100/ruby/awc0042_e.rb) |
 | 56 | [GRL-1/A](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_1_A&lang=ja) | 最短経路問題 | ダイクストラ法 | [ruby](atcoder_selected_100/ruby/grl_1_a.rb) |
 | 57 | [JOI2008YO/F](https://atcoder.jp/contests/joi2008yo/tasks/joi2008yo_f) | 最短経路問題 | ダイクストラ法 | [ruby1](atcoder_selected_100/ruby/joi2008yo_f_01.rb), [ruby2](atcoder_selected_100/ruby/joi2008yo_f_02.rb) |
 | 59 | [JOI2014YO/E](https://atcoder.jp/contests/joi2014yo/tasks/joi2014yo_e) | 最短経路問題 | ダイクストラ法, 幅優先探索, 優先度付キュー | [ruby](atcoder_selected_100/ruby/joi2014yo_e.rb) |
