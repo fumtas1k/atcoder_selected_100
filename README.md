@@ -183,6 +183,7 @@
 | - | [ABC400/E](https://atcoder.jp/contests/abc400/tasks/abc400_e) | 素因数分解 | 平方数 | [ruby](atcoder_selected_100/ruby/abc400_e.rb) |
 | 69 | [ABC084/D](https://atcoder.jp/contests/abc084/tasks/abc084_d) | 素因数分解 | 平方数, 累積和 | [ruby](atcoder_selected_100/ruby/abc084_d.rb) |
 | - | [ABC445/E](https://atcoder.jp/contests/abc445/tasks/abc445_e) | 素因数分解 | フェルマーの小定理 | [ruby](atcoder_selected_100/ruby/abc445_e.rb) |
+| - | [AWC0045/D](https://atcoder.jp/contests/awc0045/tasks/awc0045_d) | 素因数分解 | 最小素因数 | [ruby](atcoder_selected_100/ruby/awc0045_d.rb) |
 | 70 | [NTL-1/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=NTL_1_B&lang=ja) | 高度なべき乗計算 | | [ruby](atcoder_selected_100/ruby/ntl_1_b.rb) |
 | 71 | [S8PC-1/E](https://atcoder.jp/contests/s8pc-1/tasks/s8pc_1_e) | 高度なべき乗計算 | 累積和 | [ruby](atcoder_selected_100/ruby/s8pc_1_e.rb) |
 | 72 | [ABC034/C](https://atcoder.jp/contests/abc034/tasks/abc034_c) | 逆元 | | [ruby](atcoder_selected_100/ruby/abc034_c.rb) |
@@ -220,6 +221,7 @@
 | 90 | [S8PC-5/B](https://atcoder.jp/contests/s8pc-5/tasks/s8pc_5_b) | その他 | | [ruby](atcoder_selected_100/ruby/s8pc_5_b.rb) |
 | - | [ABC353/E](https://atcoder.jp/contests/abc353/tasks/abc353_e) | その他 | トライ木, tri木, Rolling Hash | [ruby1](atcoder_selected_100/ruby/abc353_e_01.rb), [ruby2](atcoder_selected_100/ruby/abc353_e_02.rb) |
 | - | [ABC430/E](https://atcoder.jp/contests/abc430/tasks/abc430_e) | その他 | z-algorithm, Rolling Hash | [ruby1](atcoder_selected_100/ruby/abc430_e_01.rb), [ruby2](atcoder_selected_100/ruby/abc430_e_02.rb) |
+| - | [AWC0045/B](https://atcoder.jp/contests/awc0045/tasks/awc0045_b) | その他 | KMP, Rolling Hash | [ruby1](atcoder_selected_100/ruby/awc0045_b_01.rb), [ruby2](atcoder_selected_100/ruby/awc0045_b_02.rb) |
 | - | [ABC189/C](https://atcoder.jp/contests/abc189/tasks/abc189_c) | その他 | スタック, ヒストグラム最大長方形 | [ruby](atcoder_selected_100/ruby/abc189_c.rb) |
 | - | [DPL-3/B](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_3_B&lang=ja) | その他 | スタック, ヒストグラム最大長方形 | [ruby](atcoder_selected_100/ruby/dpl_3_b.rb) |
 | - | [ABC359/E](https://atcoder.jp/contests/abc359/tasks/abc359_e) | その他 | スタック, ヒストグラム最大長方形 | [ruby](atcoder_selected_100/ruby/abc359_e.rb) |
