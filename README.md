@@ -132,7 +132,6 @@
 | 55 | [ABC134/E](https://atcoder.jp/contests/abc134/tasks/abc134_e) | 動的計画法:その他 | 最長増加部分列(LIS) | [ruby](atcoder_selected_100/ruby/abc134_e.rb) |
 | - | [ABC354/F](https://atcoder.jp/contests/abc354/tasks/abc354_f) | 動的計画法:その他 | 最長増加部分列(LIS), 前後を考える | [ruby](atcoder_selected_100/ruby/abc354_f.rb) |
 | - | [ABC439/E](https://atcoder.jp/contests/abc439/tasks/abc439_e) | 動的計画法:その他 | 最長増加部分列(LIS), 変換 | [ruby](atcoder_selected_100/ruby/abc439_e.rb) |
-| - | [ABC336/E](https://atcoder.jp/contests/abc336/tasks/abc336_e) | 動的計画法:その他 | 両端から計算 | [ruby](atcoder_selected_100/ruby/abc336_e.rb) |
 | - | [ABC340/E](https://atcoder.jp/contests/abc340/tasks/abc340_e) | 動的計画法:その他 | フェニック木, Fenwick Tree, BIT | [ruby](atcoder_selected_100/ruby/abc340_e.rb) |
 | - | [ABC216/G](https://atcoder.jp/contests/abc216/tasks/abc216_g) | 動的計画法:その他 | フェニック木, Fenwick Tree, BIT | [ruby](atcoder_selected_100/ruby/abc216_g.rb) |
 | - | [ABC389/F](https://atcoder.jp/contests/abc389/tasks/abc389_f) | 動的計画法:その他 | フェニック木, Fenwick Tree, BIT | [ruby](atcoder_selected_100/ruby/abc389_f.rb) |
@@ -174,7 +173,8 @@
 | - | [ABC230/D](https://atcoder.jp/contests/abc230/tasks/abc230_d) | 貪欲法 | 区間スケジューリング問題 | [ruby](atcoder_selected_100/ruby/abc230_d.rb) |
 | - | [AWC0004/D](https://atcoder.jp/contests/awc0004/tasks/awc0004_d) | 貪欲法 | 区間スケジューリング問題, セグメント木, 優先度付きキュー | [ruby1](atcoder_selected_100/ruby/awc0004_d_01.rb), [ruby2](atcoder_selected_100/ruby/awc0004_d_02.rb) |
 | - | [ABC441/C](https://atcoder.jp/contests/abc441/tasks/abc441_c) | 貪欲法 |  | [ruby](atcoder_selected_100/ruby/abc441_c.rb) |
-| - | [ABC443/D](https://atcoder.jp/contests/abc443/tasks/abc443_d) | 貪欲法 | スイープ法, 二方向貪欲法 | [ruby](atcoder_selected_100/ruby/abc443_d.rb) |
+| - | [ABC443/D](https://atcoder.jp/contests/abc443/tasks/abc443_d) | 貪欲法 | 動的計画法, スイープ法, 二方向貪欲法 | [ruby](atcoder_selected_100/ruby/abc443_d.rb) |
+| - | [ABC336/D](https://atcoder.jp/contests/abc336/tasks/abc336_d) | 貪欲法 | 動的計画法, スイープ法, 両端から計算 | [ruby](atcoder_selected_100/ruby/abc336_d.rb) |
 | - | [AWC0019/E](https://atcoder.jp/contests/awc0019/tasks/awc0019_e) | 貪欲法 | 反悔貪欲, 交換論法 | [ruby](atcoder_selected_100/ruby/awc0019_e.rb) |
 | - | [AWC0026/D](https://atcoder.jp/contests/awc0026/tasks/awc0026_d) | 貪欲法 | 優先度付きキュー | [ruby](atcoder_selected_100/ruby/awc0026_d.rb) |
 | - | [AWC0040/D](https://atcoder.jp/contests/awc0040/tasks/awc0040_d) | 貪欲法 | 優先度付きキュー, 遅延評価 | [ruby](atcoder_selected_100/ruby/awc0040_d.rb) |
