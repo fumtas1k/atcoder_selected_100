@@ -20,11 +20,14 @@ if MAX - K < 0
   exit
 end
 
-fact = [1] * (MAX + 1)
-inv_fact = [1] * (MAX + 1)
-(2 .. MAX).each do |i|
+fact = [1]
+inv_fact = []
+(1 .. MAX).each do |i|
   fact[i] = fact[i - 1] * i % MOD
-  inv_fact[i] = inv_fact[i - 1] * i.pow(MOD - 2, MOD) % MOD
+end
+inv_fact[MAX] = fact[MAX].pow(MOD - 2, MOD)
+MAX.downto(1) do |i|
+  inv_fact[i - 1] = inv_fact[i] * i % MOD
 end
 
 puts fact[N - K + 1] * inv_fact[K] % MOD * inv_fact[N - 2 * K + 1] % MOD

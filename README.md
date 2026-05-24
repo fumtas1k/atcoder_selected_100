@@ -189,6 +189,7 @@
 | 71 | [S8PC-1/E](https://atcoder.jp/contests/s8pc-1/tasks/s8pc_1_e) | 高度なべき乗計算 | 累積和 | [ruby](atcoder_selected_100/ruby/s8pc_1_e.rb) |
 | 72 | [ABC034/C](https://atcoder.jp/contests/abc034/tasks/abc034_c) | 逆元 | | [ruby](atcoder_selected_100/ruby/abc034_c.rb) |
 | 73 | [ABC145/D](https://atcoder.jp/contests/abc145/tasks/abc145_d) | 逆元 | | [ruby](atcoder_selected_100/ruby/abc145_d.rb) |
+| - | [ABC459/E](https://atcoder.jp/contests/abc459/tasks/abc459_e) | 逆元 | フェルマーの小定理, rが小さい場合は逐次計算 | [ruby1](atcoder_selected_100/ruby/abc459_e_01.rb), [ruby2](atcoder_selected_100/ruby/abc459_e_02.rb) |
 | 76 | [NIKKEI2019-FINAL/A](https://atcoder.jp/contests/nikkei2019-final/tasks/nikkei2019_final_a) | 累積和 | | [ruby](atcoder_selected_100/ruby/nikkei2019_final_a.rb) |
 | 77 | [JOI2010HO/A](https://atcoder.jp/contests/joi2010ho/tasks/joi2010ho_a) | 累積和 | | [ruby](atcoder_selected_100/ruby/joi2010ho_a.rb) |
 | - | [ABC233/D](https://atcoder.jp/contests/abc233/tasks/abc233_d) | 累積和 | | [ruby](atcoder_selected_100/ruby/abc233_d.rb) |
