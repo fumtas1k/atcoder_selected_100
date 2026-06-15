@@ -219,6 +219,7 @@
 | - | [CODE_THANKS_FESTIVAL_2017_OPEN/H](https://atcoder.jp/contests/code-thanks-festival-2017-open/tasks/code_thanks_festival_2017_h) | Union Find | 部分永続Union Find | [ruby1](atcoder_selected_100/ruby/code_thanks_festival_2017_h_01.rb), [ruby2](atcoder_selected_100/ruby/code_thanks_festival_2017_h_02.rb) |
 | - | [ABC404/C](https://atcoder.jp/contests/abc404/tasks/abc404_c) | Union Find | サイクルグラフ | [ruby](atcoder_selected_100/ruby/abc404_c.rb) |
 | - | [ABC436/E](https://atcoder.jp/contests/abc436/tasks/abc436_e) | Union Find | グラフで考える | [ruby](atcoder_selected_100/ruby/abc436_e.rb) |
+| - | [AWC0091/D](https://atcoder.jp/contests/awc0091/tasks/awc0091_d) | Union Find | 区間を連結成分で考える, オフラインクエリ処理 | [ruby](atcoder_selected_100/ruby/awc0091_d.rb) |
 | 88 | [JOI2008HO/A](https://atcoder.jp/contests/joi2008ho/tasks/joi2008ho_a) | 圧縮 | | [ruby](atcoder_selected_100/ruby/joi2008ho_a.rb) |
 | 89 | [JOI2013HO/1](https://atcoder.jp/contests/joi2013ho/tasks/joi2013ho1) | 圧縮 | | [ruby](atcoder_selected_100/ruby/joi2013ho_1.rb) |
 | 90 | [S8PC-5/B](https://atcoder.jp/contests/s8pc-5/tasks/s8pc_5_b) | その他 | | [ruby](atcoder_selected_100/ruby/s8pc_5_b.rb) |
