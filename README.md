@@ -274,7 +274,8 @@
 | - | [ABC396/F](https://atcoder.jp/contests/abc396/tasks/abc396_f) | 数学的な問題 | 転倒数, Fenwick Tree | [ruby](atcoder_selected_100/ruby/abc396_f.rb) |
 | - | [ABC441/E](https://atcoder.jp/contests/abc441/tasks/abc441_e) | 数学的な問題 | 転倒数, Fenwick Tree | [ruby1](atcoder_selected_100/ruby/abc441_e_01.rb),[ruby2](atcoder_selected_100/ruby/abc441_e_02.rb) |
 | - | [ABC357/D](https://atcoder.jp/contests/abc357/tasks/abc357_d) | 数学的な問題 | 等比数列の和の公式, 逆元 | [ruby](atcoder_selected_100/ruby/abc357_d.rb) |
-| - | [ABC367/F](https://atcoder.jp/contests/abc367/tasks/abc367_f) | 数学的な問題 | Schwartz–Zippel lemma, Zobrist Hash | [ruby](atcoder_selected_100/ruby/abc367_f.rb) |
+| - | [ABC367/F](https://atcoder.jp/contests/abc367/tasks/abc367_f) | 数学的な問題 | Schwartz–Zippel lemma, Zobrist Hash(SUM) | [ruby](atcoder_selected_100/ruby/abc367_f.rb) |
+| - | [ABC367/F](https://atcoder.jp/contests/abc250/tasks/abc250_e) | 数学的な問題 | Zobrist Hash(XOR) | [ruby](atcoder_selected_100/ruby/abc250_e.rb) |
 | - | [ABC377/E](https://atcoder.jp/contests/abc377/tasks/abc377_e) | 数学的な問題 | ダブリング, 鳩の巣原理, グラフ, 循環, 周期 | [ruby](atcoder_selected_100/ruby/abc377_e.rb) |
 | - | [ABC377/E](https://atcoder.jp/contests/abc438/tasks/abc438_e) | 数学的な問題 | ダブリング | [ruby](atcoder_selected_100/ruby/abc438_e.rb) |
 | - | [ABC448/E](https://atcoder.jp/contests/abc448/tasks/abc448_e) | 数学的な問題 | ダブリング | [ruby](atcoder_selected_100/ruby/abc448_e.rb) |
