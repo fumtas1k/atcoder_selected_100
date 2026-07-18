@@ -301,6 +301,7 @@
 | - | [ABC446/F](https://atcoder.jp/contests/abc446/tasks/abc446_f) | 数学的な問題 | 有効グラフ | [ruby](atcoder_selected_100/ruby/abc446_f.rb) |
 | - | [ABC448/F](https://atcoder.jp/contests/abc448/tasks/abc448_f) | 数学的な問題 | Mo’s algorithm風蛇行ソート, ハミルトンサイクル | [ruby](atcoder_selected_100/ruby/abc448_f.rb) |
 | - | [ABC460/E](https://atcoder.jp/contests/abc460/tasks/abc460_e) | 数学的な問題 | 桁数分割, フェルマーの小定理, 最大公約数, 同値関係と周期性 | [ruby](atcoder_selected_100/ruby/abc460_e.rb) |
+| - | [ABC467/D](https://atcoder.jp/contests/abc467/tasks/abc467_d) | 数学的な問題 | 外積による平行判定, 係数の標準化 | [ruby](atcoder_selected_100/ruby/abc467_d.rb) |
 
 ## [Educational DP Contest/DPまとめコンテスト](https://atcoder.jp/contests/dp)
 
