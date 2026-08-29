@@ -175,6 +175,7 @@
 | - | [ABC325/D](https://atcoder.jp/contests/abc325/tasks/abc325_d) | 貪欲法 | 優先度付きキュー | [ruby](atcoder_selected_100/ruby/abc325_d.rb) |
 | - | [ABC230/D](https://atcoder.jp/contests/abc230/tasks/abc230_d) | 貪欲法 | 区間スケジューリング問題 | [ruby](atcoder_selected_100/ruby/abc230_d.rb) |
 | - | [AWC0004/D](https://atcoder.jp/contests/awc0004/tasks/awc0004_d) | 貪欲法 | 区間スケジューリング問題, セグメント木, 優先度付きキュー | [ruby1](atcoder_selected_100/ruby/awc0004_d_01.rb), [ruby2](atcoder_selected_100/ruby/awc0004_d_02.rb) |
+| - | [ABC473/E](https://atcoder.jp/contests/abc473/tasks/abc473_e) | 貪欲法 | 区間スケジューリング問題, 累積和 | [ruby1](atcoder_selected_100/ruby/abc473_e_01.rb), [ruby2](atcoder_selected_100/ruby/abc473_e_02.rb) |
 | - | [ABC441/C](https://atcoder.jp/contests/abc441/tasks/abc441_c) | 貪欲法 |  | [ruby](atcoder_selected_100/ruby/abc441_c.rb) |
 | - | [ABC443/D](https://atcoder.jp/contests/abc443/tasks/abc443_d) | 貪欲法 | 動的計画法, スイープ法, 二方向貪欲法 | [ruby](atcoder_selected_100/ruby/abc443_d.rb) |
 | - | [ABC336/D](https://atcoder.jp/contests/abc336/tasks/abc336_d) | 貪欲法 | 動的計画法, スイープ法, 両端から計算 | [ruby](atcoder_selected_100/ruby/abc336_d.rb) |
