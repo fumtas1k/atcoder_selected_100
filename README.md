@@ -145,6 +145,7 @@
 | - | [ABC475/E](https://atcoder.jp/contests/abc475/tasks/abc475_e) | 動的計画法:その他 | フェニック木, Fenwick Tree, BIT, クエリ先読み, ビット列への言い換え, 貪欲法 | [ruby](atcoder_selected_100/ruby/abc475_e.rb) |
 | - | [ABC312/D](https://atcoder.jp/contests/abc312/tasks/abc312_d) | 動的計画法:その他 | 括弧列の成立条件 | [ruby](atcoder_selected_100/ruby/abc312_d.rb) |
 | - | [ABC357/E](https://atcoder.jp/contests/abc357/tasks/abc357_e) | 動的計画法:その他 | 強連結成分分解 | [ruby](atcoder_selected_100/ruby/abc357_e.rb), [JS](atcoder_selected_100/javascript/abc357_e.js) |
+| - | [ABC478/E](https://atcoder.jp/contests/abc478/tasks/abc478_e) | 動的計画法:その他 | 強連結成分分解,トポロジカルソート | [ruby](atcoder_selected_100/ruby/abc478_e.rb) |
 | - | [ABC358/E](https://atcoder.jp/contests/abc358/tasks/abc358_e) | 動的計画法:その他 | 組み合わせ, 逆元 | [ruby](atcoder_selected_100/ruby/abc358_e.rb) |
 | - | [ABC425/E](https://atcoder.jp/contests/abc425/tasks/abc425_e) | 動的計画法:その他 | 組み合わせ, パスカルの三角形 | [ruby](atcoder_selected_100/ruby/abc425_e.rb) |
 | - | [AWC0037/D](https://atcoder.jp/contests/awc0037/tasks/awc0037_d) | 動的計画法:その他 | 重複組み合わせ, 逆元, フェルマーの小定理, 二項係数 | [ruby](atcoder_selected_100/ruby/awc0037_d.rb) |
